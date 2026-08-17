@@ -1,0 +1,95 @@
+---
+title: "Introduction to EDUC 219"
+subtitle: "Schooling for Diverse Populations in American Society - Howard University"
+author: "Nathan Alexander, PhD"
+institute: "School of Education"
+format: 
+  html: default
+  revealjs:
+    output-file: module00-slides.html
+    height: 900
+    width: 1600
+    smaller: false
+    slide-number: c/t
+    logo: "img/howard-logo.jpg"
+    footer: "[Course Website](https://educ-219.github.io/fa26)"
+    toc: true
+    toc-depth: 3
+    echo: true
+    incremental: false
+---
+
+# Course description
+
+This course provides candidates with knowledge, skills, dispositions and pedagogy to deliver content-rich, rigorous mathematics and science instruction for African American and diverse urban learners in grades 4 – 6. Candidates will have opportunities to employ a variety of instructional strategies to integrate mathematics and science content and the Common Core State Standards through the Principles of Learning Mathematics and Science. Field-based experiences provide an opportunity for candidates to design, develop and implement evidence-based lessons in science and mathematics.
+
+This course has a particular emphasis on K-6 school settings.
+
+# Instructor
+
+**Nathan Alexander, PhD**
+
+*School of Education*
+
+-   Department of Curriculum and Instruction
+-   Miner Building 122H
+
+*The Graduate School*
+
+-   Program in Applied Data Science and Analytics
+-   Annex III Room 208
+
+------------------------------------------------------------------------
+
+## Instructor contact details
+
+-   Office Hours:
+
+    -   Office location: Miner Building 122H (Curriculum and Instruction)
+
+    -   Monday and Wednesday after class or by appointment
+
+    -   Appointment Link: <https://nathanalexander.youcanbook.me/>
+
+-   Email: [nathan.alexander\@howard.edu](mailto:nathan.alexander@howard.edu)
+
+-   Course Site: [https://canvas.howard.edu/courses/](https://canvas.howard.edu/courses/70108){.uri}[70108](https://canvas.howard.edu/courses/70108/)
+
+# Course objectives
+
+Upon successfully completing the course, you will be able to:
+
+- Explore social, political, and economic theories and research which distinguish between multiculturalism, diversity, and social justice constructs that have shaped and continue to shape American schools and educational practices.
+
+- Contrast the ideal of education and the reality of schooling in America for children from diverse racial, cultural, and linguistic backgrounds by exploring theories and research on stereotypes, prejudice, discrimination, and the dynamics of power and privilege, and interlocking systems of oppression within society that impact teaching and learning.
+
+- Explain the historical roots and trajectories of prejudice in the United States; and integrate culturally relevant education in the curriculum and or practice.
+
+- Develop learning experiences that are informed by the personal, social, cultural, historical context of students and their communities.
+
+- Demonstrate evidence of a professional identity that challenges the status quo and reflects a sense of agency with regard to the education of African American and other diverse students.
+
+---
+
+## What is this course about?
+
+EDUC 219 examines the philosophy, history, and sociology of American education, with particular attention to the role of diversity in the development and operation of schools.
+
+We will consider how social, political, and economic forces have shaped—and continue to shape—educational practices and opportunities in the United States.
+
+
+---
+
+## Core areas of inquiry
+
+Race, culture, language, gender, income, and ability
+
+Education, democracy, and social justice
+
+Power, privilege, prejudice, and discrimination
+
+Educational access and unequal opportunity
+
+Historical and contemporary educational policy
+
+Teaching, learning, identity, and community
