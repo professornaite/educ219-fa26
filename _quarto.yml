@@ -5,7 +5,7 @@ project:
 website:
   page-navigation: true
   title: "EDUC 219: Principles of Teaching Math and Science in Urban Classrooms II"
-  description: "Course site for EDUC 315 at Howard University"
+  description: "Course site for EDUC 219 at Howard University"
   site-url: "https://educ219-fa26.github.io"
   
   repo-url: "https://github.com/professornaite/educ219-fa26/"
@@ -18,18 +18,16 @@ website:
     background: "#ccb6b1"
    
   sidebar:
-    background: "#ccb6b4"
-    logo: "img/gladys-west.png"
+    logo: "img/carter-g-woodson.jpg"
     pinned: true
     align: center
     tools: 
       - icon: github
-        href: https://professornaite.github.io/educ315-fa26/
+        href: https://professornaite.github.io/educ219-fa26/
         text: "GitHub page"
       - icon: code-square
-        href: https://canvas.howard.edu/courses/70143
+        href: https://canvas.howard.edu/courses/70108
         text: "Canvas site"
-  
     style: "docked"
     search: true
     collapse-level: 1
@@ -60,28 +58,33 @@ website:
           text: Module 5
         - href: modules/module06.qmd
           text: Module 6
+        - href: modules/module07.qmd
+          text: Module 7
+        - href: modules/module08.qmd
+          text: Module 8
     - section: "Rubrics"
       contents:
-        - href: other/math-corner.qmd
-          text: Math corner activity
-        - href: other/math-lesson1.qmd
-        - href: other/historical.qmd
-          text: Historical STEM figure
-    - section: "Field experience"
+        - href: other/philosophy.qmd
+          text: Philosophy of education
+        - href: other/archive.qmd
+          text: Historical artifacts
+        - href: other/trial.qmd
+          text: Trial reenactment
+    - section: "Supreme Court Trials"
       contents:
-        - href: field/expectations.qmd
-          text: Expectations
-        - href: field/weekly.qmd
-          text: Weekly schedules
+        - href: trials/plessy-ferguson.qmd
+          text: Plessy v. Ferguson (1896)
+        - href: trials/brown-board.qmd
+          text: Brown v. Board (1954)
 
 format:
   html:
     theme:
-      light: [spacelab, style/data202.scss]
-      dark: [spacelab, style/data202.scss, style/theme-dark.scss]
+      light: [spacelab, style/school-house.scss]
+      dark: [spacelab, style/school-house.scss, style/theme-dark.scss]
     mainfont: "Atkinson Hyperlegible"
     callout-appearance: simple
-    colorlinnks: true
+    colorlinks: true
     code-copy: true
     code-overflow: wrap
     toc: true

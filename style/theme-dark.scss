@@ -1,26 +1,134 @@
 /*-- scss:defaults --*/
 
-// Base document colors
-$body-bg: #181818;
-$body-color: white;
-$link-color: #FFFFFF;
+@import url("https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible:wght@400;700&display=swap");
 
-$light: #525252;
+// Dark-mode classroom palette
+$chalkboard: #16212D;
+$chalkboard-light: #223445;
+$paper-dark: #1C2A38;
+$chalk-line: #EAF1F7;
+
+$school-yellow: #F2C94C;
+$school-yellow-light: #FFE69A;
+
+$notebook-blue-light: #8FC4F3;
+$notebook-blue-hover: #B9DCFA;
+$pencil-light: #C8D3DB;
+
+// Base document colors
+$font-family-sans-serif: "Atkinson Hyperlegible", sans-serif;
+$body-font-family: $font-family-sans-serif;
+
+$body-bg: $chalkboard;
+$body-color: $chalk-line;
+
+$link-color: $notebook-blue-light;
+$link-hover-color: $notebook-blue-hover;
+
+$headings-color: $school-yellow-light;
 
 // Navigation element colors
-$footer-bg: #181818;
-$navbar-bg: #303030;
-$sidebar-bg: #303030;
+$footer-bg: #111A23;
+$navbar-bg: $chalkboard-light;
+$sidebar-bg: $chalkboard-light;
 
-// Code blocks
-$code-block-bg-alpha: -.8;
+// Code blocks and interface elements
+$code-color: $school-yellow-light;
+$code-bg: #101820;
+$pre-bg: #101820;
 
-// Bootstrap popovers
-$popover-bg: #242424;
+$border-color: #405466;
+$input-bg: #101820;
+$input-color: $chalk-line;
+$input-border-color: #526A7D;
 
-// Bootstrap inputs
-$input-bg: #242424;
+$popover-bg: #1D2C3A;
 
 
 /*-- scss:rules --*/
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  color: $school-yellow-light;
+}
+
+a {
+  color: $notebook-blue-light;
+  text-decoration-color: rgba($notebook-blue-light, 0.55);
+  text-underline-offset: 0.16em;
+
+  &:hover,
+  &:focus {
+    color: $notebook-blue-hover;
+    text-decoration-color: $notebook-blue-hover;
+  }
+}
+
+/* Sidebar links remain paper-like; active page receives a yellow cue */
+#quarto-sidebar,
+.sidebar {
+  color: $chalk-line;
+}
+
+.sidebar .sidebar-title,
+.sidebar .sidebar-item-text,
+.sidebar .sidebar-link,
+.sidebar .menu-text,
+.sidebar .sidebar-tools-main a,
+.sidebar .sidebar-tools-main .bi {
+  color: $chalk-line;
+}
+
+.sidebar .sidebar-item-section > .sidebar-item-container > .sidebar-item-text {
+  color: $school-yellow-light;
+  font-weight: 700;
+}
+
+.sidebar .sidebar-item-container .sidebar-link:hover,
+.sidebar .sidebar-item-container .nav-link:hover {
+  background-color: rgba($school-yellow, 0.14);
+  color: $school-yellow-light;
+  border-radius: 0.3rem;
+}
+
+div.sidebar-item-container .active,
+div.sidebar-item-container .show > .nav-link,
+div.sidebar-item-container .sidebar-link > code {
+  color: $school-yellow-light;
+  background-color: rgba($school-yellow, 0.16);
+  border-left: 4px solid $school-yellow;
+  border-radius: 0.2rem;
+  font-weight: 700;
+}
+
+/* Callout/project cards in dark mode */
+.project {
+  background-color: $paper-dark;
+  border: 2px solid rgba($school-yellow, 0.7);
+  border-radius: 0.35rem;
+  box-shadow: 3px 3px 0 rgba($school-yellow, 0.12);
+}
+
+/* Dark-mode footer */
+.nav-footer,
+.footer,
+#quarto-footer {
+  color: $pencil-light;
+}
+
+.nav-footer a,
+.footer a,
+#quarto-footer a {
+  color: $notebook-blue-light;
+}
+
+pre,
+div.sourceCode {
+  border: 1px solid #405466;
+  border-radius: 0.3rem;
+}
 

@@ -1,0 +1,165 @@
+/*-- scss:defaults --*/
+
+@import url("https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible:wght@400;700&display=swap");
+
+// Elementary-school palette
+$school-yellow: #F2C94C;
+$school-yellow-light: #FFF3BF;
+$school-gold: #B8860B;
+$paper: #FFFDF4;
+$notebook-blue: #174A7E;
+$notebook-blue-hover: #2F6FAE;
+$pencil-gray: #5D6D74;
+$ink: #172B3A;
+
+// Base page styling
+$font-family-sans-serif: "Atkinson Hyperlegible", sans-serif;
+$body-font-family: $font-family-sans-serif;
+$body-bg: $paper;
+$body-color: $ink;
+
+$link-color: $notebook-blue;
+$link-hover-color: $notebook-blue-hover;
+
+$headings-color: $notebook-blue;
+$headings-font-weight: 700;
+
+// Quarto / Bootstrap structural colors
+$sidebar-bg: $school-yellow;
+$footer-bg: $school-gold;
+$navbar-bg: $school-yellow;
+
+$border-color: #D4C68F;
+$input-bg: #FFFFFF;
+$input-border-color: #B8A14C;
+
+$code-color: $notebook-blue;
+$code-bg: #F8F2D8;
+$pre-bg: #F8F2D8;
+
+
+/*-- scss:rules --*/
+
+body {
+  background-color: $paper;
+  color: $ink;
+}
+
+/* Main headings: notebook-ink blue */
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  color: $notebook-blue;
+}
+
+/* Notebook-ink links */
+a {
+  color: $notebook-blue;
+  text-decoration-color: rgba($notebook-blue, 0.45);
+  text-underline-offset: 0.16em;
+
+  &:hover,
+  &:focus {
+    color: $notebook-blue-hover;
+    text-decoration-color: $notebook-blue-hover;
+  }
+}
+
+/* Course-project or assignment cards */
+.project {
+  padding: 1em 1.15em;
+  margin-bottom: 15px;
+  background-color: $school-yellow-light;
+  border: 2px solid $school-gold;
+  border-radius: 0.35rem;
+  box-shadow: 3px 3px 0 rgba($notebook-blue, 0.14);
+}
+
+/* Sidebar: ensure all navigation text uses dark ink on yellow */
+#quarto-sidebar,
+.sidebar {
+  color: $ink;
+}
+
+.sidebar .sidebar-title,
+.sidebar .sidebar-item-text,
+.sidebar .sidebar-link,
+.sidebar .menu-text,
+.sidebar .sidebar-tools-main a,
+.sidebar .sidebar-tools-main .bi {
+  color: $ink;
+}
+
+/* Section labels such as Course Information, Modules, Rubrics */
+.sidebar .sidebar-item-section > .sidebar-item-container > .sidebar-item-text {
+  color: $notebook-blue;
+  font-weight: 700;
+  letter-spacing: 0.02em;
+}
+
+/* Navigation hover and current-page state */
+.sidebar .sidebar-item-container .sidebar-item-text:hover,
+.sidebar .sidebar-item-container .sidebar-link:hover,
+.sidebar .sidebar-item-container .nav-link:hover {
+  color: $notebook-blue;
+  background-color: rgba($paper, 0.7);
+  border-radius: 0.3rem;
+}
+
+div.sidebar-item-container .active,
+div.sidebar-item-container .show > .nav-link,
+div.sidebar-item-container .sidebar-link > code {
+  color: $notebook-blue;
+  background-color: $school-yellow-light;
+  border-left: 4px solid $notebook-blue;
+  border-radius: 0.2rem;
+  font-weight: 700;
+}
+
+/* Sidebar search input */
+.sidebar input[type="search"],
+.sidebar .search-input {
+  color: $ink;
+  background-color: $paper;
+  border: 1px solid $school-gold;
+}
+
+.sidebar input[type="search"]:focus,
+.sidebar .search-input:focus {
+  border-color: $notebook-blue;
+  box-shadow: 0 0 0 0.2rem rgba($notebook-blue, 0.18);
+}
+
+/* Footer: retain dark, readable ink over a darker gold background */
+.nav-footer,
+.footer,
+#quarto-footer {
+  color: $ink;
+}
+
+.nav-footer a,
+.footer a,
+#quarto-footer a {
+  color: $notebook-blue;
+  text-decoration-color: rgba($notebook-blue, 0.55);
+}
+
+.nav-footer a:hover,
+.footer a:hover,
+#quarto-footer a:hover {
+  color: #0E355F;
+}
+
+/* Code should read as classroom handouts rather than a dark terminal */
+pre,
+div.sourceCode {
+  border: 1px solid #DDCF94;
+  border-radius: 0.3rem;
+}
+
+code {
+  color: $notebook-blue;
+}

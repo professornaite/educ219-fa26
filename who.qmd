@@ -1,9 +1,9 @@
 ---
 title: "Who is in the site photo?"
-subtitle: "Meet Gladys West"
+subtitle: "Meet Carter G. Woodson"
 ---
 
-![Gladys West](img/gladys-west.png){width="80%"}
+![Gladys West](img/carter-g-woodson.jpg){width="80%"}
 
 Gladys Mae West, born on October 27, 1930, in Sutherland, Virginia, is a pioneering mathematician whose work significantly contributed to the development of the Global Positioning System (GPS). After earning her Bachelor’s degree in mathematics from Virginia State College in 1952 and a Master’s degree in 1955, she began her career at the U.S. Naval Proving Ground, where she developed mathematical models that accurately represented the Earth's shape, essential for GPS technology.
 
