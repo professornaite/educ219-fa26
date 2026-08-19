@@ -4,11 +4,11 @@ project:
 
 website:
   page-navigation: true
-  title: "EDUC 315: Principles of Teaching Math and Science in Urban Classrooms II"
+  title: "EDUC 219: Principles of Teaching Math and Science in Urban Classrooms II"
   description: "Course site for EDUC 315 at Howard University"
-  site-url: "https://educ315-fa26.github.io"
+  site-url: "https://educ219-fa26.github.io"
   
-  repo-url: "https://github.com/professornaite/educ315-fa26/"
+  repo-url: "https://github.com/professornaite/educ219-fa26/"
   
   open-graph: true
 
