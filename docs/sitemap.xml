@@ -1,10 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://professornaite.github.io/educ219-fa26/index.html</loc>
-    <lastmod>2026-08-19T06:45:59.433Z</lastmod>
-  </url>
-  <url>
     <loc>https://professornaite.github.io/educ219-fa26/standards/osse.html</loc>
     <lastmod>2026-08-17T15:13:28.626Z</lastmod>
   </url>
@@ -17,12 +13,148 @@
     <lastmod>2026-08-19T06:30:26.180Z</lastmod>
   </url>
   <url>
+    <loc>https://professornaite.github.io/educ219-fa26/modules/module00-slides.html</loc>
+    <lastmod>2026-08-19T06:30:26.180Z</lastmod>
+  </url>
+  <url>
+    <loc>https://professornaite.github.io/educ219-fa26/modules/module03.html</loc>
+    <lastmod>2026-08-19T06:30:04.516Z</lastmod>
+  </url>
+  <url>
+    <loc>https://professornaite.github.io/educ219-fa26/modules/module03-slides.html</loc>
+    <lastmod>2026-08-19T06:30:04.516Z</lastmod>
+  </url>
+  <url>
+    <loc>https://professornaite.github.io/educ219-fa26/modules/module06.html</loc>
+    <lastmod>2026-08-19T06:29:41.756Z</lastmod>
+  </url>
+  <url>
+    <loc>https://professornaite.github.io/educ219-fa26/modules/module06-slides.html</loc>
+    <lastmod>2026-08-19T06:29:41.756Z</lastmod>
+  </url>
+  <url>
+    <loc>https://professornaite.github.io/educ219-fa26/modules/module05.html</loc>
+    <lastmod>2026-08-19T06:29:49.746Z</lastmod>
+  </url>
+  <url>
+    <loc>https://professornaite.github.io/educ219-fa26/modules/module05-slides.html</loc>
+    <lastmod>2026-08-19T06:29:49.746Z</lastmod>
+  </url>
+  <url>
     <loc>https://professornaite.github.io/educ219-fa26/modules/module09.html</loc>
     <lastmod>2026-08-19T06:29:27.762Z</lastmod>
   </url>
   <url>
+    <loc>https://professornaite.github.io/educ219-fa26/modules/module09-slides.html</loc>
+    <lastmod>2026-08-19T06:29:27.762Z</lastmod>
+  </url>
+  <url>
+    <loc>https://professornaite.github.io/educ219-fa26/index.html</loc>
+    <lastmod>2026-08-19T06:45:59.433Z</lastmod>
+  </url>
+  <url>
+    <loc>https://professornaite.github.io/educ219-fa26/who.html</loc>
+    <lastmod>2026-08-19T06:33:21.588Z</lastmod>
+  </url>
+  <url>
+    <loc>https://professornaite.github.io/educ219-fa26/assignments/trials.html</loc>
+    <lastmod>2026-08-19T05:37:51.905Z</lastmod>
+  </url>
+  <url>
+    <loc>https://professornaite.github.io/educ219-fa26/assignments/trials-slides.html</loc>
+    <lastmod>2026-08-19T05:37:51.905Z</lastmod>
+  </url>
+  <url>
+    <loc>https://professornaite.github.io/educ219-fa26/assignments/quizzes.html</loc>
+    <lastmod>2026-08-19T05:44:24.267Z</lastmod>
+  </url>
+  <url>
+    <loc>https://professornaite.github.io/educ219-fa26/assignments/quizzes-slides.html</loc>
+    <lastmod>2026-08-19T05:44:24.267Z</lastmod>
+  </url>
+  <url>
+    <loc>https://professornaite.github.io/educ219-fa26/assignments.html</loc>
+    <lastmod>2026-08-19T06:32:43.320Z</lastmod>
+  </url>
+  <url>
+    <loc>https://professornaite.github.io/educ219-fa26/trials/plessy-ferguson.html</loc>
+    <lastmod>2026-08-19T05:49:58.356Z</lastmod>
+  </url>
+  <url>
+    <loc>https://professornaite.github.io/educ219-fa26/trials/plessy-ferguson-slides.html</loc>
+    <lastmod>2026-08-19T05:49:58.356Z</lastmod>
+  </url>
+  <url>
+    <loc>https://professornaite.github.io/educ219-fa26/trials/brown-board-slides.html</loc>
+    <lastmod>2026-08-19T06:33:51.903Z</lastmod>
+  </url>
+  <url>
+    <loc>https://professornaite.github.io/educ219-fa26/trials/brown-board.html</loc>
+    <lastmod>2026-08-19T06:33:51.903Z</lastmod>
+  </url>
+  <url>
+    <loc>https://professornaite.github.io/educ219-fa26/assignments/documentation-slides.html</loc>
+    <lastmod>2026-08-19T05:43:53.263Z</lastmod>
+  </url>
+  <url>
     <loc>https://professornaite.github.io/educ219-fa26/assignments/documentation.html</loc>
     <lastmod>2026-08-19T05:43:53.263Z</lastmod>
+  </url>
+  <url>
+    <loc>https://professornaite.github.io/educ219-fa26/assignments/philosophy-of-education-slides.html</loc>
+    <lastmod>2026-08-19T05:38:13.765Z</lastmod>
+  </url>
+  <url>
+    <loc>https://professornaite.github.io/educ219-fa26/assignments/philosophy-of-education.html</loc>
+    <lastmod>2026-08-19T05:38:13.765Z</lastmod>
+  </url>
+  <url>
+    <loc>https://professornaite.github.io/educ219-fa26/assignments/artifacts-slides.html</loc>
+    <lastmod>2026-08-19T05:45:07.409Z</lastmod>
+  </url>
+  <url>
+    <loc>https://professornaite.github.io/educ219-fa26/assignments/artifacts.html</loc>
+    <lastmod>2026-08-19T05:45:07.409Z</lastmod>
+  </url>
+  <url>
+    <loc>https://professornaite.github.io/educ219-fa26/course-overview.html</loc>
+    <lastmod>2026-08-19T06:32:37.518Z</lastmod>
+  </url>
+  <url>
+    <loc>https://professornaite.github.io/educ219-fa26/modules/module08-slides.html</loc>
+    <lastmod>2026-08-19T06:29:15.704Z</lastmod>
+  </url>
+  <url>
+    <loc>https://professornaite.github.io/educ219-fa26/modules/module08.html</loc>
+    <lastmod>2026-08-19T06:29:15.704Z</lastmod>
+  </url>
+  <url>
+    <loc>https://professornaite.github.io/educ219-fa26/modules/module04-slides.html</loc>
+    <lastmod>2026-08-19T06:29:57.499Z</lastmod>
+  </url>
+  <url>
+    <loc>https://professornaite.github.io/educ219-fa26/modules/module04.html</loc>
+    <lastmod>2026-08-19T06:29:57.499Z</lastmod>
+  </url>
+  <url>
+    <loc>https://professornaite.github.io/educ219-fa26/modules/module07-slides.html</loc>
+    <lastmod>2026-08-19T06:29:35.228Z</lastmod>
+  </url>
+  <url>
+    <loc>https://professornaite.github.io/educ219-fa26/modules/module07.html</loc>
+    <lastmod>2026-08-19T06:29:35.228Z</lastmod>
+  </url>
+  <url>
+    <loc>https://professornaite.github.io/educ219-fa26/modules/module02-slides.html</loc>
+    <lastmod>2026-08-19T06:30:12.071Z</lastmod>
+  </url>
+  <url>
+    <loc>https://professornaite.github.io/educ219-fa26/modules/module02.html</loc>
+    <lastmod>2026-08-19T06:30:12.071Z</lastmod>
+  </url>
+  <url>
+    <loc>https://professornaite.github.io/educ219-fa26/modules/module01-slides.html</loc>
+    <lastmod>2026-08-19T06:33:03.165Z</lastmod>
   </url>
   <url>
     <loc>https://professornaite.github.io/educ219-fa26/modules/module01.html</loc>
@@ -35,9 +167,5 @@
   <url>
     <loc>https://professornaite.github.io/educ219-fa26/standards/common.html</loc>
     <lastmod>2024-08-29T20:06:14.000Z</lastmod>
-  </url>
-  <url>
-    <loc>https://professornaite.github.io/educ219-fa26/course-overview.html</loc>
-    <lastmod>2026-08-19T06:32:37.518Z</lastmod>
   </url>
 </urlset>

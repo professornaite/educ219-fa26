@@ -1,5 +1,0 @@
-\contentsline {section}{\numberline {1}Module overview}{1}{section.1}%
-\contentsline {section}{\numberline {2}Guiding questions}{1}{section.2}%
-\contentsline {section}{\numberline {3}Key concepts}{1}{section.3}%
-\contentsline {section}{\numberline {4}Readings and activities}{2}{section.4}%
-\providecommand \tocbasic@end@toc@file {}\tocbasic@end@toc@file 
