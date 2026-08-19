@@ -235,8 +235,8 @@ Trial groups will:
 Use the course website and Canvas throughout the semester:
 
 -   [Assignments and grading](../assignments.qmd)
--   [Historical artifacts](../artifacts.qmd)
--   [Historical documentation](../documentation.qmd)
--   [Personal philosophy of education](../philosophy-of-education.qmd)
--   [Supreme Court trials](../trials.qmd)
+-   [Historical artifacts](../assignments/artifacts.qmd)
+-   [Historical documentation](../assignments/documentation.qmd)
+-   [Personal philosophy of education](../assignments/philosophy-of-education.qmd)
+-   [Supreme Court trials](../assignments/trials.qmd)
 -   [Canvas: EDUC 219](https://canvas.howard.edu/courses/70108){target="_blank"}
