@@ -1,0 +1,66 @@
+---
+title: "Module 9: End-of-Term Synthesis"
+subtitle: "Schools in American Society, 1930 to the Present"
+author: "Nathan Alexander, PhD"
+institute: "School of Education"
+
+format:
+  html: default
+  pdf:
+    toc: true
+    number-sections: true
+    geometry:
+      - margin=1in
+  revealjs:
+    output-file: module09-slides.html
+    height: 900
+    width: 1600
+    smaller: true
+    slide-number: c/t
+    logo: "../img/howard-logo.jpg"
+    footer: "[Course Website](https://professornaite.github.io/educ219-fa26/)"
+    toc: false
+    echo: true
+    scrollable: true
+    incremental: false
+---
+
+## Module overview
+
+This final module provides space to synthesize the historical, philosophical, sociological, legal, and pedagogical questions explored throughout EDUC 219. We will reflect on schools in American society from 1930 to the present, including ongoing struggles over segregation, access, democracy, citizenship, curriculum, educational opportunity, and justice.
+
+The module invites students to connect their archival research, historical timeline/database, trial reenactments, course readings, and philosophy of education to the commitments they will carry forward in educational settings and communities.
+
+## Guiding questions
+
+-   What major changes and continuities characterize American schooling from 1930 to the present?
+-   How have law, policy, activism, community organizing, and educational practice shaped access and opportunity?
+-   What do *Plessy v. Ferguson* and *Brown v. Board of Education* reveal about the relationship among law, schools, and social change?
+-   How have communities resisted exclusion and created educational possibilities?
+-   What questions about schooling, diversity, democracy, access, and justice remain unresolved?
+-   How has EDUC 219 shaped your philosophy of education and professional identity?
+
+## Key concepts
+
+-   Historical continuity and change
+-   Educational opportunity
+-   Civil rights and institutional change
+-   Democracy and citizenship
+-   Policy, law, and schooling
+-   Community knowledge and organizing
+-   Professional identity and agency
+-   Reflection and synthesis
+
+## End-of-term work
+
+-   End-of-term synthesis and reflection
+-   Review of historical timeline/database contributions
+-   Review of trial reenactments and educational implications
+-   Final individual philosophy of education
+-   Final trial materials and notes
+
+::: callout-note
+## Final reflection
+
+Return to the course’s central questions: What is education for? Whose histories, knowledge, and experiences are recognized in schools? What conditions are necessary for equal access and meaningful educational opportunity? What responsibilities will guide your future work in education?
+:::

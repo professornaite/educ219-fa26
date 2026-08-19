@@ -1,0 +1,74 @@
+---
+title: "Module 8: Pedagogy and Educational Opportunity"
+subtitle: "EDUC 219 - Howard University"
+author: "Nathan Alexander, PhD"
+institute: "School of Education"
+
+format:
+  html: default
+  pdf:
+    toc: true
+    number-sections: true
+    geometry:
+      - margin=1in
+  revealjs:
+    output-file: module08-slides.html
+    height: 900
+    width: 1600
+    smaller: true
+    slide-number: c/t
+    logo: "../img/howard-logo.jpg"
+    footer: "[Course Website](https://professornaite.github.io/educ219-fa26/)"
+    toc: false
+    echo: true
+    scrollable: true
+    incremental: false
+---
+
+## Module overview
+
+This module brings together the historical, philosophical, sociological, legal, and pedagogical questions examined throughout EDUC 219. We will consider how pedagogy, curriculum, school structures, educational policy, and professional practice shape educational opportunity for students and communities.
+
+The module asks students to connect the course’s study of history, diversity, access, segregation, civil rights, and educational justice to present and future educational work. It also provides space to reflect on the trial reenactments, the final philosophy of education, and the continuing responsibilities of educators and educational professionals.
+
+## Guiding questions
+
+- What is the relationship between pedagogy and educational opportunity?
+- How do curriculum, instruction, assessment, discipline, and school organization shape students’ access to meaningful learning?
+- How can educators draw on students’ histories, communities, languages, identities, and knowledge in culturally affirming ways?
+- What can the histories of *Plessy v. Ferguson* and *Brown v. Board of Education* teach us about the relationship among law, schools, democracy, and social justice?
+- How should educators respond to unequal histories and continuing inequalities in educational access and outcomes?
+- What responsibilities do teachers, educational leaders, policymakers, families, and communities have for advancing educational justice?
+- How has this course shaped your developing philosophy of education and professional identity?
+
+## Key concepts
+
+- Pedagogy
+- Educational opportunity
+- Culturally affirming education
+- Curriculum and representation
+- Assessment and accountability
+- Discipline and school climate
+- Access, participation, and belonging
+- Educational justice
+- Policy and institutional change
+- Professional identity and agency
+- Democracy and citizenship
+- Reflection and synthesis
+
+## Readings and activities
+
+- Muhammad (2023), *Genius and Joy* curriculum
+- Additional readings and media on Canvas
+- Trial review and trial-preparation groups
+- Quiz 5
+- Discussion post: trial-group educational implications
+- *Brown v. Board of Education* trial reenactment and analysis
+- End-of-term synthesis: Schools in American Society from 1930 to the present
+- Final trial materials and notes
+
+::: {.callout-note}
+## End-of-term synthesis
+
+As the course concludes, return to the questions that have guided our work: What is education for? Who has access to meaningful educational opportunity? How have history, law, policy, power, and community shaped American schooling? What commitments will guide your future work in education?
+:::

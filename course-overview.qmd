@@ -1,6 +1,14 @@
 ---
 title: "Course overview"
 subtitle: "Schooling for Diverse Populations in American Society"
+
+format:
+  html: default
+  pdf:
+    toc: true
+    number-sections: true
+    geometry:
+      - margin=1in
 ---
 
 [View the course syllabus](https://docs.google.com/document/d/1vN8yTv4JQERyt4ba5tjSQOK5R2tariXa/edit?usp=sharing&ouid=116019567947737231635&rtpof=true&sd=true){.btn .btn-primary target="_blank"}

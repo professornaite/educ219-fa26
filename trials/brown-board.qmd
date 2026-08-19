@@ -17,7 +17,7 @@ format:
 ## Case at a glance
 
 | Item | Details |
-|---|---|
+|----|----|
 | Case | *Brown v. Board of Education of Topeka*, 347 U.S. 483 |
 | Arguments | December 9, 1952; December 7–9, 1953 |
 | Decision | May 17, 1954 |
@@ -39,11 +39,11 @@ The litigation was part of a broader legal strategy developed by the NAACP and i
 
 The case raised several connected questions:
 
-- Does racial segregation in public schools violate the Equal Protection Clause of the Fourteenth Amendment?
-- Can separate schools ever provide equal educational opportunity?
-- How should the Court interpret the “separate but equal” doctrine in relation to public education?
-- What role should the social, psychological, historical, and educational effects of segregation play in constitutional interpretation?
-- What obligations do federal, state, and local institutions have when constitutional rights conflict with established local practices?
+-   Does racial segregation in public schools violate the Equal Protection Clause of the Fourteenth Amendment?
+-   Can separate schools ever provide equal educational opportunity?
+-   How should the Court interpret the “separate but equal” doctrine in relation to public education?
+-   What role should the social, psychological, historical, and educational effects of segregation play in constitutional interpretation?
+-   What obligations do federal, state, and local institutions have when constitutional rights conflict with established local practices?
 
 ## The Court’s decision
 
@@ -65,28 +65,28 @@ For EDUC 219, *Brown* raises questions about law, schooling, democracy, citizens
 
 As you prepare the reenactment, consider:
 
-- What historical conditions made the legal challenge to school segregation possible?
-- What were the five cases consolidated into *Brown*, and how did their local contexts differ?
-- What arguments did the plaintiffs make about equal protection and educational opportunity?
-- What arguments did defenders of school segregation make?
-- What kinds of historical, legal, educational, social, and psychological evidence were relevant to the case?
-- How did *Brown* challenge the reasoning and legacy of *Plessy v. Ferguson*?
-- Why did implementation become so difficult after the Court’s ruling?
-- How should the group represent competing historical perspectives accurately without endorsing segregationist claims?
+-   What historical conditions made the legal challenge to school segregation possible?
+-   What were the five cases consolidated into *Brown*, and how did their local contexts differ?
+-   What arguments did the plaintiffs make about equal protection and educational opportunity?
+-   What arguments did defenders of school segregation make?
+-   What kinds of historical, legal, educational, social, and psychological evidence were relevant to the case?
+-   How did *Brown* challenge the reasoning and legacy of *Plessy v. Ferguson*?
+-   Why did implementation become so difficult after the Court’s ruling?
+-   How should the group represent competing historical perspectives accurately without endorsing segregationist claims?
 
 ## Possible research materials
 
 Possible source types include:
 
-- The *Brown* decision and *Brown II* decision.
-- Materials from the five cases consolidated into *Brown*.
-- NAACP legal records, briefs, correspondence, and litigation documents.
-- School-board records, enrollment data, photographs, maps, and local newspaper coverage.
-- Oral histories and community accounts from students, families, educators, lawyers, and activists.
-- Documents related to desegregation, resistance, federal enforcement, and civil-rights organizing.
-- Historical sources that connect segregation to educational funding, facilities, transportation, curriculum, teacher assignments, and access.
+-   The *Brown* decision and *Brown II* decision.
+-   Materials from the five cases consolidated into *Brown*.
+-   NAACP legal records, briefs, correspondence, and litigation documents.
+-   School-board records, enrollment data, photographs, maps, and local newspaper coverage.
+-   Oral histories and community accounts from students, families, educators, lawyers, and activists.
+-   Documents related to desegregation, resistance, federal enforcement, and civil-rights organizing.
+-   Historical sources that connect segregation to educational funding, facilities, transportation, curriculum, teacher assignments, and access.
 
-::: {.callout-note}
+::: callout-note
 ## Trial preparation reminder
 
 Use primary sources and historical evidence to build the case context, arguments, participant roles, debate points, and supporting materials for your reenactment. Keep complete citations and stable source links for all archival documents, legal annotations, and news sources used by your group.

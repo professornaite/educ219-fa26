@@ -1,143 +1,70 @@
 ---
-title: "Module 4: Strands of Mathematical Proficiency"
-subtitle: "EDUC 315 - Howard University"
+title: "Module 4: Common Schools, Expansion, and Exclusion"
+subtitle: "EDUC 219 - Howard University"
 author: "Nathan Alexander, PhD"
 institute: "School of Education"
-format: 
+
+format:
   html: default
+  pdf:
+    toc: true
+    number-sections: true
+    geometry:
+      - margin=1in
   revealjs:
     output-file: module04-slides.html
     height: 900
     width: 1600
     smaller: true
-    slide-number: c/t #< collapsted/total
-    logo: "img/howard-logo.jpg"
-    footer: "[Course Data GitHub](https://github.com/educ315-fa26)"
+    slide-number: c/t
+    logo: "../img/howard-logo.jpg"
+    footer: "[Course Website](https://professornaite.github.io/educ219-fa26/)"
     toc: false
     echo: true
+    scrollable: true
     incremental: false
 ---
 
-## Module Overview
+## Module overview
 
-This module will deepen your understanding of generating mathematical lessons with a focus on fractions and decimals.
+This module examines the nineteenth-century expansion of common schools and the unequal educational systems that developed alongside them. We will study the common-school movement, immigration, urbanization, normal schools, teacher preparation, and the growing role of states and local communities in public education.
 
-### Goals for the module
+The module also emphasizes exclusion. As public schooling expanded, access was not distributed equally. Race, class, gender, disability, language, religion, immigration status, geography, and political power shaped who could enter schools, what kinds of schools they attended, what they were taught, and the resources available to them.
 
-One goal for this module is for you to come up with a set of ways to describe various ways to teach students' properties and procedural fluency. We'll use new examples and those from previous modules to guide you.
+## Guiding questions
 
-# Decimals
+-   What was the common-school movement, and what problems was it intended to address?
+-   How did ideas about citizenship, democracy, morality, work, and social order shape public schooling?
+-   How did immigration, urbanization, industrialization, and population growth affect schools?
+-   What roles did normal schools and teacher preparation play in the expansion of education?
+-   Who benefited from expanding public education, and who continued to experience exclusion or unequal access?
+-   How did race, class, language, religion, gender, disability, and geography influence educational opportunity?
+-   How do nineteenth-century struggles over public education help us understand later segregation, unequal school funding, and disputes over access?
 
-## Decimal Place Value
+## Key concepts
 
-For each, underline the whole number part and circle the decimal (fractional) part.
+-   Common-school movement
+-   Public education and state formation
+-   Citizenship and civic education
+-   Immigration and urbanization
+-   Industrialization and social order
+-   Normal schools and teacher preparation
+-   Compulsory schooling
+-   Educational access and exclusion
+-   Unequal resources and opportunity
+-   Historical significance and primary-source analysis
 
--   2.5\
--   1.23\
--   0.52\
--   0.002
+## Readings and activities
 
-Which digit is in the tenths place? Which is in the hundredths place?
+-   Givens (2021), Chapter 4
+-   Additional readings and media on Canvas
+-   Archival research presentations and findings
+-   Historical-timeline and database contributions
+-   Quiz 2
+-   Trial-group archival-evidence discussion and research
 
-------------------------------------------------------------------------
+::: callout-note
+## Trial connection
 
-## True or False: Decimal Equivalents
-
-True or False: 25 hundredths is the same as 2 tenths and 5 hundredths?
-
--   Draw a place value chart to prove your answer.
--   Write both numbers in fraction form.
-
-------------------------------------------------------------------------
-
-## Comparing and Ordering Decimals
-
-Compare which is greater by identifying the digits in each decimal place (tenths, hundredths, thousandths).
-
--   4.859\
--   4.869
-
-Next, create your own set of three decimals and order them least to greatest.
-
-------------------------------------------------------------------------
-
-# Five Strands of Mathematical Proficiency
-
-------------------------------------------------------------------------
-
-![Five strands of mathematical proficiency](../img/mod04/five-strands.png){width="75%"}
-
-Kilpatrick and colleagues (National Research Council, 2001) identified five interdependent strands that together form a comprehensive definition of mathematical proficiency.
-
-------------------------------------------------------------------------
-
-## Procedural Fluency
-
-Skill in carrying out mathematical procedures flexibly, accurately, efficiently, and appropriately.
-
--   Involves knowing procedures and using them correctly.
-
--   Includes the ability to select appropriate methods and apply algorithms based on the situation.
-
-![Procedural fluency](../img/mod04/pf.png){width="50%"}
-
-------------------------------------------------------------------------
-
-## Conceptual Understanding
-
-Comprehension of mathematical concepts, operations, and relationships.
-
--   Means having an integrated and functional grasp of ideas, not just memorizing facts.
-
--   Students should connect new knowledge with what they already know and represent mathematical situations in multiple ways.
-
-![Conceptual understanding](../img/mod04/cu.jpg){width="50%"}
-
-------------------------------------------------------------------------
-
-## Adaptive Reasoning
-
-Capacity for logical thought, reflection, explanation, and justification.
-
--   Enables students to explain and justify their strategies and solutions.
-
--   Supports the extension of knowledge from known concepts to unfamiliar situations.
-
-![Adaptive reasoning](../img/mod04/ar.png){width="50%"}
-
-------------------------------------------------------------------------
-
-## Strategic Competence
-
-Ability to formulate, represent, and solve mathematical problems.
-
--   Involves devising and using strategies for both routine and non-routine problems.
-
--   Encourages flexible thinking when approaching mathematical challenges.
-
-![Strategic competence](../img/mod04/sc.png){width="50%"}
-
-------------------------------------------------------------------------
-
-## Productive Disposition
-
-Habitual inclination to see mathematics as sensible, useful, and worthwhile, paired with a belief in perseverance and personal efficacy.
-
--   Nurtures a positive attitude and sense of efficacy towards mathematics.
-
--   Students believe that effort leads to understanding and success.
-
-![Productive disposition](../img/mod04/pd.jpg){width="50%"}
-
-------------------------------------------------------------------------
-
-| Strand | Key Aspect | Description |
-|-------------------|------------------|-----------------------------------|
-| Procedural Fluency | Technical Performance | Memorise and rehearse |
-| Conceptual Understanding | Classification, Definition | Sort, classify, define and deduce |
-|  | Representation | Describe, interpret and translate |
-|  | Analysis | Explore structure, variation, connections |
-| Adaptive Reasoning | Argument, Proof | Test, justify and prove conjectures |
-| Strategic Competence | Mathematical Model | Formulate models and problems |
-|  | Solution | Employ strategies to solve a problem |
-|  | Critical Commentary | Interpret & evaluate solutions and strategies |
+As you examine the development of public education, identify historical evidence that may help explain later systems of racial segregation, unequal access, school governance, citizenship, and legal conflict. Consider whether an event or artifact is connected to *Plessy v. Ferguson*, *Brown v. Board of Education*, both cases, or broader historical context.
+:::

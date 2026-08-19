@@ -1,6 +1,14 @@
 ---
 title: "Welcome to EDUC 219"
 subtitle: "Schooling for Diverse Populations in American Society"
+
+format:
+  html: default
+  pdf:
+    toc: true
+    number-sections: true
+    geometry:
+      - margin=1in
 ---
 
 Welcome to the companion website for **EDUC 219-01: Schooling for Diverse Populations in American Society** at Howard University, taught by [Professor Nathan Alexander](https://professornaite.github.io){target="_blank"}.
@@ -14,7 +22,7 @@ This website provides supplementary course materials, module resources, selected
 The schedule may be adjusted as the semester develops. Canvas is the official source for current deadlines, submission instructions, announcements, and course updates. Throughout the semester, discussion posts and group preparation will support students’ selected *Plessy v. Ferguson* or *Brown v. Board of Education* trial reenactment group.
 
 | Week | Dates | Modules, activities, and readings | Assignments and notes |
-|:------------------:|:----------------|:----------------|:----------------|
+|:------------------:|:-----------------|:-----------------|:-----------------|
 | [1](modules/module00.html) | Aug. 17 and 19 | [**Module 0: Intro to EDUC 219**](modules/module00.qmd)<br>Icebreaker, introductions, and overview of EDUC 219<br><br>[**Module 1: Schooling for Diverse Populations in American Society**](modules/module01.qmd)<br>Defining key terms and central questions<br><br>Media: Crash Course Black American History #21 and #33 | Syllabus questionnaire — due Wed., Aug. 19<br><br>Community agreements — due Sun., Aug. 23 |
 | [2](modules/module01.html) | Aug. 24 and 26 | [**Module 1: Schooling for Diverse Populations in American Society**](modules/module01.qmd)<br>Historical periods and key events; Woodson and Black education<br><br>Activity: Historical timelines, from physical to digital timelines<br><br>Reading: Givens (2021), Introduction | Discussion Post 1: Select a *Plessy v. Ferguson* or *Brown v. Board of Education* trial group and identify historical questions, events, people, or institutions that may help frame the group’s research — due Wed., Aug. 26<br><br>Draft philosophy of education statement — due Sun., Aug. 30 |
 | 3 | Aug. 31 and Sept. 2 | [**Module 2: Philosophies of Education**]()<br>Historical traditions and key actors<br><br>Activity: Philosophy of education thematic analysis in groups of four to five<br><br>Reading: Givens (2021), Chapter 1 | Quiz 1 — in class Wed., Sept. 2 |

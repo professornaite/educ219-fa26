@@ -1,6 +1,14 @@
 ---
 title: "Who is in the site photo?"
 subtitle: "Meet Carter G. Woodson"
+
+format:
+  html: default
+  pdf:
+    toc: true
+    number-sections: true
+    geometry:
+      - margin=1in
 ---
 
 ![Carter G. Woodson](img/carter-g-woodson.jpg){width="80%"}
@@ -13,7 +21,9 @@ Dr. Woodson will serve as one of many examples to guide our questions about hist
 
 <center>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HiFatZu5PoU?si=h-9P9sEjexm4Yt6z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HiFatZu5PoU?si=h-9P9sEjexm4Yt6z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>
+
+</iframe>
 
 </iframe>
 

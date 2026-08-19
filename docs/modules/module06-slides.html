@@ -9,7 +9,8 @@
 <link href="../site_libs/quarto-html/quarto-syntax-highlighting-2f5df379a58b258e96c21c0638c20c03.css" rel="stylesheet" id="quarto-text-highlighting-styles"><meta charset="utf-8">
   <meta name="generator" content="quarto-1.6.42">
 
-  <title>EDUC 219: Schooling for Diverse Populations in American Society – Plessy v. Ferguson</title>
+  <meta name="author" content="Nathan Alexander, PhD">
+  <title>EDUC 219: Schooling for Diverse Populations in American Society – Module 6: Statistics and probability</title>
   <meta name="apple-mobile-web-app-capable" content="yes">
   <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, minimal-ui">
@@ -28,7 +29,7 @@
       vertical-align: middle;
     }
   </style>
-  <link rel="stylesheet" href="../site_libs/revealjs/dist/theme/quarto-8f3eebe07241f08526c91a7e9cbef8fd.css">
+  <link rel="stylesheet" href="../site_libs/revealjs/dist/theme/quarto-2f366650f320edcfcf53d73c80250a32.css">
   <link href="../site_libs/revealjs/plugin/quarto-line-highlight/line-highlight.css" rel="stylesheet">
   <link href="../site_libs/revealjs/plugin/reveal-menu/menu.css" rel="stylesheet">
   <link href="../site_libs/revealjs/plugin/reveal-menu/quarto-menu.css" rel="stylesheet">
@@ -120,8 +121,8 @@
       margin-right: 0; 
     }
   </style>
-<meta property="og:title" content="Plessy v. Ferguson – EDUC 219: Schooling for Diverse Populations in American Society">
-<meta property="og:description" content="Segregation, citizenship, and the meaning of equal protection">
+<meta property="og:title" content="Module 6: Statistics and probability – EDUC 219: Schooling for Diverse Populations in American Society">
+<meta property="og:description" content="EDUC 315 - Howard University">
 <meta property="og:site_name" content="EDUC 219: Schooling for Diverse Populations in American Society">
 </head>
 <body class="quarto-light">
@@ -129,133 +130,234 @@
     <div class="slides">
 
 <section id="title-slide" class="quarto-title-block center">
-  <h1 class="title">Plessy v. Ferguson</h1>
-  <p class="subtitle">Segregation, citizenship, and the meaning of equal protection</p>
+  <h1 class="title">Module 6: Statistics and probability</h1>
+  <p class="subtitle">EDUC 315 - Howard University</p>
 
 <div class="quarto-title-authors">
+<div class="quarto-title-author">
+<div class="quarto-title-author-name">
+Nathan Alexander, PhD 
+</div>
+        <p class="quarto-title-affiliation">
+            School of Education
+          </p>
+    </div>
 </div>
 
 </section>
-<section id="case-at-a-glance" class="slide level2">
-<h2>Case at a glance</h2>
+<section id="overview" class="title-slide slide level1 center">
+<h1>Overview</h1>
+<p>Statistics builds upon deep mathematical concepts such as sets, numbers, and measurement. These foundations allow us to describe, collect, and analyze data effectively. Before studying data, we must understand the basic structures from which all numerical and categorical reasoning emerge.</p>
+</section>
+
+<section id="national-council-of-teachers-of-mathematics-nctm" class="title-slide slide level1 center">
+<h1>National Council of Teachers of Mathematics (NCTM)</h1>
+<p>Alignment with the principles from the National Council of Teachers of Mathematics (NCTM, Principles to Actions, 2014).</p>
+<ul>
+<li>Understand and describe different sets of numbers and their relationships.</li>
+<li>Relate sets of numbers to statistical variable types.</li>
+<li>Distinguish between a population and a sample in statistical terms.</li>
+<li>Explain data collection and measurement processes grounded in mathematical reasoning.</li>
+<li>Connect abstract mathematical structures to real-world data contexts.</li>
+</ul>
+</section>
+
+<section id="sets-of-numbers" class="title-slide slide level1 center">
+<h1>Sets of Numbers</h1>
+<p>As we know, mathematics is constructed upon sets — well-defined collections of elements.</p>
+<p>The number system builds systematically upon these sets, each expanding the possibilities of measurement when we are thinking about statistics.</p>
+<p><span class="math display">\[
+\mathbb{N} \subset \mathbb{Z} \subset \mathbb{Q} \subset \mathbb{R} \subset \mathbb{C}
+\]</span></p>
+<ul>
+<li><span class="math inline">\(\mathbb{N}\)</span>: The set of natural numbers, used for counting objects.<br>
+</li>
+<li><span class="math inline">\(\mathbb{Z}\)</span>: The set of integers, extending natural numbers to include negatives.<br>
+</li>
+<li><span class="math inline">\(\mathbb{Q}\)</span>: The set of rational numbers, allowing fractional relationships.<br>
+</li>
+<li><span class="math inline">\(\mathbb{R}\)</span>: The set of real numbers, providing a complete continuum of measurement.<br>
+</li>
+<li><span class="math inline">\(\mathbb{C}\)</span>: The set of complex numbers, incorporating an imaginary component <span class="math inline">\(i = \sqrt{-1}\)</span>.</li>
+</ul>
+<p>Each set expands our capacity to represent and interpret reality mathematically. In statistics, these same conceptual expansions allow for increasingly sophisticated ways to represent and analyze data.</p>
+</section>
+
+<section id="number-sets-and-variable-types" class="title-slide slide level1 center">
+<h1>Number Sets and Variable Types</h1>
+<p>Statistical variables describe measurable or classifiable aspects of a population. The type of variable determines the operations that can be performed and the level of precision possible.</p>
 <table class="caption-top">
 <colgroup>
-<col style="width: 50%">
-<col style="width: 50%">
+<col style="width: 28%">
+<col style="width: 25%">
+<col style="width: 22%">
+<col style="width: 22%">
 </colgroup>
 <thead>
 <tr class="header">
-<th>Item</th>
-<th>Details</th>
+<th>Mathematical Set</th>
+<th>Variable Type</th>
+<th>Description</th>
+<th>Example</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td>Case</td>
-<td><em>Plessy v. Ferguson</em>, 163 U.S. 537</td>
+<td><span class="math inline">\(\mathbb{N}\)</span></td>
+<td>Discrete</td>
+<td>Countable outcomes</td>
+<td>Number of books, number of students</td>
 </tr>
 <tr class="even">
-<td>Argument</td>
-<td>April 13, 1896</td>
+<td><span class="math inline">\(\mathbb{Z}\)</span></td>
+<td>Categorical Ordinal</td>
+<td>Ordered categories, sometimes signed values</td>
+<td>Temperature comparison, rankings</td>
 </tr>
 <tr class="odd">
-<td>Decision</td>
-<td>May 18, 1896</td>
+<td><span class="math inline">\(\mathbb{Q}\)</span>, <span class="math inline">\(\mathbb{R}\)</span></td>
+<td>Continuous</td>
+<td>Measurable quantities on an interval or ratio scale</td>
+<td>Time, distance, height</td>
 </tr>
 <tr class="even">
-<td>Vote</td>
-<td>7–1</td>
-</tr>
-<tr class="odd">
-<td>Majority opinion</td>
-<td>Justice Henry Billings Brown</td>
-</tr>
-<tr class="even">
-<td>Dissent</td>
-<td>Justice John Marshall Harlan</td>
-</tr>
-<tr class="odd">
-<td>Central issue</td>
-<td>Whether Louisiana’s Separate Car Act violated the Thirteenth and Fourteenth Amendments</td>
-</tr>
-<tr class="even">
-<td>Holding</td>
-<td>The Court upheld Louisiana’s racial-segregation law and held that state-mandated separation did not, by itself, violate the Fourteenth Amendment’s Equal Protection Clause</td>
+<td>Symbolic (labels)</td>
+<td>Nominal</td>
+<td>Unordered categories</td>
+<td>Gender, subject area, colors</td>
 </tr>
 </tbody>
 </table>
+<p>This table shows the bridge between mathematics and statistics: number sets form a logical foundation for classifying real-world data.</p>
 </section>
-<section id="historical-context" class="slide level2">
-<h2>Historical context</h2>
-<p>The case emerged during the post-Reconstruction era, when African American civil and political rights were being restricted through state law, local practices, racial violence, and the expanding Jim Crow system. In 1890, Louisiana passed the Separate Car Act, requiring railway companies operating within the state to provide separate accommodations for white and Black passengers.</p>
-<p>In 1892, Homer Plessy, a New Orleans resident who was classified as Black under Louisiana law, deliberately sat in a train car designated for white passengers. The action was organized with the support of the Comité des Citoyens, a New Orleans civil-rights organization challenging segregation. Plessy was arrested after refusing to leave the car. His legal challenge eventually reached the United States Supreme Court.</p>
+
+<section>
+<section id="populations-and-samples" class="title-slide slide level1 center">
+<h1>Populations and Samples</h1>
+<p>In mathematics, we often discuss universal sets and their subsets. This same idea shapes statistical reasoning through the relationship between a population and a sample. Let:</p>
+<p><strong>Population</strong>: The complete set of all individuals or observations of interest.</p>
+<p><span class="math display">\[
+U = \text{universal set of all possible observations}
+\]</span></p>
+<p><strong>Sample</strong>: A subset selected from the population for study.</p>
+<p><span class="math display">\[
+S \subset U = \text{sample drawn from the population}
+\]</span></p>
 </section>
-<section id="constitutional-questions" class="slide level2">
-<h2>Constitutional questions</h2>
-<p>The case asked students, lawyers, judges, and the public to consider several connected questions:</p>
+<section id="population-parameter" class="slide level2">
+<h2>Population parameter</h2>
+<p>A number which summarizes the entire group.</p>
+</section>
+<section id="sample-statistic" class="slide level2">
+<h2>Sample statistic</h2>
+<p>A single number that summarizes a subset of data, or the sample.</p>
+
+<img data-src="../img/wk5-b-1.png" style="width:40.0%" class="r-stretch quarto-figure-center"><p class="caption">Population vs.&nbsp;Sample. Image from Scribbr.</p></section></section>
+<section>
+<section id="data-collection-and-measurement" class="title-slide slide level1 center">
+<h1>Data Collection and Measurement</h1>
+<p>Measurement connects the abstract and the empirical. It assigns numbers or categories to objects or events according to a defined rule. According to NCTM reasoning standards, effective data collection and measurement require:</p>
 <ul>
-<li>Did Louisiana’s Separate Car Act violate the Equal Protection Clause of the Fourteenth Amendment?</li>
-<li>Did segregation in public accommodations create an unconstitutional system of racial inequality?</li>
-<li>Did the law violate the Thirteenth Amendment’s prohibition on slavery and involuntary servitude?</li>
-<li>What authority did states have to regulate public accommodations and racial separation?</li>
-<li>Can legal equality exist when social institutions are organized by racial separation?</li>
+<li>A clear definition of variables.<br>
+</li>
+<li>Consistency in units and scales.<br>
+</li>
+<li>Awareness of sources of variability in data.</li>
 </ul>
+<p>Measurements can be discrete (counted) or continuous (measured), directly linked to the corresponding set structure:</p>
+<p><span class="math display">\[
+\text{Discrete: } x \in \mathbb{N}, \quad \text{Continuous: } x \in \mathbb{R}
+\]</span></p>
+<p>Real-world measurement always involves approximations; understanding the number system helps teachers explain these approximations as necessary simplifications of continuous reality.</p>
 </section>
-<section id="the-courts-decision" class="slide level2">
-<h2>The Court’s decision</h2>
-<p>On May 18, 1896, the Supreme Court upheld Louisiana’s Separate Car Act. Justice Henry Billings Brown wrote for the majority. The Court concluded that the Fourteenth Amendment was intended to establish legal equality, but it held that laws requiring racial separation did not necessarily imply the legal inferiority of Black Americans. The decision became associated with the doctrine of “separate but equal.”</p>
-<p>Justice John Marshall Harlan wrote the lone dissent. He argued that the Constitution is “color-blind” and does not recognize a class system among citizens. His dissent rejected the idea that the state could constitutionally impose racial separation in public life.</p>
+<h3 id="types-of-studies-and-sampling-strategies">Types of studies and sampling strategies</h3>
+<p>The methods used to collect sample data for statistical analysis is extremely important.</p>
+<p>If sample data are not collected appropriately, resulting statistical analyses will be futile.</p>
+<p>As a result, planning a study by identifying <em>research questions</em>, the <em>population</em> and <em>sample</em> of interest, and selecting the appropriate <em>research method(s)</em> that will be used to <em>analyze data</em> that is collected are all essential parts in the statistical data analysis process.</p>
+<section class="slide level2">
+
+<h4 id="understanding-experimental-and-observational-study-designs">Understanding experimental and observational study designs</h4>
+<p>There are many different types of research studies.</p>
+<p>Some studies use non-traditional methods (such as oral traditions) to collect data, while others focus on more traditional methods (such as surveys) to analyze data on a sample or a population.</p>
+<p>These data collection methods produce a set of observations upon which statistical analyses can be applied. We consider two core study designs in statistical data analysis: <em>experimental</em> studies and <em>observational</em> studies.</p>
 </section>
-<section id="educational-significance" class="slide level2">
-<h2>Educational significance</h2>
-<p>Although the case directly concerned railroad travel rather than schools, its legal logic became a major basis for racial segregation across public life. The decision provided legal justification for segregated public facilities, including transportation, parks, theaters, hospitals, and schools. It shaped the legal and institutional conditions under which unequal school systems were maintained and challenged for decades.</p>
-<p>For EDUC 219, the case raises questions about how laws, courts, public institutions, and educational systems can shape unequal access and opportunity. It also provides essential historical and legal context for understanding the litigation strategy and constitutional reasoning later associated with <em>Brown v. Board of Education</em>.</p>
+<section class="slide level2">
+
+<div class="callout-DEFINITIONS">
+<p><strong>Experimental study</strong>: In an experimental study, a <em>treatment</em> is applied to a sample of interest to observe its effects. There is generally a control group and a treatment group used to understand the effects of the treatment. Individual observations are referred to as experimental units whereas studies involving humans are generally defined as study subjects.</p>
+<p><strong>Observational study</strong>: In an observational study, specific characteristics of a sample or population are observed and measured but individual observations or subjects of study are not influenced or modified in any way.</p>
+</div>
 </section>
-<section id="trial-group-research-questions" class="slide level2">
-<h2>Trial-group research questions</h2>
-<p>As you prepare the reenactment, consider:</p>
-<ul>
-<li>What were the historical conditions of Reconstruction, disfranchisement, racial violence, and Jim Crow that shaped the case?</li>
-<li>How should the Separate Car Act be understood from the perspectives of Homer Plessy, Louisiana officials, railway companies, Black communities, and white supporters of segregation?</li>
-<li>What legal arguments could be made under the Thirteenth and Fourteenth Amendments?</li>
-<li>What evidence would supporters and opponents of the law use?</li>
-<li>How did the Court distinguish legal equality from social equality?</li>
-<li>How did the decision influence schools and other institutions of public life?</li>
-<li>What are the limits of reenactment? How can the group accurately represent historical arguments without endorsing them?</li>
-</ul>
-</section>
-<section id="possible-research-materials" class="slide level2">
-<h2>Possible research materials</h2>
-<p>Possible source types include:</p>
-<ul>
-<li>The Supreme Court opinion and Justice Harlan’s dissent.</li>
-<li>Louisiana’s Separate Car Act.</li>
-<li>Newspaper coverage of the arrest, litigation, and decision.</li>
-<li>Records related to the Comité des Citoyens.</li>
-<li>Historical accounts of rail travel, New Orleans, Reconstruction, and Jim Crow.</li>
-<li>Primary sources documenting segregated schooling and public accommodations.</li>
-<li>Legal, educational, and historical scholarship that helps interpret the case.</li>
-</ul>
-<div class="callout callout-note callout-titled callout-style-default">
+<section class="slide level2">
+
+<h5 id="three-types-of-observational-studies">Three types of observational studies</h5>
+<div class="callout callout-caution no-icon callout-titled callout-style-default">
 <div class="callout-body">
 <div class="callout-title">
-<div class="callout-icon-container">
-<i class="callout-icon"></i>
-</div>
-<p><strong>Trial preparation reminder</strong></p>
+<p><strong><strong>DEFINITIONS</strong>: Types of studies</strong></p>
 </div>
 <div class="callout-content">
-<p>Use primary sources and historical evidence to build the case context, arguments, participant roles, debate points, and supporting materials for your reenactment. Keep complete citations and stable source links for all archival documents, legal annotations, and news sources used by your group.</p>
+<p><strong>Retrospective study</strong>: In a retrospective study, we go back in time to collect data over some past period.</p>
+<p><strong>Cross-sectional study</strong>: In a cross-sectional study, data are collected and measured at one point in time.</p>
+<p><strong>Prospective study</strong>: In a prospective study, we set up a study to go forward in time and observe groups sharing common factors.</p>
 </div>
 </div>
 </div>
+</section>
+<section class="slide level2">
+
+<h5 id="identify-and-describe-the-different-sampling-methods">Identify and describe the different sampling methods</h5>
+<p>There are two broad categories of selecting members of a population to generate sample data:</p>
+<ul>
+<li><p>Probability sampling</p></li>
+<li><p>Non-probability sampling</p></li>
+</ul>
+<p>Within these two broad categories are other methods based on the needs of the study. Each methods is used to support statistical data analysis with some methods providing stronger evidence than others.</p>
+</section>
+<section class="slide level2">
+
+<div class="callout callout-caution no-icon callout-titled callout-style-default">
+<div class="callout-body">
+<div class="callout-title">
+<p><strong><strong>Definitions</strong>: Sampling methods</strong></p>
+</div>
+<div class="callout-content">
+<p><strong>Probability sampling</strong>: Involves the random selection of subjects in such a way that every member of a sample has the sample probability of being selected.</p>
+<p><strong>Non-probability sampling</strong>: Involves the use of criteria to select data that is not based on an equal likelihood of selection.</p>
+</div>
+</div>
+</div>
+</section></section>
+<section id="real-world-examples" class="title-slide slide level1 center">
+<h1>Real world examples</h1>
+<div class="quarto-figure quarto-figure-center">
+<figure>
+<p><img data-src="../img/wk5-a-5.jpg"></p>
+<figcaption>Image from The W.E.B. DuBois Collection. https://credo.library.umass.edu</figcaption>
+</figure>
+</div>
+<div class="quarto-figure quarto-figure-center">
+<figure>
+<p><img data-src="../img/wk5-a-1.jpg"></p>
+<figcaption>Image from The W.E.B. DuBois Collection. https://credo.library.umass.edu</figcaption>
+</figure>
+</div>
+</section>
+
+<section id="reflection" class="title-slide slide level1 center">
+<h1>Reflection</h1>
+<p>Encourage students to connect these mathematical foundations to their teaching practice:<br>
+- How can the hierarchy of number sets guide discussions of data types?<br>
+- What set relationships help explain statistical sampling methods?<br>
+- How can measurement be introduced through examples grounded in number theory?</p>
 
 
 </section>
     </div>
   <div class="quarto-auto-generated-content" style="display: none;">
+<p><img src="img/howard-logo.jpg" class="slide-logo"></p>
 <div class="footer footer-default">
-
+<p><a href="https://github.com/educ315-fa26">Course Data GitHub</a></p>
 </div>
 </div></div>
 
@@ -288,7 +390,7 @@
 'autoAnimateUnmatched': true,
 'jumpToSlide': true,
 'menu': {"side":"left","useTextContentForMissingTitles":true,"markers":false,"loadIcons":false,"custom":[{"title":"Tools","icon":"<i class=\"fas fa-gear\"></i>","content":"<ul class=\"slide-menu-items\">\n<li class=\"slide-tool-item active\" data-item=\"0\"><a href=\"#\" onclick=\"RevealMenuToolHandlers.fullscreen(event)\"><kbd>f</kbd> Fullscreen</a></li>\n<li class=\"slide-tool-item\" data-item=\"1\"><a href=\"#\" onclick=\"RevealMenuToolHandlers.speakerMode(event)\"><kbd>s</kbd> Speaker View</a></li>\n<li class=\"slide-tool-item\" data-item=\"2\"><a href=\"#\" onclick=\"RevealMenuToolHandlers.overview(event)\"><kbd>o</kbd> Slide Overview</a></li>\n<li class=\"slide-tool-item\" data-item=\"3\"><a href=\"#\" onclick=\"RevealMenuToolHandlers.togglePdfExport(event)\"><kbd>e</kbd> PDF Export Mode</a></li>\n<li class=\"slide-tool-item\" data-item=\"4\"><a href=\"#\" onclick=\"RevealMenuToolHandlers.toggleScrollView(event)\"><kbd>r</kbd> Scroll View Mode</a></li>\n<li class=\"slide-tool-item\" data-item=\"5\"><a href=\"#\" onclick=\"RevealMenuToolHandlers.keyboardHelp(event)\"><kbd>?</kbd> Keyboard Help</a></li>\n</ul>"}],"openButton":true},
-'smaller': false,
+'smaller': true,
  
         // Display controls in the bottom right corner
         controls: false,
@@ -413,7 +515,7 @@
         previewLinks: false,
 
         // Transition style (none/fade/slide/convex/concave/zoom)
-        transition: 'fade',
+        transition: 'none',
 
         // Transition speed (default/fast/slow)
         transitionSpeed: 'default',
@@ -433,9 +535,9 @@
         // The "normal" size of the presentation, aspect ratio will be preserved
         // when the presentation is scaled to fit different resolutions. Can be
         // specified using percentage units.
-        width: 1050,
+        width: 1600,
 
-        height: 700,
+        height: 900,
 
         // Factor of the display size that should remain empty around the content
         margin: 0.1,

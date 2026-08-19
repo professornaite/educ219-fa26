@@ -18,7 +18,7 @@ format:
     smaller: false
     slide-number: c/t
     logo: "../img/howard-logo.jpg"
-    footer: "[Course Website](https://educ-219.github.io/fa26)"
+    footer: "[Course Website](https://professornaite.github.io/educ219-fa26/)"
     toc: false
     toc-depth: 3
     echo: true
@@ -58,7 +58,7 @@ Additionally, the course is designed to build among pre-service teachers a globa
 
     -   Zoom appointments: <https://nathanalexander.youcanbook.me/>
 
--   Email: [nathan.alexander@howard.edu](mailto:nathan.alexander@howard.edu)
+-   Email: [nathan.alexander\@howard.edu](mailto:nathan.alexander@howard.edu)
 
 -   Course Site: [Canvas: EDUC 219](https://canvas.howard.edu/courses/70108){target="_blank"}
 
@@ -119,13 +119,13 @@ Throughout the semester, we will:
 
 ## Four course-work categories
 
-| Course component | Points |
-|---|---:|
-| Archival research and personal philosophy of education | 20 |
-| Quizzes | 20 |
-| Midterm examination | 30 |
-| Supreme Court trial reenactments | 30 |
-| **Total** | **100** |
+| Course component                                       |  Points |
+|--------------------------------------------------------|--------:|
+| Archival research and personal philosophy of education |      20 |
+| Quizzes                                                |      20 |
+| Midterm examination                                    |      30 |
+| Supreme Court trial reenactments                       |      30 |
+| **Total**                                              | **100** |
 
 ------------------------------------------------------------------------
 
@@ -135,12 +135,12 @@ This course component connects historical thinking, primary-source inquiry, time
 
 You will work individually and collaboratively to:
 
-- Define criteria for identifying major historical events.
-- Select two historical bookend events within a broader historical period.
-- Identify and document two primary-source artifacts situated between those events.
-- Create a physical historical timeline with a group.
-- Contribute records to the class digital timeline/database.
-- Complete a final individual philosophy of education.
+-   Define criteria for identifying major historical events.
+-   Select two historical bookend events within a broader historical period.
+-   Identify and document two primary-source artifacts situated between those events.
+-   Create a physical historical timeline with a group.
+-   Contribute records to the class digital timeline/database.
+-   Complete a final individual philosophy of education.
 
 ------------------------------------------------------------------------
 
@@ -148,11 +148,11 @@ You will work individually and collaboratively to:
 
 For each event or artifact, the class database will document:
 
-- Date, location, historical period, and factual summary
-- Whether an item is a major event: `1 = yes`; `0 = no`
-- Whether an item is education related: `1 = yes`; `0 = no`
-- Primary-source information, repository, stable URL, and full citation
-- Connection to *Plessy*, *Brown*, both cases, or no direct connection
+-   Date, location, historical period, and factual summary
+-   Whether an item is a major event: `1 = yes`; `0 = no`
+-   Whether an item is education related: `1 = yes`; `0 = no`
+-   Primary-source information, repository, stable URL, and full citation
+-   Connection to *Plessy*, *Brown*, both cases, or no direct connection
 
 The timeline/database will become a shared historical resource for our course.
 
@@ -166,11 +166,11 @@ It is **not** a philosophy of teaching.
 
 Your philosophy should explain your developing understanding of:
 
-- The purposes of education
-- Education, democracy, and the public good
-- Diversity, equity, access, and social justice
-- History, power, privilege, and educational opportunity
-- Your professional identity, commitments, and sense of agency
+-   The purposes of education
+-   Education, democracy, and the public good
+-   Diversity, equity, access, and social justice
+-   History, power, privilege, and educational opportunity
+-   Your professional identity, commitments, and sense of agency
 
 ------------------------------------------------------------------------
 
@@ -182,11 +182,11 @@ Each quiz is worth **4 points**.
 
 Quizzes will assess your understanding of:
 
-- Course readings and major concepts
-- Historical developments and key events
-- Philosophies of education
-- Educational institutions, policies, and unequal opportunity
-- Pedagogy and educational opportunity
+-   Course readings and major concepts
+-   Historical developments and key events
+-   Philosophies of education
+-   Educational institutions, policies, and unequal opportunity
+-   Pedagogy and educational opportunity
 
 ------------------------------------------------------------------------
 
@@ -198,9 +198,9 @@ It will assess your ability to synthesize historical, philosophical, and sociolo
 
 The examination includes:
 
-- Part A: Multiple-choice questions
-- Part B: One open-ended short-answer response
-- Part C: One open-ended classroom-focused response
+-   Part A: Multiple-choice questions
+-   Part B: One open-ended short-answer response
+-   Part C: One open-ended classroom-focused response
 
 ------------------------------------------------------------------------
 
@@ -210,8 +210,8 @@ The Supreme Court trial reenactment component is worth **30 points**.
 
 Students will select or be assigned to a trial group focused on:
 
-- *Plessy v. Ferguson* (1896)
-- *Brown v. Board of Education* (1954)
+-   *Plessy v. Ferguson* (1896)
+-   *Brown v. Board of Education* (1954)
 
 Each group will research, prepare, and present a 45- to 60-minute reenactment for an audience.
 
@@ -221,12 +221,12 @@ Each group will research, prepare, and present a 45- to 60-minute reenactment fo
 
 Trial groups will:
 
-- Build historical context for the selected case.
-- Locate and analyze archival documents, legal materials, and historical news sources.
-- Develop evidence-based arguments and identify competing perspectives.
-- Prepare participant roles, debate points, documents, and trial materials.
-- Rehearse and refine the live reenactment.
-- Connect historical research to questions of equal access, diversity, democracy, educational opportunity, and justice.
+-   Build historical context for the selected case.
+-   Locate and analyze archival documents, legal materials, and historical news sources.
+-   Develop evidence-based arguments and identify competing perspectives.
+-   Prepare participant roles, debate points, documents, and trial materials.
+-   Rehearse and refine the live reenactment.
+-   Connect historical research to questions of equal access, diversity, democracy, educational opportunity, and justice.
 
 ------------------------------------------------------------------------
 
@@ -234,10 +234,9 @@ Trial groups will:
 
 Use the course website and Canvas throughout the semester:
 
-- [Assignments and grading](../assignments.qmd)
-- [Historical artifacts](../artifacts.qmd)
-- [Historical documentation](../documentation.qmd)
-- [Personal philosophy of education](../philosophy-of-education.qmd)
-- [Supreme Court trials](../trials.qmd)
-- [Canvas: EDUC 219](https://canvas.howard.edu/courses/70108){target="_blank"}
-
+-   [Assignments and grading](../assignments.qmd)
+-   [Historical artifacts](../artifacts.qmd)
+-   [Historical documentation](../documentation.qmd)
+-   [Personal philosophy of education](../philosophy-of-education.qmd)
+-   [Supreme Court trials](../trials.qmd)
+-   [Canvas: EDUC 219](https://canvas.howard.edu/courses/70108){target="_blank"}

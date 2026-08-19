@@ -1,25 +1,33 @@
 ---
 title: "Assignments"
 subtitle: "Schooling for Diverse Populations in American Society"
+
+format:
+  html: default
+  pdf:
+    toc: true
+    number-sections: true
+    geometry:
+      - margin=1in
 ---
 
 ## Overview of course assignments
 
 Course work is organized into four assignment groups. Detailed instructions, rubrics, submission procedures, and current deadlines are available on [Canvas](https://canvas.howard.edu/courses/70108){target="_blank"}.
 
-| Assignment group | Points |
-|---|---:|
-| Archival research | 10 |
-| Personal philosophy of education | 10 |
-| Quizzes | 20 |
-| Midterm examination | 30 |
-| Supreme Court trial reenactments | 30 |
-| **Total** | **100** |
+| Assignment group                 |  Points |
+|----------------------------------|--------:|
+| Archival research                |      10 |
+| Personal philosophy of education |      10 |
+| Quizzes                          |      20 |
+| Midterm examination              |      30 |
+| Supreme Court trial reenactments |      30 |
+| **Total**                        | **100** |
 
 ## Assignment timeline
 
 | Due date | Assignment or activity | Course component |
-|---|---|---|
+|------------------------|------------------------|------------------------|
 | Wed Aug 26 | Discussion Post 1: Select a *Plessy v. Ferguson* or *Brown v. Board of Education* trial group and identify initial historical research questions | Trial reenactments |
 | Sun Aug 30 | Draft philosophy of education statement | Archival research and philosophy |
 | Wed Sep 2 | Quiz 1: Philosophies of education | Quizzes |
@@ -40,4 +48,3 @@ Course work is organized into four assignment groups. Detailed instructions, rub
 | Fri Dec 4 | Final trial materials and notes | Trial reenactments |
 | See Canvas | Historical timeline artifacts and class digital-timeline/database contribution | Archival research and philosophy |
 | See Canvas | Final individual philosophy of education | Archival research and philosophy |
-

@@ -1,0 +1,73 @@
+---
+title: "Module 7: School Segregation and Civil Rights"
+subtitle: "EDUC 219 - Howard University"
+author: "Nathan Alexander, PhD"
+institute: "School of Education"
+
+format:
+  html: default
+  pdf:
+    toc: true
+    number-sections: true
+    geometry:
+      - margin=1in
+  revealjs:
+    output-file: module07-slides.html
+    height: 900
+    width: 1600
+    smaller: true
+    slide-number: c/t
+    logo: "../img/howard-logo.jpg"
+    footer: "[Course Website](https://professornaite.github.io/educ219-fa26/)"
+    toc: false
+    echo: true
+    scrollable: true
+    incremental: false
+---
+
+## Module overview
+
+This module examines school segregation, civil-rights struggles, legal challenges, community organizing, and the continuing pursuit of equal educational opportunity. We will consider how law, policy, housing, political power, school governance, family and community action, and federal enforcement shaped the development and persistence of segregated schooling.
+
+The module connects historical inquiry directly to the course trial reenactments. Students will use archival materials, legal documents, historical news sources, and course concepts to refine evidence-based arguments and represent competing historical perspectives in preparation for the *Plessy v. Ferguson* and *Brown v. Board of Education* trial work.
+
+## Guiding questions
+
+-   How did segregation become embedded in public institutions and school systems?
+-   What legal, political, economic, and social conditions supported segregated schooling?
+-   How did African American families, students, educators, lawyers, and community organizations challenge segregation and unequal access?
+-   How did *Plessy v. Ferguson* shape the legal foundation for segregation?
+-   How did *Brown v. Board of Education* challenge the doctrine of “separate but equal” in public education?
+-   Why was desegregation difficult to implement after *Brown*?
+-   How did housing, school-district boundaries, transportation, funding, and local governance shape school segregation?
+-   What does it mean to represent competing historical perspectives accurately without endorsing discriminatory claims?
+
+## Key concepts
+
+-   Jim Crow
+-   Racial segregation
+-   “Separate but equal”
+-   Equal Protection Clause
+-   Civil rights
+-   Desegregation
+-   School integration
+-   Legal strategy and litigation
+-   Community organizing
+-   Federal enforcement
+-   Educational opportunity
+-   Resistance and institutional change
+
+## Readings and activities
+
+-   Muhammad (2023), *Genius and Joy* curriculum
+-   Additional readings and media on Canvas
+-   Trial-preparation groups and in-class run-throughs
+-   Archival documents, legal annotations, and historical news-source analysis
+-   Trial-group updates
+-   Quiz 4
+
+::: callout-note
+## Trial connection
+
+This module provides direct preparation for the trial reenactments. Use your group’s archival research and the class timeline/database to refine historical context, legal arguments, participant roles, evidence, debate points, and educational implications for *Plessy v. Ferguson* or *Brown v. Board of Education*.
+:::

@@ -18,7 +18,7 @@ format:
     smaller: false
     slide-number: c/t
     logo: "../img/howard-logo.jpg"
-    footer: "[Course Website](https://educ219-fa26.github.io)"
+    footer: "[Course Website](https://professornaite.github.io/educ219-fa26/)"
     toc: false
     echo: true
     scrollable: true
@@ -33,21 +33,21 @@ The module asks students to connect historical thinking, educational inquiry, an
 
 ## Key concepts and inquiries
 
-- Schooling and education
-- Diversity and multiculturalism
-- Social justice
-- Educational opportunity and unequal access
-- Democracy and citizenship
-- Historical thinking and historical significance
-- Archives, artifacts, and primary sources
-- Power, privilege, prejudice, and discrimination
-- Professional identity and agency
+-   Schooling and education
+-   Diversity and multiculturalism
+-   Social justice
+-   Educational opportunity and unequal access
+-   Democracy and citizenship
+-   Historical thinking and historical significance
+-   Archives, artifacts, and primary sources
+-   Power, privilege, prejudice, and discrimination
+-   Professional identity and agency
 
 ## Historical artifacts
 
 Historical artifacts and primary sources help us investigate how people, institutions, communities, policies, and events shaped educational experiences. In this course, historical inquiry is not only about identifying facts from the past; it is also about asking how evidence, interpretation, and historical context shape what we understand about schools and society.
 
-::: {.callout-note}
+::: callout-note
 ## Historical thinking
 
 Historical thinking is the practice of using evidence, context, chronology, and interpretation to understand the past and its relationships to the present and future.
@@ -55,7 +55,7 @@ Historical thinking is the practice of using evidence, context, chronology, and 
 Historical thinking asks us to consider why we examine the past in order to better understand the world around us and the world ahead of us. For educators and informed citizens, it helps us interpret institutions, policies, social conditions, and unequal opportunities with greater care.
 :::
 
-::: {.callout-tip}
+::: callout-tip
 ## Primary source
 
 A primary source is material created during the historical period being studied or by someone directly connected to the event, experience, institution, or idea under investigation.
@@ -63,7 +63,7 @@ A primary source is material created during the historical period being studied 
 Examples include court opinions, laws, letters, newspaper articles, photographs, speeches, school records, meeting minutes, maps, oral histories, and archival documents.
 :::
 
-::: {.callout-tip}
+::: callout-tip
 ## Historical artifact
 
 A historical artifact is an object, document, image, record, or other source that provides evidence about people, institutions, events, and social life in the past.
@@ -71,7 +71,7 @@ A historical artifact is an object, document, image, record, or other source tha
 For this course, artifacts may directly concern education or may provide broader historical context for understanding schools, law, communities, race, citizenship, and educational opportunity.
 :::
 
-::: {.callout-important}
+::: callout-important
 ## Major historical event
 
 A major historical event is an event that meets a stated set of criteria for historical significance.
@@ -81,15 +81,15 @@ As part of the timeline activity, your group will develop and apply its own defi
 
 ## Guiding questions
 
-- What is the difference between education and schooling?
-- What purposes should schools serve in a democratic society?
-- How do race, culture, language, gender, income, and ability shape educational experience and opportunity?
-- How have historical struggles over diversity and inequality shaped American schools?
-- What is the relationship among equal access, justice, democracy, and teaching?
-- How do power, privilege, prejudice, discrimination, and systems of oppression affect schools and communities?
-- Why does historical thinking matter for educators, students, and informed citizens?
-- What kinds of sources can help us understand educational history?
-- What kind of professional identity and agency do I want to develop?
+-   What is the difference between education and schooling?
+-   What purposes should schools serve in a democratic society?
+-   How do race, culture, language, gender, income, and ability shape educational experience and opportunity?
+-   How have historical struggles over diversity and inequality shaped American schools?
+-   What is the relationship among equal access, justice, democracy, and teaching?
+-   How do power, privilege, prejudice, discrimination, and systems of oppression affect schools and communities?
+-   Why does historical thinking matter for educators, students, and informed citizens?
+-   What kinds of sources can help us understand educational history?
+-   What kind of professional identity and agency do I want to develop?
 
 # Notes
 
@@ -97,13 +97,13 @@ As part of the timeline activity, your group will develop and apply its own defi
 
 Although people often use the terms interchangeably, **education** and **schooling** are not identical.
 
-::: {.callout-note}
+::: callout-note
 ## Education
 
 Education is the broad process through which people develop knowledge, skills, values, identities, relationships, and ways of understanding the world. Education occurs in schools, families, communities, workplaces, religious institutions, cultural organizations, social movements, and everyday life.
 :::
 
-::: {.callout-note}
+::: callout-note
 ## Schooling
 
 Schooling refers more specifically to formal, organized educational experiences provided through institutions such as public schools, private schools, colleges, universities, and other credentialing systems.
@@ -113,16 +113,16 @@ Schooling includes curriculum, assessment, policies, schedules, rules, professio
 
 ### Questions for discussion
 
-- Can a person be educated outside of school?
-- What do schools provide that other educational settings may not provide?
-- What kinds of knowledge, histories, identities, and ways of being are recognized or ignored in formal schooling?
-- When do schooling and education support one another? When might they conflict?
+-   Can a person be educated outside of school?
+-   What do schools provide that other educational settings may not provide?
+-   What kinds of knowledge, histories, identities, and ways of being are recognized or ignored in formal schooling?
+-   When do schooling and education support one another? When might they conflict?
 
 ## Diversity
 
 Diversity describes differences among people and communities. In EDUC 219, we will consider how multiple forms of diversity shape educational experience, opportunity, representation, and institutional decision making.
 
-::: {.callout-tip}
+::: callout-tip
 ## Diversity
 
 Diversity includes differences related to race, ethnicity, culture, language, gender, sexuality, income, religion, nationality, immigration history, disability, ability, family structure, geography, and other social locations.
@@ -134,17 +134,17 @@ Diversity is not simply a list of individual characteristics. It also concerns h
 
 Race, culture, language, gender, income, and ability can shape:
 
-- Access to schools, courses, teachers, learning materials, and technology.
-- How students and families are perceived, categorized, or treated.
-- Curriculum content and whose histories, languages, knowledge, and experiences are represented.
-- Discipline, special education, tracking, testing, and other institutional practices.
-- Students’ experiences of belonging, safety, dignity, participation, and academic opportunity.
+-   Access to schools, courses, teachers, learning materials, and technology.
+-   How students and families are perceived, categorized, or treated.
+-   Curriculum content and whose histories, languages, knowledge, and experiences are represented.
+-   Discipline, special education, tracking, testing, and other institutional practices.
+-   Students’ experiences of belonging, safety, dignity, participation, and academic opportunity.
 
 ## Multiculturalism, diversity, and social justice
 
 These terms are related, but they do not mean the same thing.
 
-::: {.callout-note}
+::: callout-note
 ## Multiculturalism
 
 Multiculturalism is an approach that recognizes, studies, and values the histories, cultures, perspectives, and contributions of multiple groups in society.
@@ -152,13 +152,13 @@ Multiculturalism is an approach that recognizes, studies, and values the histori
 In education, multicultural approaches may shape curriculum, texts, classroom discussion, school programming, and institutional practices.
 :::
 
-::: {.callout-note}
+::: callout-note
 ## Social justice
 
 Social justice concerns the fair distribution of rights, resources, recognition, opportunity, and participation. In education, social justice asks how schools can identify and challenge inequities rather than simply treating unequal conditions as normal or inevitable.
 :::
 
-::: {.callout-important}
+::: callout-important
 ## Equity and equality
 
 **Equality** generally means providing the same resources, rules, or treatment to everyone.
@@ -172,31 +172,31 @@ The distinction matters because identical treatment does not always produce fair
 
 Understanding schooling in American society requires attention to how social power operates. Schools do not exist apart from their political, economic, legal, cultural, and historical contexts.
 
-::: {.callout-note}
+::: callout-note
 ## Power
 
 Power is the ability to shape decisions, define what counts as knowledge, distribute resources, establish rules, influence institutions, and affect the conditions of other people’s lives.
 :::
 
-::: {.callout-note}
+::: callout-note
 ## Privilege
 
 Privilege refers to unearned advantages or reduced barriers that individuals or groups may experience because of their social position within broader systems of power.
 :::
 
-::: {.callout-note}
+::: callout-note
 ## Prejudice
 
 Prejudice is a preconceived judgment, belief, or attitude about a person or group that is not based on adequate knowledge or individual experience.
 :::
 
-::: {.callout-note}
+::: callout-note
 ## Discrimination
 
 Discrimination is unequal treatment, exclusion, restriction, or harm directed toward people because of their membership in a social group or because they are perceived to belong to that group.
 :::
 
-::: {.callout-important}
+::: callout-important
 ## Systems of oppression
 
 Systems of oppression are interconnected institutional, cultural, legal, economic, and social arrangements that produce and maintain unequal power, resources, recognition, and opportunity across social groups.
@@ -208,7 +208,7 @@ In this course, we will examine how such systems affect schooling, teaching, lea
 
 Educational opportunity is more than simply being enrolled in a school. It concerns whether students have meaningful access to high-quality learning conditions, relationships, resources, curriculum, participation, and pathways.
 
-::: {.callout-tip}
+::: callout-tip
 ## Equal access
 
 Equal access refers to the principle that students should not be excluded from educational opportunities because of race, culture, language, gender, income, ability, disability, or other social characteristics.
@@ -218,10 +218,10 @@ Questions about equal access include who can enter schools, courses, programs, a
 
 ### Questions for discussion
 
-- What should count as an educational opportunity?
-- Can separate institutions be equal in practice?
-- How do funding, transportation, housing, curriculum, discipline, testing, and teacher assignment shape access?
-- What responsibilities do educators, policymakers, courts, families, and communities have for creating equitable educational conditions?
+-   What should count as an educational opportunity?
+-   Can separate institutions be equal in practice?
+-   How do funding, transportation, housing, curriculum, discipline, testing, and teacher assignment shape access?
+-   What responsibilities do educators, policymakers, courts, families, and communities have for creating equitable educational conditions?
 
 # Historical timelines and archival inquiry
 
@@ -231,13 +231,13 @@ In this course, you will work with others to create physical timelines and then 
 
 Your group will:
 
-- Identify and define criteria for a major historical event.
-- Select two bookend events within a broader historical period.
-- Identify and document two primary-source artifacts situated between the bookend events.
-- Determine whether entries are classified as major events and whether they are education related.
-- Connect records, when relevant, to *Plessy v. Ferguson*, *Brown v. Board of Education*, both cases, or broader historical context.
+-   Identify and define criteria for a major historical event.
+-   Select two bookend events within a broader historical period.
+-   Identify and document two primary-source artifacts situated between the bookend events.
+-   Determine whether entries are classified as major events and whether they are education related.
+-   Connect records, when relevant, to *Plessy v. Ferguson*, *Brown v. Board of Education*, both cases, or broader historical context.
 
-::: {.callout-note}
+::: callout-note
 ## Documentation guide
 
 Use the [historical documentation guide](../documentation.qmd) when preparing entries for the class timeline and archival-research database.
@@ -247,11 +247,11 @@ Use the [historical documentation guide](../documentation.qmd) when preparing en
 
 As you begin the timeline activity, consider:
 
-- Why might two groups select different events as historically significant?
-- What counts as evidence for a claim about historical importance?
-- How can a local event be important even if it is not nationally known?
-- How might a source be directly related to education without being classified as a major historical event?
-- How can historical artifacts help us understand the conditions surrounding *Plessy*, *Brown*, and the development of American schooling?
+-   Why might two groups select different events as historically significant?
+-   What counts as evidence for a claim about historical importance?
+-   How can a local event be important even if it is not nationally known?
+-   How might a source be directly related to education without being classified as a major historical event?
+-   How can historical artifacts help us understand the conditions surrounding *Plessy*, *Brown*, and the development of American schooling?
 
 # Philosophies of education
 
@@ -261,13 +261,13 @@ A philosophy of education is not simply a list of preferred classroom activities
 
 As you begin drafting your philosophy of education, consider:
 
-- What purposes should schools serve in a democratic society?
-- How have historical struggles over racial, cultural, linguistic, gender, income, and ability diversity shaped my understanding of education?
-- What is the relationship among equal access, justice, democracy, and teaching?
-- How should educators respond to unequal histories and present educational conditions?
-- What kind of professional identity and agency do I want to develop?
+-   What purposes should schools serve in a democratic society?
+-   How have historical struggles over racial, cultural, linguistic, gender, income, and ability diversity shaped my understanding of education?
+-   What is the relationship among equal access, justice, democracy, and teaching?
+-   How should educators respond to unequal histories and present educational conditions?
+-   What kind of professional identity and agency do I want to develop?
 
-::: {.callout-important}
+::: callout-important
 ## Philosophy of education
 
 Your final individual philosophy of education should communicate your developing understanding of the purposes of education and the relationships among schools, democracy, access, diversity, power, and social justice.
@@ -283,12 +283,12 @@ Later in the semester, students will work in trial groups focused on *Plessy v. 
 
 The historical thinking, archival research, documentation, and philosophical questions introduced in this module will support that work. Trial groups will use historical evidence to build context, analyze arguments, represent competing perspectives, and consider the educational consequences of Supreme Court decisions.
 
-::: {.callout-tip}
+::: callout-tip
 ## Start building connections
 
 As you encounter an event, artifact, concept, or course reading, ask:
 
-- Does this help explain the historical context of *Plessy* or *Brown*?
-- Does it illuminate questions about segregation, citizenship, public institutions, schooling, or equal access?
-- Could it become a source, claim, question, or piece of evidence for a trial group?
+-   Does this help explain the historical context of *Plessy* or *Brown*?
+-   Does it illuminate questions about segregation, citizenship, public institutions, schooling, or equal access?
+-   Could it become a source, claim, question, or piece of evidence for a trial group?
 :::
