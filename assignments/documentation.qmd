@@ -1,0 +1,64 @@
+---
+title: "Historical documentation"
+subtitle: "Class timeline and archival-research database"
+format:
+  html: default
+  pdf:
+    toc: true
+    number-sections: true
+  revealjs:
+    output-file: documentation-slides.html
+    theme: simple
+    slide-number: true
+    transition: fade
+---
+
+## Historical documentation
+
+For each event or primary-source artifact contributed to the class database, document the following information. Complete fields as precisely as possible. When information is uncertain or unavailable, use a brief note such as `Unknown`, `Approximate`, or `Not applicable` rather than leaving the field blank.
+
+| Database field | What to enter |
+|----|----|
+| `record_id` | A unique identifier assigned to the entry |
+| `event_or_artifact_name` | A concise, descriptive title |
+| `record_type` | `Event` or `Artifact` |
+| `date_start` | Start date or approximate year/date |
+| `date_end` | End date, where applicable |
+| `date_precision` | `Exact date`, `Year`, `Decade`, `Approximate`, or `Date range` |
+| `location` | City, state/territory, region, nation, or another relevant location |
+| `historical_period` | The broader historical period selected by your group |
+| `summary` | A brief factual description |
+| `major_event` | `1 = yes`; `0 = no` |
+| `major_event_rationale` | Explain why the event does or does not meet your group’s criteria for a major historical event |
+| `education_related` | `1 = yes`; `0 = no` |
+| `education_connection` | Explain the item’s relevance to schools, teaching, learning, literacy, educational access, or policy; enter `N/A` when not applicable |
+| `primary_source_title` | Title or description of the primary source |
+| `primary_source_creator` | Person, organization, court, newspaper, institution, or other creator |
+| `primary_source_date` | Date the primary source was created or published |
+| `repository` | Archive, collection, library, or database where the source was found |
+| `source_url` | Stable public URL or repository permalink |
+| `citation` | Full citation in APA, MLA, or Chicago style |
+| `trial_connection` | `Plessy`, `Brown`, `Both`, or `No direct connection` |
+| `trial_connection_note` | Explain any connection to historical context, legal questions, educational access, or group research |
+| `group_id` | Your timeline group identifier |
+| `contributors` | Names of the students responsible for the entry |
+| `verification_status` | `Draft`, `Reviewed by group`, or `Ready for class database` |
+
+## Classification codebook
+
+Use the following codes consistently so that the class can filter, sort, and visualize the shared database.
+
+| Field | Code | Meaning |
+|----|---:|----|
+| `major_event` | 1 | The event meets the group’s stated criteria for historical significance |
+| `major_event` | 0 | The event does not meet the group’s stated criteria for historical significance |
+| `education_related` | 1 | The event or artifact directly relates to schools, teaching, learning, literacy, educational access, or education policy |
+| `education_related` | 0 | The event or artifact does not directly relate to education |
+
+## Documentation reminder
+
+An entry can be historically significant without being directly related to education. Likewise, an artifact can be directly related to schooling or teaching without being classified as a major event.
+
+For example, *Brown v. Board of Education* can be coded as both a major event (`1`) and education related (`1`). A local school-board record may be coded as not a major event (`0`) but education related (`1`).
+
+Return to the [historical artifacts page](artifacts.qmd) for the full timeline activity, archive resources, group roles, and the connection between historical research and the Supreme Court trial reenactments.

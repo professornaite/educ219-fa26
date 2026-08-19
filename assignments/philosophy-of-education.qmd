@@ -1,0 +1,83 @@
+---
+title: "Philosophy of education"
+
+format:
+  html: default
+  pdf:
+    toc: true
+    number-sections: true
+  revealjs:
+    output-file: philosophy-of-education-slides.html
+    theme: simple
+    slide-number: true
+    transition: fade
+---
+
+## Assignment overview
+
+You will complete a final individual **philosophy of education**. This assignment asks you to articulate your developing understanding of the purposes of education and the relationships among schools, democracy, access, diversity, power, and social justice.
+
+This is **not** a philosophy of teaching.
+
+Rather than focusing primarily on classroom techniques, lesson planning, behavior management, or preferred instructional activities, your philosophy should explain what you believe education is for; whom education should serve; what obligations schools, educators, communities, and institutions have; and how educational systems can either reproduce or challenge inequity.
+
+Submission instructions and the current deadline are available on [Canvas](https://canvas.howard.edu/courses/70108){target="_blank"}.
+
+## Purpose
+
+Your philosophy should develop in conversation with the historical, philosophical, sociological, and educational questions of EDUC 219. Use the course to examine how your own commitments have been informed, complicated, confirmed, or changed by:
+
+-   Historical evidence, events, artifacts, or archives.
+-   Course readings, including *Fugitive Pedagogy*.
+-   Discussions of diversity, power, privilege, prejudice, discrimination, access, democracy, and social justice.
+-   The historical and educational contexts of *Plessy v. Ferguson* and *Brown v. Board of Education*.
+-   Your developing professional identity and sense of agency in relation to African American and other diverse students.
+
+## Required elements
+
+Your final philosophy of education should include the following:
+
+1.  **A central claim about education.** Explain what you believe the purposes of education should be in a democratic society.
+
+2.  **An analysis of power and history.** Address how history, power, privilege, prejudice, discrimination, or systems of oppression shape educational opportunity.
+
+3.  **Professional identity and agency.** Explain how your philosophy shapes the professional commitments you will carry forward as an educator, educational leader, researcher, advocate, or other education-related professional.
+
+4.  **A forward-looking conclusion.** Identify at least one continuing question, tension, commitment, or area for growth that will guide your future work in education.
+
+## Suggested organization
+
+You may organize the statement differently, but the following structure can help you develop a coherent argument:
+
+| Section | Guiding question |
+|----|----|
+| Introduction | What is your central claim about the purposes of education? |
+| Education and democracy | What should education contribute to democratic life, citizenship, and the public good? |
+| History, power, and evidence | What historical evidence, course ideas, artifacts, or cases have shaped your perspective? |
+| Professional commitments | What responsibilities and commitments follow from your philosophy? |
+| Conclusion | What will you carry forward, continue questioning, or work to change? |
+
+## Format and submission
+
+Unless otherwise specified on Canvas:
+
+-   Submit an individual, typed paper.
+-   Use Times New Roman, 12-point font, and 1-inch margins.
+-   Use APA, MLA, or Chicago citation style for sources and research-oriented content.
+-   Include a title and clear section headings.
+-   Submit the final document through [Canvas](https://canvas.howard.edu/courses/70108){target="_blank"} by the posted deadline.
+-   Keep a copy of the submitted file for your records.
+
+## Evaluation rubric
+
+The rubric below is worth 10 points total.
+
+| Criterion | Excellent | Proficient | Developing | Beginning | Points |
+|----|----|----|----|----|---:|
+| **Central philosophy of education** | Presents a clear, focused, thoughtful, and compelling philosophy that directly addresses the purposes of education. | Presents a clear philosophy that addresses the purposes of education, though some claims may need greater depth or precision. | Presents a general position, but the philosophy is uneven, unclear, or insufficiently developed. | Does not clearly articulate a philosophy of education or substantially substitutes a philosophy of teaching. | 3 |
+| **History, power, and course evidence** | Integrates at least two course sources or materials accurately and purposefully; demonstrates strong analysis of history, power, privilege, discrimination, or educational systems. | Uses at least two relevant course sources or materials with generally accurate explanation and analysis. | Uses limited, vague, inaccurate, or insufficiently integrated course evidence. | Does not use course evidence in a meaningful way. | 3 |
+| **Professional identity and agency** | Clearly explains a developing professional identity and specific commitments to agency, advocacy, educational justice, or change. | Explains professional commitments and identity, though connections to agency or educational change may need further development. | Mentions future intentions but gives limited explanation of professional commitments or agency. | Does not meaningfully address professional identity, commitments, or agency. | 2 |
+| **Organization, writing, and citation** | Writing is coherent, well organized, polished, and easy to follow; citations and references are complete and consistently formatted. | Writing is organized and understandable with minor issues in clarity, mechanics, or citation. | Organization, clarity, mechanics, or citation practices interfere at times with the reader’s understanding. | Writing is difficult to follow, substantially incomplete, or lacks appropriate citation of sources. | 2 |
+|  |  |  |  | **Total** | **10** |
+
+Your goal is not to produce a final or permanent statement of belief. Instead, develop a thoughtful, evidence-informed philosophy that reflects where you are now and identifies the questions and commitments you will continue to carry forward.

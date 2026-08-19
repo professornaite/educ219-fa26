@@ -1,29 +1,36 @@
 ---
 title: "Introduction to EDUC 219"
-subtitle: "Schooling for Diverse Populations in American Society - Howard University"
+subtitle: "Schooling for Diverse Populations in American Society"
 author: "Nathan Alexander, PhD"
 institute: "School of Education"
-format: 
+
+format:
   html: default
+  pdf:
+    toc: true
+    number-sections: true
+    geometry:
+      - margin=1in
   revealjs:
     output-file: module00-slides.html
     height: 900
     width: 1600
     smaller: false
     slide-number: c/t
-    logo: "img/howard-logo.jpg"
+    logo: "../img/howard-logo.jpg"
     footer: "[Course Website](https://educ-219.github.io/fa26)"
-    toc: true
+    toc: false
     toc-depth: 3
     echo: true
+    scrollable: true
     incremental: false
 ---
 
 # Course description
 
-This course provides candidates with knowledge, skills, dispositions and pedagogy to deliver content-rich, rigorous mathematics and science instruction for African American and diverse urban learners in grades 4 – 6. Candidates will have opportunities to employ a variety of instructional strategies to integrate mathematics and science content and the Common Core State Standards through the Principles of Learning Mathematics and Science. Field-based experiences provide an opportunity for candidates to design, develop and implement evidence-based lessons in science and mathematics.
+The course addresses the philosophy, history, and sociology of American education, particularly with regard to the role of diversity in the development and operation of the nation’s education system. Particular attention will be paid to major social, political, and economic forces that have shaped and continue to shape American schools and educational practices.
 
-This course has a particular emphasis on K-6 school settings.
+Additionally, the course is designed to build among pre-service teachers a global awareness of how racial, cultural, linguistic, gender, income, and ability diversity affect educational opportunity. This course will enable candidates to discern the extent to which some forms of teaching and learning enhance democratic ideals while others do not, and to begin developing a professional identity that reflects the ideals of equal access and social justice.
 
 # Instructor
 
@@ -45,40 +52,39 @@ This course has a particular emphasis on K-6 school settings.
 
 -   Office Hours:
 
-    -   Office location: Miner Building 122H (Curriculum and Instruction)
+    -   Office location: Miner Building 122H, School of Education
 
-    -   Monday and Wednesday after class or by appointment
+    -   Monday and Wednesday, 4:00–5:00 p.m., before class
 
-    -   Appointment Link: <https://nathanalexander.youcanbook.me/>
+    -   Zoom appointments: <https://nathanalexander.youcanbook.me/>
 
--   Email: [nathan.alexander\@howard.edu](mailto:nathan.alexander@howard.edu)
+-   Email: [nathan.alexander@howard.edu](mailto:nathan.alexander@howard.edu)
 
--   Course Site: [https://canvas.howard.edu/courses/](https://canvas.howard.edu/courses/70108){.uri}[70108](https://canvas.howard.edu/courses/70108/)
+-   Course Site: [Canvas: EDUC 219](https://canvas.howard.edu/courses/70108){target="_blank"}
 
 # Course objectives
 
 Upon successfully completing the course, you will be able to:
 
-- Explore social, political, and economic theories and research which distinguish between multiculturalism, diversity, and social justice constructs that have shaped and continue to shape American schools and educational practices.
+-   Explore social, political, and economic theories and research that distinguish multiculturalism, diversity, and social justice constructs that have shaped and continue to shape American schools and educational practices.
 
-- Contrast the ideal of education and the reality of schooling in America for children from diverse racial, cultural, and linguistic backgrounds by exploring theories and research on stereotypes, prejudice, discrimination, and the dynamics of power and privilege, and interlocking systems of oppression within society that impact teaching and learning.
+-   Contrast the ideal of education and the reality of schooling in America for children from diverse racial, cultural, and linguistic backgrounds by exploring theories and research on stereotypes, prejudice, discrimination, the dynamics of power and privilege, and interlocking systems of oppression that affect teaching and learning.
 
-- Explain the historical roots and trajectories of prejudice in the United States; and integrate culturally relevant education in the curriculum and or practice.
+-   Explain the historical roots and trajectories of prejudice in the United States and integrate culturally relevant education into curriculum and/or practice.
 
-- Develop learning experiences that are informed by the personal, social, cultural, historical context of students and their communities.
+-   Develop learning experiences informed by the personal, social, cultural, and historical contexts of students and their communities.
 
-- Demonstrate evidence of a professional identity that challenges the status quo and reflects a sense of agency with regard to the education of African American and other diverse students.
+-   Demonstrate evidence of a professional identity that challenges the status quo and reflects agency regarding the education of African American and other diverse students.
 
----
+------------------------------------------------------------------------
 
 ## What is this course about?
 
 EDUC 219 examines the philosophy, history, and sociology of American education, with particular attention to the role of diversity in the development and operation of schools.
 
-We will consider how social, political, and economic forces have shaped—and continue to shape—educational practices and opportunities in the United States.
+We will consider how social, political, and economic forces have shaped—and continue to shape—educational practices and opportunities in the United States. Our work will connect historical evidence, educational theory, and professional practice as we examine schooling, democratic ideals, equal access, and social justice.
 
-
----
+------------------------------------------------------------------------
 
 ## Core areas of inquiry
 
@@ -93,3 +99,145 @@ Educational access and unequal opportunity
 Historical and contemporary educational policy
 
 Teaching, learning, identity, and community
+
+------------------------------------------------------------------------
+
+## Course learning activities
+
+Throughout the semester, we will:
+
+-   Conduct historical thinking and archival research activities.
+-   Create physical and digital historical timelines.
+-   Analyze primary sources, historical events, educational institutions, and public policy.
+-   Develop an individual philosophy of education.
+-   Participate in trial-group research and discussion posts connected to *Plessy v. Ferguson* or *Brown v. Board of Education*.
+-   Prepare and present Supreme Court trial reenactments.
+
+------------------------------------------------------------------------
+
+# Course assignments
+
+## Four course-work categories
+
+| Course component | Points |
+|---|---:|
+| Archival research and personal philosophy of education | 20 |
+| Quizzes | 20 |
+| Midterm examination | 30 |
+| Supreme Court trial reenactments | 30 |
+| **Total** | **100** |
+
+------------------------------------------------------------------------
+
+## Archival research and personal philosophy
+
+This course component connects historical thinking, primary-source inquiry, timelines, and an individual philosophy of education.
+
+You will work individually and collaboratively to:
+
+- Define criteria for identifying major historical events.
+- Select two historical bookend events within a broader historical period.
+- Identify and document two primary-source artifacts situated between those events.
+- Create a physical historical timeline with a group.
+- Contribute records to the class digital timeline/database.
+- Complete a final individual philosophy of education.
+
+------------------------------------------------------------------------
+
+## Historical timeline database
+
+For each event or artifact, the class database will document:
+
+- Date, location, historical period, and factual summary
+- Whether an item is a major event: `1 = yes`; `0 = no`
+- Whether an item is education related: `1 = yes`; `0 = no`
+- Primary-source information, repository, stable URL, and full citation
+- Connection to *Plessy*, *Brown*, both cases, or no direct connection
+
+The timeline/database will become a shared historical resource for our course.
+
+------------------------------------------------------------------------
+
+## Philosophy of education
+
+The final philosophy of education is an individual assignment.
+
+It is **not** a philosophy of teaching.
+
+Your philosophy should explain your developing understanding of:
+
+- The purposes of education
+- Education, democracy, and the public good
+- Diversity, equity, access, and social justice
+- History, power, privilege, and educational opportunity
+- Your professional identity, commitments, and sense of agency
+
+------------------------------------------------------------------------
+
+## Quizzes
+
+Five short in-class quizzes are worth **20 points total**.
+
+Each quiz is worth **4 points**.
+
+Quizzes will assess your understanding of:
+
+- Course readings and major concepts
+- Historical developments and key events
+- Philosophies of education
+- Educational institutions, policies, and unequal opportunity
+- Pedagogy and educational opportunity
+
+------------------------------------------------------------------------
+
+## Midterm examination
+
+The midterm examination is worth **30 points**.
+
+It will assess your ability to synthesize historical, philosophical, and sociological foundations of American education.
+
+The examination includes:
+
+- Part A: Multiple-choice questions
+- Part B: One open-ended short-answer response
+- Part C: One open-ended classroom-focused response
+
+------------------------------------------------------------------------
+
+## Supreme Court trial reenactments
+
+The Supreme Court trial reenactment component is worth **30 points**.
+
+Students will select or be assigned to a trial group focused on:
+
+- *Plessy v. Ferguson* (1896)
+- *Brown v. Board of Education* (1954)
+
+Each group will research, prepare, and present a 45- to 60-minute reenactment for an audience.
+
+------------------------------------------------------------------------
+
+## Trial-group work
+
+Trial groups will:
+
+- Build historical context for the selected case.
+- Locate and analyze archival documents, legal materials, and historical news sources.
+- Develop evidence-based arguments and identify competing perspectives.
+- Prepare participant roles, debate points, documents, and trial materials.
+- Rehearse and refine the live reenactment.
+- Connect historical research to questions of equal access, diversity, democracy, educational opportunity, and justice.
+
+------------------------------------------------------------------------
+
+## Assignment resources
+
+Use the course website and Canvas throughout the semester:
+
+- [Assignments and grading](../assignments.qmd)
+- [Historical artifacts](../artifacts.qmd)
+- [Historical documentation](../documentation.qmd)
+- [Personal philosophy of education](../philosophy-of-education.qmd)
+- [Supreme Court trials](../trials.qmd)
+- [Canvas: EDUC 219](https://canvas.howard.edu/courses/70108){target="_blank"}
+

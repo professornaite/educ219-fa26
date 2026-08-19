@@ -1,0 +1,47 @@
+---
+title: "Quizzes"
+subtitle: "Course readings, key concepts, and historical inquiry"
+
+format:
+  html: default
+  pdf:
+    toc: true
+    number-sections: true
+  revealjs:
+    output-file: quizzes-slides.html
+    theme: simple
+    slide-number: true
+    transition: fade
+---
+
+## Quiz overview
+
+Five short in-class quizzes will assess your understanding of assigned readings, major concepts, historical developments, philosophical traditions, educational policies, and key terms.
+
+Quizzes are worth **20 points total**, with each quiz worth **4 points**. Quiz questions may include multiple-choice, short-answer, matching, timeline, source-analysis, or other formats appropriate to the course material.
+
+[View a sample quiz](https://www.dropbox.com/scl/fi/u6uyl1xol9idlsf40j1by/2026-fall-quiz-sample.pdf?rlkey=23y8lazirddxa8456i22zfb3n&dl=0){.btn .btn-primary target="_blank"}
+
+## Quiz schedule
+
+| Quiz | Course focus | Date |
+|---|---|---|
+| Quiz 1 | Philosophies of education: historical traditions and key actors | Wednesday, September 2 |
+| Quiz 2 | Common schools, expansion, exclusion, immigration, normal schools, and unequal access | Wednesday, September 23 |
+| Quiz 3 | Progressive and vocational education | Wednesday, October 14 |
+| Quiz 4 | School segregation and civil rights | Wednesday, October 28 |
+| Quiz 5 | Pedagogy and educational opportunity | Wednesday, November 11 |
+
+## How to prepare
+
+To prepare for each quiz:
+
+- Complete the assigned readings and review related materials.
+- Review key terms, historical periods, events, institutions, people, and arguments from class.
+- Review your notes from discussions, activities, archival research, and trial-group work.
+- Consider how historical, philosophical, sociological, legal, and educational questions connect across the module.
+- Ask questions during class or office hours before the quiz date.
+
+## Absences and missed quizzes
+
+You are expected to attend class regularly and arrive on time for the quizzes. If you anticipate an absence or experience an emergency that may affect quiz participation, please contact me as early as possible.

@@ -4,78 +4,77 @@ project:
 
 website:
   page-navigation: true
-  title: "EDUC 219: Principles of Teaching Math and Science in Urban Classrooms II"
-  description: "Course site for EDUC 219 at Howard University"
+  title: "EDUC 219: Schooling for Diverse Populations in American Society"
+  description: "Fall 2026 course site for EDUC 219 at Howard University"
   site-url: "https://educ219-fa26.github.io"
-  
   repo-url: "https://github.com/professornaite/educ219-fa26/"
-  
   open-graph: true
 
   page-footer:
     right: "This page was built by Nathan N. Alexander, PhD in [Quarto](https://quarto.org/)"
     left: "&copy; Copyright 2026, Nathan N. Alexander"
-    background: "#ccb6b1"
-   
+
   sidebar:
     logo: "img/carter-g-woodson.jpg"
     pinned: true
     align: center
-    tools: 
-      - icon: github
-        href: https://professornaite.github.io/educ219-fa26/
-        text: "GitHub page"
-      - icon: code-square
-        href: https://canvas.howard.edu/courses/70108
-        text: "Canvas site"
     style: "docked"
     search: true
     collapse-level: 1
-    contents:  
-    - section: "Course information"
-      contents:
-        - href: index.qmd
-          text: Calendar
-        - href: course-overview.qmd
-          text: Overview
-        - href: assignments.qmd
-          text: Assignments
-        - href: who.qmd
-          text: Site photo
-    - section: "Modules"
-      contents:
-        - href: modules/module00.qmd
-          text: Overview
-        - href: modules/module01.qmd
-          text: Module 1
-        - href: modules/module02.qmd
-          text: Module 2
-        - href: modules/module03.qmd
-          text: Module 3
-        - href: modules/module04.qmd
-          text: Module 4
-        - href: modules/module05.qmd
-          text: Module 5
-        - href: modules/module06.qmd
-          text: Module 6
-        - href: modules/module07.qmd
-          text: Module 7
-        - href: modules/module08.qmd
-          text: Module 8
-    - section: "Rubrics"
-      contents:
-        - href: other/philosophy.qmd
-          text: Philosophy of education
-        - href: other/archive.qmd
-          text: Historical artifacts
-        - href: other/trial.qmd
-          text: Trial reenactment
-    - section: "Supreme Court Trials"
-      contents:
-        - href: trials/plessy-ferguson.qmd
-          text: Plessy v. Ferguson (1896)
-        - href: trials/brown-board.qmd
-          text: Brown v. Board (1954)
+    tools:
+      - icon: github
+        href: "https://github.com/professornaite/educ219-fa26/"
+        text: "GitHub repository"
+      - icon: mortarboard
+        href: "https://canvas.howard.edu/courses/70108"
+        text: "Canvas course site"
+    contents:
+      - section: "Course information"
+        contents:
+          - href: index.qmd
+            text: Home
+          - href: course-overview.qmd
+            text: Course overview
+          - href: assignments.qmd
+            text: Assignments and grading
+          - href: who.qmd
+            text: Site photo
+      - section: "Modules"
+        contents:
+          - href: modules/module00.qmd
+            text: Introduction to EDUC 219
+          - href: modules/module01.qmd
+            text: Module 1 — Schooling for diverse populations
+          - href: modules/module02.qmd
+            text: Module 2 — Philosophies of education
+          - href: modules/module03.qmd
+            text: Module 3 — Colonial education and the Early Republic
+          - href: modules/module04.qmd
+            text: Module 4 — Common schools, expansion, and exclusion
+          - href: modules/module05.qmd
+            text: Module 5 — Reconstruction and the law
+          - href: modules/module06.qmd
+            text: Module 6 — Progressive and vocational education
+          - href: modules/module07.qmd
+            text: Module 7 — School segregation and civil rights
+          - href: modules/module08.qmd
+            text: Module 8 — Pedagogy and educational opportunity
+      - section: "Assignments and rubrics"
+        contents:
+          - href: assignments/philosophy-of-education.qmd
+            text: Philosophy of education
+          - href: assignments/artifacts.qmd
+            text: Archival research and historical artifacts
+          - href: assignments/quizzes.qmd
+            text: Quizzes
+          - href: assignments/trials.qmd
+            text: Trial reenactments
+      - section: "Supreme Court trials"
+        contents:
+          - href: trials/plessy-ferguson.qmd
+            text: Plessy v. Ferguson (1896)
+          - href: trials/brown-board.qmd
+            text: Brown v. Board of Education (1954)
 
 format:
   html:

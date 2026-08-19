@@ -1,0 +1,59 @@
+---
+title: "Supreme Court trials"
+subtitle: "Trial reenactments: Plessy v. Ferguson and Brown v. Board of Education"
+
+format:
+  html: default
+  pdf:
+    toc: true
+    number-sections: true
+  revealjs:
+    output-file: trials-slides.html
+    theme: simple
+    slide-number: true
+    transition: fade
+---
+
+## Supreme Court trial reenactments
+
+You will rank to be assigned to the [*Plessy v. Ferguson*](trials/plessy-ferguson.qmd) or [*Brown v. Board of Education*](trials/brown-board.qmd) trial groups. Working in these groups, you will research, prepare, and present a 45- to 60-minute reenactment for an audience. Each group will examine its case’s historical context, legal claims, competing perspectives, and implications for equal access, diversity, democracy, educational opportunity, and justice.
+
+## Trial-group preparation
+
+Trial-group discussion posts, archival research, and in-class preparation activities will help each group:
+
+-   Build historical context for the selected case.
+-   Locate and analyze primary sources, legal materials, archival documents, and historical news sources.
+-   Develop evidence-based arguments and identify competing legal and public perspectives.
+-   Connect historical events and artifacts to the group’s case research.
+-   Prepare participant roles, debate points, documents, and other trial materials.
+-   Rehearse and refine the live reenactment.
+
+::: callout-note
+## Historical research connection
+
+Use the class historical timeline and archival-research database to identify events, artifacts, sources, and educational themes relevant to your selected trial group. Entries may connect directly to *Plessy*, *Brown*, both cases, or broader historical contexts that help explain the legal and educational issues at stake.
+:::
+
+## Trial reenactment rubric
+
+The Supreme Court trial reenactment component is worth **30 points** total.
+
+| Criterion | Strong evidence of achievement | Satisfactory evidence of achievement | Limited evidence of achievement | Points |
+|---------------|---------------|---------------|---------------|--------------:|
+| **Canvas discussion-board and group preparation** | Consistently contributes substantive, timely, and constructive preparation work; advances group research, planning, and problem solving. | Participates in required preparation activities and contributes relevant work to the group. | Participation is inconsistent, late, minimal, or does not meaningfully support group preparation. | 5 |
+| **Group archival documents, legal annotations, and news sources** | Group assembles a strong, accurate, and well-organized source set that includes relevant archival documents, legal materials, annotations, and historical news sources. Sources are clearly connected to the case and its historical and educational context. | Group assembles an adequate and generally accurate source set with relevant documents and some connection to case context. | Group source set is incomplete, weakly documented, inaccurate, or insufficiently connected to the case and its context. | 5 |
+| **Individual notes, debate points, and trial materials** | Individual preparation is thorough, accurate, organized, and clearly grounded in historical and legal evidence. Notes, claims, questions, responses, and assigned materials demonstrate readiness for the group’s reenactment. | Individual preparation is complete and generally accurate; materials demonstrate adequate readiness for the reenactment. | Individual preparation is incomplete, unclear, inaccurate, or not sufficiently connected to the group’s evidence and assigned role. | 10 |
+| **Live in-class trial reenactment** | Presentation is well prepared, historically and legally grounded, evidence-based, coherent, and engaging. Participants effectively communicate the case’s competing perspectives and educational implications while fulfilling assigned roles. | Presentation is prepared and understandable, includes relevant historical/legal content, and fulfills most assigned roles and expectations. | Presentation is insufficiently prepared, difficult to follow, inaccurate, minimally evidence-based, or does not adequately fulfill assigned roles. | 10 |
+|  |  |  | **Total** | **30** |
+
+## What strong trial work demonstrates
+
+Strong trial reenactment work does more than summarize a court case. It shoould demonstrate that the group can:
+
+-   Explain the historical conditions surrounding the case.
+-   Identify the legal question and relevant arguments.
+-   Use archival documents, primary sources, legal materials, and historical news sources as evidence.
+-   Represent competing perspectives fairly and accurately.
+-   Connect the case to schooling, educational access, citizenship, democracy, and social justice.
+-   Work collaboratively while being individually prepared for an assigned role.

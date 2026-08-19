@@ -1,0 +1,93 @@
+---
+title: "Brown v. Board of Education"
+subtitle: "School segregation and the meaning of equal educational opportunity"
+
+format:
+  html: default
+  pdf:
+    toc: true
+    number-sections: true
+  revealjs:
+    output-file: brown-board-slides.html
+    theme: simple
+    slide-number: true
+    transition: fade
+---
+
+## Case at a glance
+
+| Item | Details |
+|---|---|
+| Case | *Brown v. Board of Education of Topeka*, 347 U.S. 483 |
+| Arguments | December 9, 1952; December 7–9, 1953 |
+| Decision | May 17, 1954 |
+| Vote | 9–0 |
+| Chief Justice | Earl Warren |
+| Opinion | Unanimous opinion of the Court |
+| Central issue | Whether racial segregation in public schools violated the Equal Protection Clause of the Fourteenth Amendment |
+| Holding | Racial segregation in public schools is inherently unequal and violates the Equal Protection Clause of the Fourteenth Amendment |
+
+## Historical context
+
+*Brown v. Board of Education* emerged from a long history of racial segregation in American public life and schooling. For decades, the “separate but equal” doctrine associated with *Plessy v. Ferguson* allowed states and local communities to maintain racially segregated public institutions.
+
+The case was not a single local dispute. It consolidated five cases from Kansas, South Carolina, Virginia, Delaware, and the District of Columbia that challenged racial segregation in public education. The plaintiffs and their families challenged systems that required Black children to attend separate schools, often under unequal conditions.
+
+The litigation was part of a broader legal strategy developed by the NAACP and its Legal Defense and Educational Fund. Lawyers, families, community members, educators, and civil-rights organizations worked over many years to challenge unequal educational conditions and the constitutional basis of segregation.
+
+## Constitutional questions
+
+The case raised several connected questions:
+
+- Does racial segregation in public schools violate the Equal Protection Clause of the Fourteenth Amendment?
+- Can separate schools ever provide equal educational opportunity?
+- How should the Court interpret the “separate but equal” doctrine in relation to public education?
+- What role should the social, psychological, historical, and educational effects of segregation play in constitutional interpretation?
+- What obligations do federal, state, and local institutions have when constitutional rights conflict with established local practices?
+
+## The Court’s decision
+
+On May 17, 1954, the Supreme Court issued a unanimous decision holding that racial segregation in public schools is unconstitutional. Chief Justice Earl Warren wrote the Court’s opinion.
+
+The Court concluded that separate educational facilities are inherently unequal. It held that state-sponsored segregation in public schools deprived Black children of equal protection under the Fourteenth Amendment.
+
+The decision rejected the application of “separate but equal” to public education and overturned the school-segregation precedent established by *Plessy v. Ferguson*. The following year, in *Brown II*, the Court addressed implementation and directed school authorities to begin desegregation with “all deliberate speed.”
+
+## Educational significance
+
+*Brown* is one of the most important education cases in United States history because it directly addressed racial segregation in public schools. The case established that public education is a central responsibility of democratic government and that state-sponsored segregation violates constitutional equality.
+
+However, the decision did not immediately end segregation or create equal educational conditions. Implementation was contested across the country, and desegregation was shaped by local resistance, federal enforcement, community activism, policy decisions, housing patterns, and continuing inequalities in school funding, opportunity, and access.
+
+For EDUC 219, *Brown* raises questions about law, schooling, democracy, citizenship, educational opportunity, institutional change, and the ongoing struggle to make equal access meaningful in practice.
+
+## Trial-group research questions
+
+As you prepare the reenactment, consider:
+
+- What historical conditions made the legal challenge to school segregation possible?
+- What were the five cases consolidated into *Brown*, and how did their local contexts differ?
+- What arguments did the plaintiffs make about equal protection and educational opportunity?
+- What arguments did defenders of school segregation make?
+- What kinds of historical, legal, educational, social, and psychological evidence were relevant to the case?
+- How did *Brown* challenge the reasoning and legacy of *Plessy v. Ferguson*?
+- Why did implementation become so difficult after the Court’s ruling?
+- How should the group represent competing historical perspectives accurately without endorsing segregationist claims?
+
+## Possible research materials
+
+Possible source types include:
+
+- The *Brown* decision and *Brown II* decision.
+- Materials from the five cases consolidated into *Brown*.
+- NAACP legal records, briefs, correspondence, and litigation documents.
+- School-board records, enrollment data, photographs, maps, and local newspaper coverage.
+- Oral histories and community accounts from students, families, educators, lawyers, and activists.
+- Documents related to desegregation, resistance, federal enforcement, and civil-rights organizing.
+- Historical sources that connect segregation to educational funding, facilities, transportation, curriculum, teacher assignments, and access.
+
+::: {.callout-note}
+## Trial preparation reminder
+
+Use primary sources and historical evidence to build the case context, arguments, participant roles, debate points, and supporting materials for your reenactment. Keep complete citations and stable source links for all archival documents, legal annotations, and news sources used by your group.
+:::

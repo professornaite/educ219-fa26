@@ -1,0 +1,86 @@
+---
+title: "Plessy v. Ferguson"
+subtitle: "Segregation, citizenship, and the meaning of equal protection"
+
+format:
+  html: default
+  pdf:
+    toc: true
+    number-sections: true
+  revealjs:
+    output-file: plessy-ferguson-slides.html
+    theme: simple
+    slide-number: true
+    transition: fade
+---
+
+## Case at a glance
+
+| Item | Details |
+|---|---|
+| Case | *Plessy v. Ferguson*, 163 U.S. 537 |
+| Argument | April 13, 1896 |
+| Decision | May 18, 1896 |
+| Vote | 7–1 |
+| Majority opinion | Justice Henry Billings Brown |
+| Dissent | Justice John Marshall Harlan |
+| Central issue | Whether Louisiana’s Separate Car Act violated the Thirteenth and Fourteenth Amendments |
+| Holding | The Court upheld Louisiana’s racial-segregation law and held that state-mandated separation did not, by itself, violate the Fourteenth Amendment’s Equal Protection Clause |
+
+## Historical context
+
+The case emerged during the post-Reconstruction era, when African American civil and political rights were being restricted through state law, local practices, racial violence, and the expanding Jim Crow system. In 1890, Louisiana passed the Separate Car Act, requiring railway companies operating within the state to provide separate accommodations for white and Black passengers.
+
+In 1892, Homer Plessy, a New Orleans resident who was classified as Black under Louisiana law, deliberately sat in a train car designated for white passengers. The action was organized with the support of the Comité des Citoyens, a New Orleans civil-rights organization challenging segregation. Plessy was arrested after refusing to leave the car. His legal challenge eventually reached the United States Supreme Court.
+
+## Constitutional questions
+
+The case asked students, lawyers, judges, and the public to consider several connected questions:
+
+- Did Louisiana’s Separate Car Act violate the Equal Protection Clause of the Fourteenth Amendment?
+- Did segregation in public accommodations create an unconstitutional system of racial inequality?
+- Did the law violate the Thirteenth Amendment’s prohibition on slavery and involuntary servitude?
+- What authority did states have to regulate public accommodations and racial separation?
+- Can legal equality exist when social institutions are organized by racial separation?
+
+## The Court’s decision
+
+On May 18, 1896, the Supreme Court upheld Louisiana’s Separate Car Act. Justice Henry Billings Brown wrote for the majority. The Court concluded that the Fourteenth Amendment was intended to establish legal equality, but it held that laws requiring racial separation did not necessarily imply the legal inferiority of Black Americans. The decision became associated with the doctrine of “separate but equal.”
+
+Justice John Marshall Harlan wrote the lone dissent. He argued that the Constitution is “color-blind” and does not recognize a class system among citizens. His dissent rejected the idea that the state could constitutionally impose racial separation in public life.
+
+## Educational significance
+
+Although the case directly concerned railroad travel rather than schools, its legal logic became a major basis for racial segregation across public life. The decision provided legal justification for segregated public facilities, including transportation, parks, theaters, hospitals, and schools. It shaped the legal and institutional conditions under which unequal school systems were maintained and challenged for decades.
+
+For EDUC 219, the case raises questions about how laws, courts, public institutions, and educational systems can shape unequal access and opportunity. It also provides essential historical and legal context for understanding the litigation strategy and constitutional reasoning later associated with *Brown v. Board of Education*.
+
+## Trial-group research questions
+
+As you prepare the reenactment, consider:
+
+- What were the historical conditions of Reconstruction, disfranchisement, racial violence, and Jim Crow that shaped the case?
+- How should the Separate Car Act be understood from the perspectives of Homer Plessy, Louisiana officials, railway companies, Black communities, and white supporters of segregation?
+- What legal arguments could be made under the Thirteenth and Fourteenth Amendments?
+- What evidence would supporters and opponents of the law use?
+- How did the Court distinguish legal equality from social equality?
+- How did the decision influence schools and other institutions of public life?
+- What are the limits of reenactment? How can the group accurately represent historical arguments without endorsing them?
+
+## Possible research materials
+
+Possible source types include:
+
+- The Supreme Court opinion and Justice Harlan’s dissent.
+- Louisiana’s Separate Car Act.
+- Newspaper coverage of the arrest, litigation, and decision.
+- Records related to the Comité des Citoyens.
+- Historical accounts of rail travel, New Orleans, Reconstruction, and Jim Crow.
+- Primary sources documenting segregated schooling and public accommodations.
+- Legal, educational, and historical scholarship that helps interpret the case.
+
+::: {.callout-note}
+## Trial preparation reminder
+
+Use primary sources and historical evidence to build the case context, arguments, participant roles, debate points, and supporting materials for your reenactment. Keep complete citations and stable source links for all archival documents, legal annotations, and news sources used by your group.
+:::

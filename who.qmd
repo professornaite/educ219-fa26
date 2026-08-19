@@ -3,17 +3,17 @@ title: "Who is in the site photo?"
 subtitle: "Meet Carter G. Woodson"
 ---
 
-![Gladys West](img/carter-g-woodson.jpg){width="80%"}
+![Carter G. Woodson](img/carter-g-woodson.jpg){width="80%"}
 
-Gladys Mae West, born on October 27, 1930, in Sutherland, Virginia, is a pioneering mathematician whose work significantly contributed to the development of the Global Positioning System (GPS). After earning her Bachelor’s degree in mathematics from Virginia State College in 1952 and a Master’s degree in 1955, she began her career at the U.S. Naval Proving Ground, where she developed mathematical models that accurately represented the Earth's shape, essential for GPS technology.
+Carter G. Woodson was a historian, educator, author, and founder of important institutions dedicated to the study of Black history. He is often called the “Father of Black History” because of his work documenting, preserving, and teaching African American history.
 
-Gladys West is often referred to as one of the "hidden figures" in the history of NASA and military technology, West's contributions went largely unrecognized for many years. In 2018, she was inducted into the United States Air Force Hall of Fame and named one of the BBC's 100 Women, highlighting her legacy in STEM and inspiring future generations, particularly women of color, to pursue careers in science and technology.
+Woodson founded the Association for the Study of Negro Life and History and established Negro History Week, which later became Black History Month. His work challenged schools, scholars, and the public to take seriously the histories, intellectual traditions, institutions, and contributions of Black people in the United States.
 
-Ms. West will serve as one of many examples to guide our questions about teaching mathematics and science. Please watch the below video to help frame your historical analysis assignment.
+Dr. Woodson will serve as one of many examples to guide our questions about historical thinking, archives, schooling, and education in American society. Please watch the video below to help frame your historical analysis and archival research assignment.
 
 <center>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ilIsFWqYXgc?si=i1a7TAfs0eC0kxX3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HiFatZu5PoU?si=h-9P9sEjexm4Yt6z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 </iframe>
 
@@ -21,4 +21,4 @@ Ms. West will serve as one of many examples to guide our questions about teachin
 
 </center>
 
-The site photo is taken from this [Hackday article](https://hackaday.com/2021/08/03/gladys-west-modelled-the-earth-so-that-we-can-have-gps/){target="_blank"} by Al Williams.
+The site photo is taken from this [National Park Service](hhttps://www.nps.gov/cawo/learn/carter-g-woodson-biography.htm){target="_blank"} by Scurlock Studio Records.

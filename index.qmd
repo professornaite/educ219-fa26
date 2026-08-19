@@ -1,27 +1,38 @@
 ---
 title: "Welcome to EDUC 219"
-subtitle: "Principles of Teaching Mathematics and Science in Urban Classrooms II"
+subtitle: "Schooling for Diverse Populations in American Society"
 ---
 
-This is the companion site for EDUC 219: Principles of Teaching Mathematics and Science in Urban Classrooms II at Howard University, taught by [Professor Nathan Alexander](https://professornaite.github.io){target="_blank"}. This site will serve as a <u>companion</u> to our [Canvas site](https://canvas.howard.edu/courses/70143){target="_blank"} and support you with questions relevant to teaching mathematics. Let me know if you see any errors.
+Welcome to the companion website for **EDUC 219-01: Schooling for Diverse Populations in American Society** at Howard University, taught by [Professor Nathan Alexander](https://professornaite.github.io){target="_blank"}.
 
-# Weekly Schedule
+This website provides supplementary course materials, module resources, selected documents, and links for our work throughout the semester. **Canvas is the official course site** for announcements, assignment submissions, discussion boards, due dates, and additional course materials.
 
-| Week | Dates | Topics | Assignments $\textit{\&}$ Notes |
-|:---------------:|:--------------------|:----------------|:------------------|
-| 1 | Aug 17 <br> Aug 19 | [**Introduction to EDUC 315**](modules/module00.qmd)<br>Course overview; number line; sets of numbers | Mathematical coloring book |
-| 2 | Aug 24 <br> Aug 26 | [**Module 1: Language of Mathematics**](modules/module01.qmd)<br>Sets, union, intersection; continuation | Number lines<br>Quiz 1 |
-| 3 | Aug 31 <br> Sep 2 | [**Module 1: Logic and proofs**](modules/module01.qmd)<br>CRA approach |  |
-| 4 | Sep 7\* <br> Sep 9 | [**Module 2: Foundations of Mathematical Thinking**](modules/module02.qmd)<br>Polya’s 4-step method | \*No class: Labor Day<br>Quiz 2 |
-| 5 | Sep 14 <br> Sep 16 | Excursion 1: National Portrait Gallery<br>Math activity rotations | Math corner activity |
-| 6 | Sep 21 <br> Sep 23 | [**Module 3: Properties**](modules/module03.qmd)<br>Properties and proof | <br>Quiz 3 |
-| 7 | Sep 28 <br> Sep 30 | [**Module 3: Whole Number Operations**](modules/module03.qmd)<br>Mathematical thinking | Fraction tiles activity |
-| 8 | Oct 5 <br> Oct 7 | [**Module 4: Strands of proficiency**]()<br>Midterm Exam (in-class) | <br>Midterm Exam |
-| 9 | Oct 12\* <br> Oct 14 | [**Module 4: Strands of proficiency**](modules/module04.qmd)<br>Lesson planning in mathematics | \*No class: Indigenous Peoples’ Day |
-| 10 | Oct 19 <br> Oct 21 | [**Module 5: Lesson planning**]() | <br>Quiz 4 |
-| 11 | Oct 26 <br> Oct 28 | [**Module 5: Lesson planning**]() | <br>Lesson plan assignment |
-| 12 | Nov 2 <br> Nov 4 | [**Math lesson presentations**]() | <br>Quiz 5 |
-| 13 | Nov 9 <br> Nov 11 | [**Module 6: Statistics** <br> **Probability**](modules/module06.qmd) |  |
-| 14 | Nov 16 <br> Nov 18 | [**Module 7: Mathematical Modeling**](modules/module07.qmd)<br>Leveraging real-world data | Mathematics unit outline<br>Quiz 6 |
-| 15 | Nov 23 <br> Nov 25 | Closing: Classgiving Potluck & reflections<br>Thanksgiving (No class) | Historical STEM figure |
-| 16 | Nov 30 <br> Dec 2 | Reading period (no class) | Field placement log due |
+[Visit the EDUC 219 Canvas site](https://canvas.howard.edu/courses/70108){.btn .btn-primary target="_blank"}
+
+## Weekly schedule
+
+The schedule may be adjusted as the semester develops. Canvas is the official source for current deadlines, submission instructions, announcements, and course updates. Throughout the semester, discussion posts and group preparation will support students’ selected *Plessy v. Ferguson* or *Brown v. Board of Education* trial reenactment group.
+
+| Week | Dates | Modules, activities, and readings | Assignments and notes |
+|:------------------:|:----------------|:----------------|:----------------|
+| [1](modules/module00.html) | Aug. 17 and 19 | [**Module 0: Intro to EDUC 219**](modules/module00.qmd)<br>Icebreaker, introductions, and overview of EDUC 219<br><br>[**Module 1: Schooling for Diverse Populations in American Society**](modules/module01.qmd)<br>Defining key terms and central questions<br><br>Media: Crash Course Black American History #21 and #33 | Syllabus questionnaire — due Wed., Aug. 19<br><br>Community agreements — due Sun., Aug. 23 |
+| [2](modules/module01.html) | Aug. 24 and 26 | [**Module 1: Schooling for Diverse Populations in American Society**](modules/module01.qmd)<br>Historical periods and key events; Woodson and Black education<br><br>Activity: Historical timelines, from physical to digital timelines<br><br>Reading: Givens (2021), Introduction | Discussion Post 1: Select a *Plessy v. Ferguson* or *Brown v. Board of Education* trial group and identify historical questions, events, people, or institutions that may help frame the group’s research — due Wed., Aug. 26<br><br>Draft philosophy of education statement — due Sun., Aug. 30 |
+| 3 | Aug. 31 and Sept. 2 | [**Module 2: Philosophies of Education**]()<br>Historical traditions and key actors<br><br>Activity: Philosophy of education thematic analysis in groups of four to five<br><br>Reading: Givens (2021), Chapter 1 | Quiz 1 — in class Wed., Sept. 2 |
+| 4 | Sept. 7 and 9 | [**Module 2: Philosophies of Education**]()<br>Contemporary discourses, critical perspectives, and implications for teaching<br><br>Activity: Excursion 1, to be determined as a group<br><br>Reading: Givens (2021), Chapter 2 | **No class Mon., Sept. 7:** Labor Day<br><br>Updated philosophy of education statement — due Sun., Sept. 13 |
+| 5 | Sept. 14 and 16 | [**Module 3: Colonial Education and the Early Republic**]()<br>Indigenous education, colonial schooling, slavery, literacy, and early public education<br><br>Activity: Archival research presentations and findings<br><br>Reading: Givens (2021), Chapter 3 | Discussion Post 2: Trial-group historical context. Identify and explain historical conditions, events, or sources that provide necessary context for your group’s selected trial — due Wed., Sept. 16 |
+| 6 | Sept. 21 and 23 | [**Module 4: Common Schools, Expansion, and Exclusion**]()<br>Common-school movement, immigration, normal schools, and unequal access<br><br>Activity: Archival research presentations and findings<br><br>Reading: Givens (2021), Chapter 4 | Quiz 2 — in class Wed., Sept. 23<br><br>Discussion Post 3: Trial-group archival evidence. Share and analyze primary-source evidence that can support your group’s historical, legal, or educational interpretation of the selected trial — due Wed., Sept. 23 |
+| 7 | Sept. 28 and 30 | [**Module 5: Reconstruction and the Law**]()<br>Emancipation, Freedmen’s education, public education, and citizenship<br><br>Activity: Archival research presentations and findings; trial-group research coordination<br><br>Reading: Givens (2021), Chapter 5 | Continue archival research and trial preparation as assigned on Canvas |
+| 8 | Oct. 5 and 7 | **Midterm examination week**<br><br>Midterm review session via Zoom on Monday; time to be determined | Midterm examination — in class Wed., Oct. 7 |
+| 9 | Oct. 12 and 14 | [**Module 6: Progressive and Vocational Education**]()<br>Review of midterm solutions and results; questions and answers<br><br>Reading: Givens (2021), Chapter 6 and Conclusion | **No class Mon., Oct. 12:** Mental Health Day and Homecoming Week<br><br>Quiz 3 — in class Wed., Oct. 14<br><br>Discussion Post 4: Trial-group arguments and perspectives. Develop an evidence-based account of competing legal, historical, and educational perspectives relevant to your selected trial — due Wed., Oct. 14 |
+| 10 | Oct. 19 and 21 | [**Module 6: Progressive and Vocational Education**]()<br>Activity: Trial-preparation groups; in-class run-throughs and task coordination<br><br>Reading: Introduction to Gholdy Muhammad’s *Genius and Joy* curriculum | Trial-preparation group update: identify needed evidence, documents, roles, and next steps for your selected trial — due Wed., Oct. 21 |
+| 11 | Oct. 26 and 28 | [**Module 7: School Segregation and Civil Rights**]()<br>Activity: Trial-preparation groups; in-class run-throughs and task coordination<br><br>Reading: Muhammad (2023), *Genius and Joy* curriculum | Trial-preparation group update: refine sources, arguments, witness or participant roles, and trial materials — due Wed., Oct. 28<br><br>Quiz 4 — in class Wed., Oct. 28 |
+| 12 | Nov. 2 and 4 | **Trial reenactment and analysis:** [*Plessy v. Ferguson*](trials/plessy-ferguson.qmd) | Trial materials and group responsibilities as assigned on Canvas |
+| 13 | Nov. 9 and 11 | [**Module 8: Pedagogy and Educational Opportunity**]()<br>Activity: Trial review and trial-preparation groups<br><br>Reading: Muhammad (2023), *Genius and Joy* curriculum | Quiz 5 — in class Wed., Nov. 11<br><br>Discussion Post 5: Trial-group educational implications. Explain how your selected case and its historical context inform contemporary questions of educational opportunity, equal access, teaching, learning, and policy — due Wed., Nov. 11 |
+| 14 | Nov. 16 and 18 | **Trial reenactment and analysis:** [*Brown v. Board of Education*](trials/brown-board.qmd) | Trial materials and group responsibilities as assigned on Canvas |
+| 15 | Nov. 23 and 25 | End-of-term synthesis: Schools in American Society from 1930 to the present | Final trial materials and notes — due Fri., Dec. 4 |
+
+## Continue here
+
+-   Read the [course overview](course-overview.qmd)
+-   Review [assignments and grading](assignments.qmd)
+-   Visit [Canvas](https://canvas.howard.edu/courses/70108){target="_blank"} for submissions, discussions, announcements, and current deadlines

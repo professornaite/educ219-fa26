@@ -1,31 +1,43 @@
 ---
 title: "Assignments"
-subtitle: "Principles of Teaching Math and Science in Urban Classrooms II (Grades 4-6)"
+subtitle: "Schooling for Diverse Populations in American Society"
 ---
 
-### **Overview of course assignments**
+## Overview of course assignments
 
-Our course assignments will be split between four assignment groups.
+Course work is organized into four assignment groups. Detailed instructions, rubrics, submission procedures, and current deadlines are available on [Canvas](https://canvas.howard.edu/courses/70108){target="_blank"}.
 
-Please see the detailed syllabus on our Canvas site for a more ordered list.
+| Assignment group | Points |
+|---|---:|
+| Archival research | 10 |
+| Personal philosophy of education | 10 |
+| Quizzes | 20 |
+| Midterm examination | 30 |
+| Supreme Court trial reenactments | 30 |
+| **Total** | **100** |
 
-| Assignment group | Assignment | Due date |
-|------------------------|------------------------|------------------------|
-| **Mathematical activities and lesson plans** | Mathematics corner activity | Sun Sept 13 |
-|  | Two-day lesson plan (in pairs) | Wed Oct 28 |
-|  | Mathematics unit outline (*initial* draft) | Sun Nov 22 |
-|  | Historical STEM figure activity | Mon Nov 23 |
-|  | Mathematics unit outline (*final* draft) | Friday Dec 4 |
-|  |  |  |
-| **Quizzes** (in class) | Quiz 1: Numbers and sets | Wed Aug 26 |
-|  | Quiz 2: Logic and related concepts | Wed Sep 9 |
-|  | Quiz 3: Quantity and operations | Wed Sep 23 |
-|  | Quiz 4: Structure and properties | Wed Oct 21 |
-|  | Quiz 5: Space and geometry (objects, shape, representations) | Wed Nov 4 |
-|  | Quiz 6: Statistics and probability | Wed Nov 18 |
-|  |  |  |
-| **Midterm exam** (in class) |  | Wed Oct 7 |
-|  |  |  |
-| **Field placement log and other files/notes** | Excursion 1: National Portrait Gallery | Mon Sep 14 |
-|  | Excursion 2: NMAAHC | Wed Nov 11 |
-|  | Field placement log due | Wed Dec 2 |
+## Assignment timeline
+
+| Due date | Assignment or activity | Course component |
+|---|---|---|
+| Wed Aug 26 | Discussion Post 1: Select a *Plessy v. Ferguson* or *Brown v. Board of Education* trial group and identify initial historical research questions | Trial reenactments |
+| Sun Aug 30 | Draft philosophy of education statement | Archival research and philosophy |
+| Wed Sep 2 | Quiz 1: Philosophies of education | Quizzes |
+| Sun Sep 13 | Updated philosophy of education statement | Archival research and philosophy |
+| Wed Sep 16 | Discussion Post 2: Trial-group historical context | Trial reenactments |
+| Wed Sep 23 | Quiz 2: Common schools, expansion, and exclusion | Quizzes |
+| Wed Sep 23 | Discussion Post 3: Trial-group archival evidence | Trial reenactments |
+| Wed Oct 7 | Midterm examination | Midterm examination |
+| Wed Oct 14 | Quiz 3: Progressive and vocational education | Quizzes |
+| Wed Oct 14 | Discussion Post 4: Trial-group arguments and perspectives | Trial reenactments |
+| Wed Oct 21 | Trial-preparation group update: evidence, documents, roles, and next steps | Trial reenactments |
+| Wed Oct 28 | Quiz 4: School segregation and civil rights | Quizzes |
+| Wed Oct 28 | Trial-preparation group update: sources, arguments, participant roles, and trial materials | Trial reenactments |
+| Week of Nov 2 | *Plessy v. Ferguson* trial reenactment and analysis | Trial reenactments |
+| Wed Nov 11 | Quiz 5: Pedagogy and educational opportunity | Quizzes |
+| Wed Nov 11 | Discussion Post 5: Trial-group educational implications | Trial reenactments |
+| Week of Nov 16 | *Brown v. Board of Education* trial reenactment and analysis | Trial reenactments |
+| Fri Dec 4 | Final trial materials and notes | Trial reenactments |
+| See Canvas | Historical timeline artifacts and class digital-timeline/database contribution | Archival research and philosophy |
+| See Canvas | Final individual philosophy of education | Archival research and philosophy |
+
