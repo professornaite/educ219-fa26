@@ -27,9 +27,19 @@ format:
 
 # Module overview
 
-This module introduces EDUC 219 and establishes the key concepts, historical questions, and shared inquiry practices that will guide the course. We begin by examining what it means to study schooling for diverse populations in American society.
+This module establishes key concepts, historical questions, and a few shared inquiry practices that will guide our course. We begin by examining what it means to study schooling for diverse populations in American society. This module asks us to connect historical thinking, educational inquiry, and personal reflection to our thinking about the "schooling," and what we mean by "schooling." We start by considering how diversity, power, institutions, and historical memory shape educational experiences and opportunities.
 
-The module asks students to connect historical thinking, educational inquiry, and personal reflection. We will consider how diversity, power, institutions, and historical memory shape educational experiences and opportunities.
+## Guiding questions
+
+-   **What is the difference between education and schooling?**
+-   **What purposes should schools serve in a democratic society?**
+-   How do race, culture, language, gender, income, and ability shape educational experience and opportunity?
+-   How have historical struggles over diversity and inequality shaped American schools?
+-   What is the relationship among equal access, justice, democracy, and teaching?
+-   How do power, privilege, prejudice, discrimination, and systems of oppression affect schools and communities?
+-   Why does historical thinking matter for educators, students, and informed citizens?
+-   What kinds of sources can help us understand educational history?
+-   What kind of professional identity and agency do I want to develop?
 
 ## Key concepts and inquiries
 
@@ -38,14 +48,208 @@ The module asks students to connect historical thinking, educational inquiry, an
 -   Social justice
 -   Educational opportunity and unequal access
 -   Democracy and citizenship
--   Historical thinking and historical significance
 -   Archives, artifacts, and primary sources
 -   Power, privilege, prejudice, and discrimination
 -   Professional identity and agency
+-   Historical thinking and historical significance
 
-## Historical artifacts
+---
 
-Historical artifacts and primary sources help us investigate how people, institutions, communities, policies, and events shaped educational experiences. In this course, historical inquiry is not only about identifying facts from the past; it is also about asking how evidence, interpretation, and historical context shape what we understand about schools and society.
+## Education vs. schooling
+
+Although people often use the terms interchangeably, **education** and **schooling** are not identical.
+
+![Framing education and schooling](../img/mod01/education-vs-school.jpg)
+
+---
+
+## Education vs. schooling
+
+> "Don't let schooling interfere with your education."
+
+::: callout-note
+## Education
+
+Education is the broad process through which people develop knowledge, skills, values, identities, relationships, and ways of understanding the world. Education occurs in schools, families, communities, workplaces, religious institutions, cultural organizations, social movements, and everyday life.
+:::
+
+![Paulo Freire, Brazilian educator](../img/mod01/freire.jpg)
+
+---
+
+## Education vs. schooling
+
+::: callout-note
+## Schooling
+
+Schooling refers more specifically to formal, organized educational experiences provided through institutions such as public schools, private schools, colleges, universities, and other credentialing systems.
+
+Schooling includes curriculum, assessment, policies, schedules, rules, professional roles, funding structures, and institutional decisions that shape access to learning.
+:::
+
+![Example of a traditional classroom](../img/mod01/banking.jpeg)
+
+---
+
+### Questions for discussion
+
+-   Can a person be educated outside of school?
+-   **What do schools provide that other educational settings may not provide?**
+-   What kinds of knowledge, histories, identities, and ways of being are recognized or ignored in formal schooling?
+-   When do schooling and education support one another? When might they conflict?
+
+![Peer groups provide socialization](../img/mod01/peers.jpg)
+
+---
+
+## Diversity
+
+Diversity describes differences among people and communities.
+
+::: callout-tip
+## Diversity
+
+Diversity includes differences related to race, ethnicity, culture, language, gender, sexuality, income, religion, nationality, immigration history, disability, ability, family structure, geography, and other social locations.
+
+Diversity is not simply a list of individual characteristics. It also concerns how institutions respond to differences and how social systems distribute recognition, resources, power, and opportunity.
+:::
+
+![What does it mean to be diverse?](../img/mod01/diversity.jpg)
+---
+
+### Diversity and educational opportunity
+
+Race, culture, language, gender, income, and ability can shape:
+
+-   Access to schools, courses, teachers, learning materials, and technology.
+-   How students and families are perceived, categorized, or treated.
+-   Curriculum content and whose histories, languages, knowledge, and experiences are represented.
+-   Discipline, special education, tracking, testing, and other institutional practices.
+-   Students’ experiences of belonging, safety, dignity, participation, and academic opportunity.
+
+---
+
+## Multiculturalism, diversity, and social justice
+
+These terms are related, but they do not mean the same thing.
+
+::: callout-note
+## Multiculturalism
+
+Multiculturalism is an approach that recognizes, studies, and values the histories, cultures, perspectives, and contributions of multiple groups in society.
+
+In education, multicultural approaches may shape curriculum, texts, classroom discussion, school programming, and institutional practices.
+:::
+
+![Multiculturalism and multilingualism](../img/mod01/multiculturalism-without-multilingualism.jpg)
+---
+
+::: callout-note
+## Social justice
+
+Social justice concerns the fair distribution of rights, resources, recognition, opportunity, and participation. In education, social justice asks how schools can identify and challenge inequities rather than simply treating unequal conditions as normal or inevitable.
+:::
+
+![Connie North's (2006) Three Spheres of Social Justice](../img/mod01/North-three-spheres.png)
+
+----
+
+## Equity and equality
+
+::: callout-important
+
+**Equality** generally means providing the same resources, rules, or treatment to everyone.
+
+**Equity** means responding to unequal conditions, barriers, and needs in ways intended to make genuine access, participation, and opportunity possible.
+
+The distinction matters because identical treatment does not always produce fair or equitable outcomes.
+:::
+
+![Equity, equality, reality](../img/mod01/equity-equality-reality.jpg)
+---
+
+## Power, privilege, prejudice, and discrimination
+
+Understanding schooling in American society requires attention to how social power operates. Schools do not exist apart from their political, economic, legal, cultural, and historical contexts.
+
+![Wheel of power and privilege](../img/mod01/power-privilege.jpg)
+
+---
+
+::: callout-note
+## Power
+
+Power is the ability to shape decisions, define what counts as knowledge, distribute resources, establish rules, influence institutions, and affect the conditions of other people’s lives.
+:::
+
+![The nation-state and power](../img/mod01/global-power.png)
+
+---
+
+::: callout-note
+## Privilege
+
+Privilege refers to unearned advantages or reduced barriers that individuals or groups may experience because of their social position within broader systems of power.
+:::
+
+![An example of white privilege](../img/mod01/privilege.jpg)
+
+---
+
+::: callout-note
+## Prejudice
+
+Prejudice is a preconceived judgment, belief, or attitude about a person or group that is not based on adequate knowledge or individual experience.
+:::
+
+![Prejudice is about our beliefs](../img/mod01/prejudice.jpg)
+---
+
+::: callout-note
+## Discrimination
+
+Discrimination is unequal treatment, exclusion, restriction, or harm directed toward people because of their membership in a social group or because they are perceived to belong to that group.
+:::
+
+![Discrimination is about our actions](../img/mod01/discrimination.jpg)
+---
+
+::: callout-important
+## Systems of oppression
+
+Systems of oppression are interconnected institutional, cultural, legal, economic, and social arrangements that produce and maintain unequal power, resources, recognition, and opportunity across social groups.
+
+In this course, we will examine how such systems affect schooling, teaching, learning, policy, access, and educational outcomes.
+:::
+
+![Systems of oppressions](../img/mod01/systems-of-oppression.png)
+
+---
+
+## Educational opportunity
+
+Educational opportunity is more than simply being enrolled in a school. It concerns whether students have meaningful access to high-quality learning conditions, relationships, resources, curriculum, participation, and pathways.
+
+::: callout-tip
+## Equal access
+
+Equal access refers to the principle that students should not be excluded from educational opportunities because of race, culture, language, gender, income, ability, disability, or other social characteristics.
+
+Questions about equal access include who can enter schools, courses, programs, activities, and decision-making spaces, as well as what supports are necessary for meaningful participation.
+:::
+
+---
+
+### Questions for discussion
+
+-   What should count as an educational opportunity?
+-   **Can separate institutions be equal in practice?**
+-   How do funding, transportation, housing, curriculum, discipline, testing, and teacher assignment shape access?
+-   What responsibilities do educators, policymakers, courts, families, and communities have for creating equitable educational conditions?
+
+---
+
+## Historical timelines and archival inquiry
 
 ::: callout-note
 ## Historical thinking
@@ -55,6 +259,15 @@ Historical thinking is the practice of using evidence, context, chronology, and 
 Historical thinking asks us to consider why we examine the past in order to better understand the world around us and the world ahead of us. For educators and informed citizens, it helps us interpret institutions, policies, social conditions, and unequal opportunities with greater care.
 :::
 
+## Historical artifacts
+
+Historical artifacts and primary sources help us investigate how people, institutions, communities, policies, and events shaped educational experiences. In this course, historical inquiry is not only about identifying facts from the past; it is also about asking how evidence, interpretation, and historical context shape what we understand about schools and society.
+
+
+![Image from ibb.co](../img/mod01/primary-source.jpg)
+
+---
+
 ::: callout-tip
 ## Primary source
 
@@ -62,6 +275,10 @@ A primary source is material created during the historical period being studied 
 
 Examples include court opinions, laws, letters, newspaper articles, photographs, speeches, school records, meeting minutes, maps, oral histories, and archival documents.
 :::
+
+![](../img/mod01/emancipationdaylarge.jpg)
+
+---
 
 ::: callout-tip
 ## Historical artifact
@@ -79,163 +296,24 @@ A major historical event is an event that meets a stated set of criteria for his
 As part of the timeline activity, your group will develop and apply its own definition. The point is not merely to label an event “important,” but to explain what makes it historically significant, to whom, at what scale, and with what consequences.
 :::
 
-## Guiding questions
+---
 
--   What is the difference between education and schooling?
--   What purposes should schools serve in a democratic society?
--   How do race, culture, language, gender, income, and ability shape educational experience and opportunity?
--   How have historical struggles over diversity and inequality shaped American schools?
--   What is the relationship among equal access, justice, democracy, and teaching?
--   How do power, privilege, prejudice, discrimination, and systems of oppression affect schools and communities?
--   Why does historical thinking matter for educators, students, and informed citizens?
--   What kinds of sources can help us understand educational history?
--   What kind of professional identity and agency do I want to develop?
+### From physical to digital timelines
 
-# Notes
+In this course, we will work with others to create physical timelines and then contribute to a shared class digital timeline/database.
 
-## Schooling and education
+Your group should have:
 
-Although people often use the terms interchangeably, **education** and **schooling** are not identical.
+-   Identified and defined criteria for major historical events.
+-  Identified a set of "minor" historical events.
 
-::: callout-note
-## Education
+Your groups will now:
 
-Education is the broad process through which people develop knowledge, skills, values, identities, relationships, and ways of understanding the world. Education occurs in schools, families, communities, workplaces, religious institutions, cultural organizations, social movements, and everyday life.
-:::
+-   Identify and document two primary-source artifacts situated in your period.
+-   Insert event data and archival information into the class database.
 
-::: callout-note
-## Schooling
+---
 
-Schooling refers more specifically to formal, organized educational experiences provided through institutions such as public schools, private schools, colleges, universities, and other credentialing systems.
-
-Schooling includes curriculum, assessment, policies, schedules, rules, professional roles, funding structures, and institutional decisions that shape access to learning.
-:::
-
-### Questions for discussion
-
--   Can a person be educated outside of school?
--   What do schools provide that other educational settings may not provide?
--   What kinds of knowledge, histories, identities, and ways of being are recognized or ignored in formal schooling?
--   When do schooling and education support one another? When might they conflict?
-
-## Diversity
-
-Diversity describes differences among people and communities. In EDUC 219, we will consider how multiple forms of diversity shape educational experience, opportunity, representation, and institutional decision making.
-
-::: callout-tip
-## Diversity
-
-Diversity includes differences related to race, ethnicity, culture, language, gender, sexuality, income, religion, nationality, immigration history, disability, ability, family structure, geography, and other social locations.
-
-Diversity is not simply a list of individual characteristics. It also concerns how institutions respond to differences and how social systems distribute recognition, resources, power, and opportunity.
-:::
-
-### Diversity and educational opportunity
-
-Race, culture, language, gender, income, and ability can shape:
-
--   Access to schools, courses, teachers, learning materials, and technology.
--   How students and families are perceived, categorized, or treated.
--   Curriculum content and whose histories, languages, knowledge, and experiences are represented.
--   Discipline, special education, tracking, testing, and other institutional practices.
--   Students’ experiences of belonging, safety, dignity, participation, and academic opportunity.
-
-## Multiculturalism, diversity, and social justice
-
-These terms are related, but they do not mean the same thing.
-
-::: callout-note
-## Multiculturalism
-
-Multiculturalism is an approach that recognizes, studies, and values the histories, cultures, perspectives, and contributions of multiple groups in society.
-
-In education, multicultural approaches may shape curriculum, texts, classroom discussion, school programming, and institutional practices.
-:::
-
-::: callout-note
-## Social justice
-
-Social justice concerns the fair distribution of rights, resources, recognition, opportunity, and participation. In education, social justice asks how schools can identify and challenge inequities rather than simply treating unequal conditions as normal or inevitable.
-:::
-
-::: callout-important
-## Equity and equality
-
-**Equality** generally means providing the same resources, rules, or treatment to everyone.
-
-**Equity** means responding to unequal conditions, barriers, and needs in ways intended to make genuine access, participation, and opportunity possible.
-
-The distinction matters because identical treatment does not always produce fair or equitable outcomes.
-:::
-
-## Power, privilege, prejudice, and discrimination
-
-Understanding schooling in American society requires attention to how social power operates. Schools do not exist apart from their political, economic, legal, cultural, and historical contexts.
-
-::: callout-note
-## Power
-
-Power is the ability to shape decisions, define what counts as knowledge, distribute resources, establish rules, influence institutions, and affect the conditions of other people’s lives.
-:::
-
-::: callout-note
-## Privilege
-
-Privilege refers to unearned advantages or reduced barriers that individuals or groups may experience because of their social position within broader systems of power.
-:::
-
-::: callout-note
-## Prejudice
-
-Prejudice is a preconceived judgment, belief, or attitude about a person or group that is not based on adequate knowledge or individual experience.
-:::
-
-::: callout-note
-## Discrimination
-
-Discrimination is unequal treatment, exclusion, restriction, or harm directed toward people because of their membership in a social group or because they are perceived to belong to that group.
-:::
-
-::: callout-important
-## Systems of oppression
-
-Systems of oppression are interconnected institutional, cultural, legal, economic, and social arrangements that produce and maintain unequal power, resources, recognition, and opportunity across social groups.
-
-In this course, we will examine how such systems affect schooling, teaching, learning, policy, access, and educational outcomes.
-:::
-
-## Educational opportunity
-
-Educational opportunity is more than simply being enrolled in a school. It concerns whether students have meaningful access to high-quality learning conditions, relationships, resources, curriculum, participation, and pathways.
-
-::: callout-tip
-## Equal access
-
-Equal access refers to the principle that students should not be excluded from educational opportunities because of race, culture, language, gender, income, ability, disability, or other social characteristics.
-
-Questions about equal access include who can enter schools, courses, programs, activities, and decision-making spaces, as well as what supports are necessary for meaningful participation.
-:::
-
-### Questions for discussion
-
--   What should count as an educational opportunity?
--   Can separate institutions be equal in practice?
--   How do funding, transportation, housing, curriculum, discipline, testing, and teacher assignment shape access?
--   What responsibilities do educators, policymakers, courts, families, and communities have for creating equitable educational conditions?
-
-# Historical timelines and archival inquiry
-
-## From physical to digital timelines
-
-In this course, you will work with others to create physical timelines and then contribute to a shared class digital timeline/database.
-
-Your group will:
-
--   Identify and define criteria for a major historical event.
--   Select two bookend events within a broader historical period.
--   Identify and document two primary-source artifacts situated between the bookend events.
--   Determine whether entries are classified as major events and whether they are education related.
--   Connect records, when relevant, to *Plessy v. Ferguson*, *Brown v. Board of Education*, both cases, or broader historical context.
 
 ::: callout-note
 ## Documentation guide
@@ -245,15 +323,16 @@ Use the [historical documentation guide](../documentation.qmd) when preparing en
 
 ## Reflection
 
-As you begin the timeline activity, consider:
+As you coontinue the timeline activity, consider:
 
 -   Why might two groups select different events as historically significant?
 -   What counts as evidence for a claim about historical importance?
 -   How can a local event be important even if it is not nationally known?
 -   How might a source be directly related to education without being classified as a major historical event?
--   How can historical artifacts help us understand the conditions surrounding *Plessy*, *Brown*, and the development of American schooling?
 
-# Philosophies of education
+---
+
+# Coming up: Philosophies of education
 
 ## Starting questions
 
@@ -272,14 +351,14 @@ As you begin drafting your philosophy of education, consider:
 
 Your final individual philosophy of education should communicate your developing understanding of the purposes of education and the relationships among schools, democracy, access, diversity, power, and social justice.
 
-It is not a philosophy of teaching. Your work should move beyond preferred instructional strategies to address the broader purposes and responsibilities of education.
+**It is not a philosophy of teaching**. Your work should move beyond preferred instructional strategies to address the broader purposes and responsibilities of education.
 :::
 
-# Preparation for the trials
+---
 
 ## Looking ahead
 
-Later in the semester, students will work in trial groups focused on *Plessy v. Ferguson* or *Brown v. Board of Education*.
+Later in the semester, we will work in trial groups focused on *Plessy v. Ferguson* or *Brown v. Board of Education*.
 
 The historical thinking, archival research, documentation, and philosophical questions introduced in this module will support that work. Trial groups will use historical evidence to build context, analyze arguments, represent competing perspectives, and consider the educational consequences of Supreme Court decisions.
 

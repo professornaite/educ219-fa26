@@ -1,0 +1,83 @@
+---
+title: "Making my first time visualization"
+author: "Nathan Alexander"
+date: "2026-08-20"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+
+install.packages("timevis", 
+                 repos = "https://cran.r-project.org")
+library(timevis)
+```
+
+## R Markdown
+
+This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
+
+When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:
+
+```{r sample}
+
+
+data <- data.frame(
+  id      = 1:4,
+  content = c("Item one", "Item two",
+              "Ranged item", "Item four"),
+  start   = c("2016-01-10", "2016-01-11",
+              "2016-01-20", "2016-02-14 15:00:00"),
+  end     = c(NA, NA, "2016-02-04", NA)
+)
+
+timevis(data)
+```
+
+```
+
+timeline_1981_2009 <- data.frame(
+  id = 1:10,
+  content = c(
+    "Event one",
+    "Event two",
+    "Event three",
+    "Event four",
+    "Event five",
+    "Event six",
+    "Event seven",
+    "Event eight",
+    "Event nine",
+    "Event ten"
+  ),
+  start = c(
+    "1981-01-01",
+    "1984-01-01",
+    "1987-01-01",
+    "1991-01-01",
+    "1994-01-01",
+    "1997-01-01",
+    "2001-01-01",
+    "2004-01-01",
+    "2007-01-01",
+    "2009-01-01"
+  ),
+  end = c(
+    NA,
+    NA,
+    NA,
+    "1993-12-31",
+    NA,
+    NA,
+    "2003-12-31",
+    NA,
+    NA,
+    NA
+  ),
+  stringsAsFactors = FALSE
+)
+
+timevis(timeline_1981_2009)
+```
+
+Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
