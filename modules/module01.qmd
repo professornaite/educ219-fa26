@@ -323,7 +323,7 @@ Use the [historical documentation guide](../documentation.qmd) when preparing en
 
 ## Reflection
 
-As you coontinue the timeline activity, consider:
+As you continue the timeline activity, consider:
 
 -   Why might two groups select different events as historically significant?
 -   What counts as evidence for a claim about historical importance?
@@ -349,25 +349,7 @@ As you begin drafting your philosophy of education, consider:
 ::: callout-important
 ## Philosophy of education
 
-Your final individual philosophy of education should communicate your developing understanding of the purposes of education and the relationships among schools, democracy, access, diversity, power, and social justice.
+Your individual philosophy of education should communicate your developing understanding of the purposes of education and the relationships among schools, democracy, access, diversity, power, and social justice.
 
 **It is not a philosophy of teaching**. Your work should move beyond preferred instructional strategies to address the broader purposes and responsibilities of education.
-:::
-
----
-
-## Looking ahead
-
-Later in the semester, we will work in trial groups focused on *Plessy v. Ferguson* or *Brown v. Board of Education*.
-
-The historical thinking, archival research, documentation, and philosophical questions introduced in this module will support that work. Trial groups will use historical evidence to build context, analyze arguments, represent competing perspectives, and consider the educational consequences of Supreme Court decisions.
-
-::: callout-tip
-## Start building connections
-
-As you encounter an event, artifact, concept, or course reading, ask:
-
--   Does this help explain the historical context of *Plessy* or *Brown*?
--   Does it illuminate questions about segregation, citizenship, public institutions, schooling, or equal access?
--   Could it become a source, claim, question, or piece of evidence for a trial group?
 :::
