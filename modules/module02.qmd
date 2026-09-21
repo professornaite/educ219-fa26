@@ -79,7 +79,7 @@ Django Paris extended culturally relevant pedagogy through an explicit focus on 
 -   Links pedagogy to positive social transformation
 -   Treats pluralism as an educational asset rather than a deficit
 
-**Instructional implication:** Teaching should support students in succeeding academically without requiring them to abandon their languages, identities, or community practices.
+![Django Paris, University of Washington](../img/mod02/django-paris.jpg)
 
 ------------------------------------------------------------------------
 
@@ -94,7 +94,8 @@ Carter G. Woodson advocated for the centrality of Black history in education.
 -   Developed a lasting critique of the “mis-education” of African Americans
 -   Linked historical knowledge to collective self-determination
 
-**Instructional implication:** Curriculum should critically examine whose histories, achievements, and intellectual traditions are represented—and whose are excluded.
+![Carter G. Woodson](../img/mod02/carter-woodson.jpg)
+
 
 ------------------------------------------------------------------------
 
@@ -109,7 +110,7 @@ Bob Moses combined civil-rights activism with literacy and mathematics education
 -   Worked with underserved communities through the Algebra Project
 -   Connected educational opportunity to political and economic access
 
-**Instructional implication:** Access to rigorous mathematics is not simply an academic matter; it can be understood as a matter of citizenship, power, and opportunity.
+![Bob Moses, Algebra Project](../img/mod02/bob-moses.jpg)
 
 ------------------------------------------------------------------------
 
