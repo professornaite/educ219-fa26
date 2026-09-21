@@ -1,0 +1,1096 @@
+% Options for packages loaded elsewhere
+\PassOptionsToPackage{unicode}{hyperref}
+\PassOptionsToPackage{hyphens}{url}
+\PassOptionsToPackage{dvipsnames,svgnames,x11names}{xcolor}
+%
+\documentclass[
+  letterpaper,
+  DIV=11,
+  numbers=noendperiod]{scrartcl}
+
+\usepackage{amsmath,amssymb}
+\usepackage{iftex}
+\ifPDFTeX
+  \usepackage[T1]{fontenc}
+  \usepackage[utf8]{inputenc}
+  \usepackage{textcomp} % provide euro and other symbols
+\else % if luatex or xetex
+  \usepackage{unicode-math}
+  \defaultfontfeatures{Scale=MatchLowercase}
+  \defaultfontfeatures[\rmfamily]{Ligatures=TeX,Scale=1}
+\fi
+\usepackage{lmodern}
+\ifPDFTeX\else  
+    % xetex/luatex font selection
+\fi
+% Use upquote if available, for straight quotes in verbatim environments
+\IfFileExists{upquote.sty}{\usepackage{upquote}}{}
+\IfFileExists{microtype.sty}{% use microtype if available
+  \usepackage[]{microtype}
+  \UseMicrotypeSet[protrusion]{basicmath} % disable protrusion for tt fonts
+}{}
+\makeatletter
+\@ifundefined{KOMAClassName}{% if non-KOMA class
+  \IfFileExists{parskip.sty}{%
+    \usepackage{parskip}
+  }{% else
+    \setlength{\parindent}{0pt}
+    \setlength{\parskip}{6pt plus 2pt minus 1pt}}
+}{% if KOMA class
+  \KOMAoptions{parskip=half}}
+\makeatother
+\usepackage{xcolor}
+\usepackage[margin=1in]{geometry}
+\setlength{\emergencystretch}{3em} % prevent overfull lines
+\setcounter{secnumdepth}{5}
+% Make \paragraph and \subparagraph free-standing
+\makeatletter
+\ifx\paragraph\undefined\else
+  \let\oldparagraph\paragraph
+  \renewcommand{\paragraph}{
+    \@ifstar
+      \xxxParagraphStar
+      \xxxParagraphNoStar
+  }
+  \newcommand{\xxxParagraphStar}[1]{\oldparagraph*{#1}\mbox{}}
+  \newcommand{\xxxParagraphNoStar}[1]{\oldparagraph{#1}\mbox{}}
+\fi
+\ifx\subparagraph\undefined\else
+  \let\oldsubparagraph\subparagraph
+  \renewcommand{\subparagraph}{
+    \@ifstar
+      \xxxSubParagraphStar
+      \xxxSubParagraphNoStar
+  }
+  \newcommand{\xxxSubParagraphStar}[1]{\oldsubparagraph*{#1}\mbox{}}
+  \newcommand{\xxxSubParagraphNoStar}[1]{\oldsubparagraph{#1}\mbox{}}
+\fi
+\makeatother
+
+
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}\usepackage{longtable,booktabs,array}
+\usepackage{calc} % for calculating minipage widths
+% Correct order of tables after \paragraph or \subparagraph
+\usepackage{etoolbox}
+\makeatletter
+\patchcmd\longtable{\par}{\if@noskipsec\mbox{}\fi\par}{}{}
+\makeatother
+% Allow footnotes in longtable head/foot
+\IfFileExists{footnotehyper.sty}{\usepackage{footnotehyper}}{\usepackage{footnote}}
+\makesavenoteenv{longtable}
+\usepackage{graphicx}
+\makeatletter
+\newsavebox\pandoc@box
+\newcommand*\pandocbounded[1]{% scales image to fit in text height/width
+  \sbox\pandoc@box{#1}%
+  \Gscale@div\@tempa{\textheight}{\dimexpr\ht\pandoc@box+\dp\pandoc@box\relax}%
+  \Gscale@div\@tempb{\linewidth}{\wd\pandoc@box}%
+  \ifdim\@tempb\p@<\@tempa\p@\let\@tempa\@tempb\fi% select the smaller of both
+  \ifdim\@tempa\p@<\p@\scalebox{\@tempa}{\usebox\pandoc@box}%
+  \else\usebox{\pandoc@box}%
+  \fi%
+}
+% Set default figure placement to htbp
+\def\fps@figure{htbp}
+\makeatother
+
+\KOMAoption{captions}{tableheading}
+\makeatletter
+\@ifpackageloaded{caption}{}{\usepackage{caption}}
+\AtBeginDocument{%
+\ifdefined\contentsname
+  \renewcommand*\contentsname{Table of contents}
+\else
+  \newcommand\contentsname{Table of contents}
+\fi
+\ifdefined\listfigurename
+  \renewcommand*\listfigurename{List of Figures}
+\else
+  \newcommand\listfigurename{List of Figures}
+\fi
+\ifdefined\listtablename
+  \renewcommand*\listtablename{List of Tables}
+\else
+  \newcommand\listtablename{List of Tables}
+\fi
+\ifdefined\figurename
+  \renewcommand*\figurename{Figure}
+\else
+  \newcommand\figurename{Figure}
+\fi
+\ifdefined\tablename
+  \renewcommand*\tablename{Table}
+\else
+  \newcommand\tablename{Table}
+\fi
+}
+\@ifpackageloaded{float}{}{\usepackage{float}}
+\floatstyle{ruled}
+\@ifundefined{c@chapter}{\newfloat{codelisting}{h}{lop}}{\newfloat{codelisting}{h}{lop}[chapter]}
+\floatname{codelisting}{Listing}
+\newcommand*\listoflistings{\listof{codelisting}{List of Listings}}
+\makeatother
+\makeatletter
+\makeatother
+\makeatletter
+\@ifpackageloaded{caption}{}{\usepackage{caption}}
+\@ifpackageloaded{subcaption}{}{\usepackage{subcaption}}
+\makeatother
+
+\usepackage{bookmark}
+
+\IfFileExists{xurl.sty}{\usepackage{xurl}}{} % add URL line breaks if available
+\urlstyle{same} % disable monospaced font for URLs
+\hypersetup{
+  pdftitle={Module 2: Philosophies of Education},
+  pdfauthor={Nathan Alexander, PhD},
+  colorlinks=true,
+  linkcolor={blue},
+  filecolor={Maroon},
+  citecolor={Blue},
+  urlcolor={Blue},
+  pdfcreator={LaTeX via pandoc}}
+
+
+\title{Module 2: Philosophies of Education}
+\usepackage{etoolbox}
+\makeatletter
+\providecommand{\subtitle}[1]{% add subtitle to \maketitle
+  \apptocmd{\@title}{\par {\large #1 \par}}{}{}
+}
+\makeatother
+\subtitle{EDUC 219 - Howard University}
+\author{Nathan Alexander, PhD}
+\date{}
+
+\begin{document}
+\maketitle
+
+\renewcommand*\contentsname{Table of contents}
+{
+\hypersetup{linkcolor=}
+\setcounter{tocdepth}{3}
+\tableofcontents
+}
+
+\section{Module overview}\label{module-overview}
+
+This module introduces historical traditions and contemporary discourses
+in philosophies of education. We will examine how philosophical ideas
+shape beliefs about the purposes of education, the role of schools in
+democratic society, the relationships among knowledge, learning,
+teaching, and citizenship, and the distribution of educational
+opportunity.
+
+\section{Guiding questions}\label{guiding-questions}
+
+\begin{itemize}
+\tightlist
+\item
+  What is a philosophy of education?
+\item
+  What purposes should education and schools serve in a democratic
+  society?
+\item
+  How have major philosophical traditions shaped American educational
+  thought and practice?
+\item
+  How do different philosophies understand knowledge, learning,
+  authority, curriculum, and citizenship?
+\end{itemize}
+
+\section{Key concepts}\label{key-concepts}
+
+\begin{itemize}
+\tightlist
+\item
+  Philosophy of education
+\item
+  Democratic education
+\item
+  Educational aims and purposes
+\item
+  Knowledge and curriculum
+\item
+  Authority and freedom
+\item
+  Equality, equity, and access
+\item
+  Diversity and multiculturalism
+\item
+  Social justice
+\item
+  Professional identity and agency
+\end{itemize}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\section{James Banks}\label{james-banks}
+
+\includegraphics[width=0.38\linewidth,height=\textheight,keepaspectratio]{../img/mod01/james-banks.jpg}
+
+\subsection{Multicultural Education}\label{multicultural-education}
+
+James Banks developed a framework for integrating multicultural content
+into curricula. His work emphasizes five dimensions:
+
+\begin{itemize}
+\tightlist
+\item
+  Content integration
+\item
+  Knowledge construction
+\item
+  Prejudice reduction
+\item
+  Equity pedagogy
+\item
+  An empowering school culture and social structure
+\end{itemize}
+
+Multicultural education involves more than adding diverse figures or
+holidays to the curriculum; it also requires examining how knowledge is
+constructed and how school structures distribute opportunity.
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\section{Django Paris}\label{django-paris}
+
+\subsection{Culturally Sustaining
+Pedagogy}\label{culturally-sustaining-pedagogy}
+
+Django Paris extended culturally relevant pedagogy through an explicit
+focus on \textbf{sustaining} linguistic, literate, and cultural
+pluralism in schooling.
+
+\begin{itemize}
+\tightlist
+\item
+  Centers students' existing cultural and linguistic resources
+\item
+  Challenges assimilationist assumptions about achievement
+\item
+  Links pedagogy to positive social transformation
+\item
+  Treats pluralism as an educational asset rather than a deficit
+\end{itemize}
+
+\textbf{Instructional implication:} Teaching should support students in
+succeeding academically without requiring them to abandon their
+languages, identities, or community practices.
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\section{Carter G. Woodson}\label{carter-g.-woodson}
+
+\subsection{Black Education}\label{black-education}
+
+Carter G. Woodson advocated for the centrality of Black history in
+education.
+
+\begin{itemize}
+\tightlist
+\item
+  Founded Negro History Week, which later developed into Black History
+  Month
+\item
+  Critiqued schooling that devalued Black history, knowledge, and agency
+\item
+  Developed a lasting critique of the ``mis-education'' of African
+  Americans
+\item
+  Linked historical knowledge to collective self-determination
+\end{itemize}
+
+\textbf{Instructional implication:} Curriculum should critically examine
+whose histories, achievements, and intellectual traditions are
+represented---and whose are excluded.
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\section{Bob Moses}\label{bob-moses}
+
+\subsection{Literacy Education}\label{literacy-education}
+
+Bob Moses combined civil-rights activism with literacy and mathematics
+education.
+
+\begin{itemize}
+\tightlist
+\item
+  Treated literacy, including mathematical literacy, as a civil-rights
+  issue
+\item
+  Viewed quantitative knowledge as a resource for participation and
+  empowerment
+\item
+  Worked with underserved communities through the Algebra Project
+\item
+  Connected educational opportunity to political and economic access
+\end{itemize}
+
+\textbf{Instructional implication:} Access to rigorous mathematics is
+not simply an academic matter; it can be understood as a matter of
+citizenship, power, and opportunity.
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\section{Paulo Freire}\label{paulo-freire}
+
+\subsection{Education for Liberation}\label{education-for-liberation}
+
+Paulo Freire developed critical pedagogy, arguing that education should
+be a practice of freedom rather than domination.
+
+\begin{itemize}
+\tightlist
+\item
+  Emphasized dialogue rather than one-way transmission
+\item
+  Distinguished critical inquiry from ``banking'' models of education
+\item
+  Advanced critical consciousness as an educational aim
+\item
+  Connected learning to learners' social realities and collective action
+\end{itemize}
+
+\textbf{Instructional implication:} Students should be positioned as
+knowledgeable participants who can investigate, name, and act on
+conditions shaping their lives.
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\section{Jo-ann Archibald Q'um Q'um
+Xiiem}\label{jo-ann-archibald-qum-qum-xiiem}
+
+\subsection{Indigenous Storywork}\label{indigenous-storywork}
+
+Jo-ann Archibald Q'um Q'um Xiiem developed a framework for using
+Indigenous stories in education.
+
+Her seven principles are:
+
+\begin{itemize}
+\tightlist
+\item
+  Respect
+\item
+  Responsibility
+\item
+  Reciprocity
+\item
+  Reverence
+\item
+  Holism
+\item
+  Interrelatedness
+\item
+  Synergy
+\end{itemize}
+
+\textbf{Instructional implication:} Stories can be understood as sources
+of intellectual, ethical, emotional, spiritual, and relational
+learning---not merely as illustrative classroom materials.
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\section{Bryan McKinley Jones
+Brayboy}\label{bryan-mckinley-jones-brayboy}
+
+\subsection{Tribal Critical Race
+Theory}\label{tribal-critical-race-theory}
+
+Bryan McKinley Jones Brayboy extended Critical Race Theory to address
+the particular political, legal, historical, and educational contexts of
+Indigenous peoples.
+
+\begin{itemize}
+\tightlist
+\item
+  Centers tribal sovereignty and self-determination
+\item
+  Examines colonization as enduring rather than merely historical
+\item
+  Recognizes storytelling as theory-building
+\item
+  Affirms Indigenous knowledge systems and community-based
+  understandings
+\end{itemize}
+
+\textbf{Instructional implication:} Equity work involving Indigenous
+communities must attend to sovereignty, place, historical relationships,
+and Indigenous intellectual traditions.
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\section{Albert Bandura}\label{albert-bandura}
+
+\subsection{Observational Learning
+Theory}\label{observational-learning-theory}
+
+Albert Bandura argued that behavior can be learned through observing
+others.
+
+\begin{itemize}
+\tightlist
+\item
+  Learners attend to models and the consequences models receive
+\item
+  Observation may influence behavior even without direct reinforcement
+\item
+  Modeling can shape skills, expectations, and beliefs about one's
+  capabilities
+\item
+  Social environments are important sources of learning
+\end{itemize}
+
+\textbf{Instructional implication:} Teachers, peers, media, and
+classroom norms all provide models that students may observe and
+emulate.
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\section{Asa Hilliard}\label{asa-hilliard}
+
+\subsection{African-Centered
+Education}\label{african-centered-education}
+
+Asa Hilliard emphasized the educational importance of cultural identity,
+particularly for African American students.
+
+\begin{itemize}
+\tightlist
+\item
+  Advocated for curriculum that includes African and African American
+  history and culture
+\item
+  Critiqued deficit-oriented accounts of Black learners and communities
+\item
+  Highlighted intellectual traditions that conventional curricula often
+  marginalize
+\item
+  Connected cultural affirmation with rigorous learning
+\end{itemize}
+
+\textbf{Instructional implication:} High expectations and cultural
+responsiveness should be mutually reinforcing rather than treated as
+competing priorities.
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\section{Abraham Maslow}\label{abraham-maslow}
+
+\subsection{Hierarchy of Needs}\label{hierarchy-of-needs}
+
+Abraham Maslow proposed that people strive to satisfy different
+categories of needs.
+
+From lower to higher, the commonly presented levels are:
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\tightlist
+\item
+  Physiological needs
+\item
+  Safety needs
+\item
+  Love and belonging
+\item
+  Esteem
+\item
+  Self-actualization
+\end{enumerate}
+
+\textbf{Instructional implication:} Learning conditions are shaped by
+students' material security, safety, belonging, dignity, and
+opportunities for meaningful growth.
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\section{Carol Dweck}\label{carol-dweck}
+
+\subsection{Growth Mindset}\label{growth-mindset}
+
+Carol Dweck examines how beliefs about intelligence influence motivation
+and achievement.
+
+\begin{longtable}[]{@{}
+  >{\raggedright\arraybackslash}p{(\linewidth - 4\tabcolsep) * \real{0.3333}}
+  >{\raggedright\arraybackslash}p{(\linewidth - 4\tabcolsep) * \real{0.3333}}
+  >{\raggedright\arraybackslash}p{(\linewidth - 4\tabcolsep) * \real{0.3333}}@{}}
+\toprule\noalign{}
+\begin{minipage}[b]{\linewidth}\raggedright
+Orientation
+\end{minipage} & \begin{minipage}[b]{\linewidth}\raggedright
+Core belief
+\end{minipage} & \begin{minipage}[b]{\linewidth}\raggedright
+Likely response to challenge
+\end{minipage} \\
+\midrule\noalign{}
+\endhead
+\bottomrule\noalign{}
+\endlastfoot
+Fixed mindset & Ability is largely unchangeable & Avoid challenge or
+interpret difficulty as evidence of limited ability \\
+Growth mindset & Ability can develop through learning, strategy,
+feedback, and effort & Treat challenge as an opportunity to learn \\
+\end{longtable}
+
+\textbf{Instructional implication:} Feedback can emphasize strategies,
+revision, persistence, and learning processes rather than presenting
+achievement as evidence of fixed ability.
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\section{Erik Erikson}\label{erik-erikson}
+
+\subsection{Socioemotional
+Development}\label{socioemotional-development}
+
+Erik Erikson described development as a sequence of psychosocial crises
+across the lifespan.
+
+\begin{itemize}
+\tightlist
+\item
+  Early development begins with trust versus mistrust
+\item
+  Later stages involve tensions such as autonomy versus shame,
+  initiative versus guilt, and industry versus inferiority
+\item
+  Adolescence is associated with identity versus role confusion
+\item
+  Development continues through adulthood
+\end{itemize}
+
+\textbf{Instructional implication:} Classroom experiences can influence
+students' senses of competence, belonging, identity, and agency.
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\section{Leon Festinger}\label{leon-festinger}
+
+\subsection{Cognitive Dissonance}\label{cognitive-dissonance}
+
+Leon Festinger's theory of cognitive dissonance proposes that
+inconsistencies between beliefs, values, attitudes, and behaviors can
+create psychological discomfort.
+
+\begin{itemize}
+\tightlist
+\item
+  Dissonance may motivate a person to change beliefs, behavior, or
+  interpretations
+\item
+  Learners may revise understandings when existing explanations no
+  longer fit evidence or experience
+\item
+  The idea is often connected to constructivist accounts of conceptual
+  change
+\end{itemize}
+
+\textbf{Instructional implication:} Carefully designed questions,
+evidence, and discrepant events can help students recognize and
+reconsider incomplete understandings.
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\section{Sigmund Freud}\label{sigmund-freud}
+
+\subsection{Levels of Consciousness}\label{levels-of-consciousness}
+
+Sigmund Freud proposed that the mind operates across conscious and
+unconscious levels.
+
+His structural model includes:
+
+\begin{itemize}
+\tightlist
+\item
+  \textbf{Id:} Primitive motivations and desires
+\item
+  \textbf{Ego:} The mediating, reality-oriented component
+\item
+  \textbf{Superego:} Internalized moral standards and conscience
+\end{itemize}
+
+\textbf{Instructional implication:} Although not an instructional
+theory, Freudian ideas have influenced ways educators and psychologists
+think about motivation, emotion, conflict, and development.
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\section{Gloria Ladson-Billings}\label{gloria-ladson-billings}
+
+\subsection{Culturally Relevant
+Pedagogy}\label{culturally-relevant-pedagogy}
+
+Gloria Ladson-Billings developed culturally relevant pedagogy, which
+argues that teaching should build from students' cultural backgrounds
+and community knowledge.
+
+Culturally relevant teaching seeks to support:
+
+\begin{itemize}
+\tightlist
+\item
+  Academic success
+\item
+  Cultural competence
+\item
+  Critical consciousness
+\end{itemize}
+
+\textbf{Instructional implication:} Strong teaching advances rigorous
+disciplinary learning while supporting students' cultural identities and
+their capacity to analyze social inequities.
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\section{Howard Gardner}\label{howard-gardner}
+
+\subsection{Multiple Intelligences}\label{multiple-intelligences}
+
+Howard Gardner proposed that individuals possess distinct forms of
+intelligence, commonly including:
+
+\begin{itemize}
+\tightlist
+\item
+  Linguistic
+\item
+  Logical-mathematical
+\item
+  Spatial
+\item
+  Bodily-kinesthetic
+\item
+  Musical
+\item
+  Intrapersonal
+\item
+  Interpersonal
+\end{itemize}
+
+\textbf{Instructional implication:} Teachers can offer varied ways for
+students to encounter, represent, practice, and demonstrate learning
+rather than relying on a single mode of instruction or assessment.
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\section{Ivan Pavlov}\label{ivan-pavlov}
+
+\subsection{Classical Conditioning}\label{classical-conditioning}
+
+Ivan Pavlov's classical conditioning model describes the association of
+a new stimulus with an existing stimulus-response pairing.
+
+Classic example:
+
+\begin{itemize}
+\tightlist
+\item
+  Food produces salivation in dogs
+\item
+  A bell is repeatedly paired with food
+\item
+  The bell eventually produces salivation even when food is absent
+\end{itemize}
+
+\textbf{Instructional implication:} Learners can form associations
+between classroom conditions, emotional responses, cues, and academic
+activities.
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\section{Jarvis Givens}\label{jarvis-givens}
+
+\subsection{Fugitive Pedagogy}\label{fugitive-pedagogy}
+
+Jarvis Givens examines a hidden tradition of Black teaching developed
+under oppressive educational conditions.
+
+\begin{itemize}
+\tightlist
+\item
+  Documents how Black educators navigated systems designed to constrain
+  Black learning
+\item
+  Centers pedagogical care, intellectual resistance, and racial uplift
+\item
+  Shows how teaching has served as a site of freedom-making
+\item
+  Connects historical study to current educational practice
+\end{itemize}
+
+\textbf{Instructional implication:} Teachers' practices can carry
+intellectual and ethical commitments that exceed official curricula,
+policies, and institutional constraints.
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\section{Jean Piaget}\label{jean-piaget}
+
+\subsection{Developmental
+Epistemology}\label{developmental-epistemology}
+
+Jean Piaget theorized that children's thinking develops through
+qualitatively different stages.
+
+\begin{longtable}[]{@{}
+  >{\raggedright\arraybackslash}p{(\linewidth - 4\tabcolsep) * \real{0.3333}}
+  >{\raggedright\arraybackslash}p{(\linewidth - 4\tabcolsep) * \real{0.3333}}
+  >{\raggedright\arraybackslash}p{(\linewidth - 4\tabcolsep) * \real{0.3333}}@{}}
+\toprule\noalign{}
+\begin{minipage}[b]{\linewidth}\raggedright
+Approximate age
+\end{minipage} & \begin{minipage}[b]{\linewidth}\raggedright
+Stage
+\end{minipage} & \begin{minipage}[b]{\linewidth}\raggedright
+General characterization
+\end{minipage} \\
+\midrule\noalign{}
+\endhead
+\bottomrule\noalign{}
+\endlastfoot
+0--2 years & Sensorimotor & Learning through perception and motor
+activity \\
+3--7 years & Preoperational & Intuitive and symbolic thinking \\
+8--11 years & Concrete operational & Logical reasoning about concrete
+situations \\
+12--15 years and beyond & Formal operational & Abstract and hypothetical
+reasoning \\
+\end{longtable}
+
+\textbf{Instructional implication:} Learning tasks should be responsive
+to learners' developing ways of reasoning, while avoiding assumptions
+that age alone fully determines capability.
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\section{Jerome Bruner}\label{jerome-bruner}
+
+\subsection{Constructivist Theory}\label{constructivist-theory}
+
+Jerome Bruner argued that learners actively construct knowledge by
+relating new ideas to their existing schemas or mental models.
+
+\begin{itemize}
+\tightlist
+\item
+  Learning involves making meaning, not merely receiving information
+\item
+  Prior knowledge shapes how new information is interpreted
+\item
+  Discovery, inquiry, and revisiting ideas can support understanding
+\item
+  Instruction can be organized so concepts return with increasing
+  sophistication
+\end{itemize}
+
+\textbf{Instructional implication:} Teaching should elicit prior ideas,
+create opportunities for inquiry, and help students revise and extend
+their existing understandings.
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\section{John Dewey}\label{john-dewey}
+
+\subsection{Learning by Doing}\label{learning-by-doing}
+
+John Dewey emphasized that learning occurs through experience, inquiry,
+and reflection.
+
+\begin{itemize}
+\tightlist
+\item
+  Knowledge grows through engagement with meaningful problems
+\item
+  Experience becomes educative when learners reflect on it
+\item
+  Schools can prepare students for democratic participation
+\item
+  Classroom activity should connect to learners' lives and communities
+\end{itemize}
+
+\textbf{Instructional implication:} Students learn deeply when they
+investigate authentic questions, test ideas, collaborate, and reflect on
+consequences.
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\section{John Hattie}\label{john-hattie}
+
+\subsection{Visible Learning}\label{visible-learning}
+
+John Hattie synthesizes meta-analytic research to identify influences
+associated with student achievement.
+
+\begin{itemize}
+\tightlist
+\item
+  Emphasizes the use of evidence in instructional decision-making
+\item
+  Draws attention to feedback, teacher clarity, formative assessment,
+  and visible learning processes
+\item
+  Encourages educators to examine the impact of their teaching
+\item
+  Promotes ongoing assessment of whether students are making progress
+\end{itemize}
+
+\textbf{Instructional implication:} Teachers can use multiple sources of
+evidence to make learning goals, progress, and next steps visible to
+students and to inform instruction.
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\section{Ken Robinson}\label{ken-robinson}
+
+\subsection{Creativity in Education}\label{creativity-in-education}
+
+Ken Robinson advocated for education that nurtures creativity, divergent
+thinking, and diverse forms of human talent.
+
+\begin{itemize}
+\tightlist
+\item
+  Critiqued narrow definitions of achievement
+\item
+  Questioned overly standardized approaches to schooling
+\item
+  Called for personalized and varied learning opportunities
+\item
+  Emphasized the relationship between creativity, identity, and
+  engagement
+\end{itemize}
+
+\textbf{Instructional implication:} Curriculum and assessment can create
+room for multiple pathways, imaginative problem-solving, artistic
+expression, and students' developing interests.
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\section{Lawrence Kohlberg}\label{lawrence-kohlberg}
+
+\subsection{Stages of Moral
+Development}\label{stages-of-moral-development}
+
+Lawrence Kohlberg described moral reasoning in three broad levels:
+
+\begin{longtable}[]{@{}
+  >{\raggedright\arraybackslash}p{(\linewidth - 2\tabcolsep) * \real{0.5000}}
+  >{\raggedright\arraybackslash}p{(\linewidth - 2\tabcolsep) * \real{0.5000}}@{}}
+\toprule\noalign{}
+\begin{minipage}[b]{\linewidth}\raggedright
+Level
+\end{minipage} & \begin{minipage}[b]{\linewidth}\raggedright
+General orientation
+\end{minipage} \\
+\midrule\noalign{}
+\endhead
+\bottomrule\noalign{}
+\endlastfoot
+Pre-conventional & Moral decisions are oriented toward self-interest and
+consequences \\
+Conventional & Moral decisions are oriented toward social approval,
+rules, and local expectations \\
+Post-conventional & Moral decisions are oriented toward broader ethical
+principles \\
+\end{longtable}
+
+\textbf{Instructional implication:} Ethical discussion can invite
+students to explain and examine the reasons underlying judgments, rules,
+obligations, and competing values.
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\section{John Locke}\label{john-locke}
+
+\subsection{Tabula Rasa}\label{tabula-rasa}
+
+John Locke's tabula rasa metaphor characterizes the mind as a ``blank
+slate'' shaped by experience.
+
+\begin{itemize}
+\tightlist
+\item
+  Emphasizes the formative influence of environment and education
+\item
+  Historically influenced later empiricist and behaviorist traditions
+\item
+  Raises questions about the relative roles of experience, teaching, and
+  individual development
+\end{itemize}
+
+\textbf{Instructional implication:} Educational environments,
+experiences, and instruction matter profoundly---but learners should not
+be treated as passive recipients of knowledge.
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\section{Lev Vygotsky}\label{lev-vygotsky}
+
+\subsection{Social Development Theory and
+ZPD}\label{social-development-theory-and-zpd}
+
+Lev Vygotsky argued that social interaction is central to cognitive
+development.
+
+The \textbf{Zone of Proximal Development (ZPD)} distinguishes between:
+
+\begin{itemize}
+\tightlist
+\item
+  What a learner can do independently
+\item
+  What a learner can do with assistance from a more capable peer,
+  teacher, or other support
+\end{itemize}
+
+The ZPD provides a theoretical basis for \textbf{scaffolding}.
+
+\textbf{Instructional implication:} Teachers can design supports,
+collaborative structures, prompts, models, and feedback that help
+learners do increasingly complex work independently.
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\section{Carl Rogers}\label{carl-rogers}
+
+\subsection{Experiential Learning}\label{experiential-learning}
+
+Carl Rogers distinguished between academic knowledge and experiential
+knowledge.
+
+\begin{itemize}
+\tightlist
+\item
+  Academic knowledge is often externally organized and assessed
+\item
+  Experiential learning responds to learners' purposes and real-life
+  concerns
+\item
+  Meaningful learning involves personal relevance and active
+  participation
+\item
+  A common example is learning to drive in order to meet a practical
+  need
+\end{itemize}
+
+\textbf{Instructional implication:} Learning experiences gain power when
+students see their relevance, make choices, pursue authentic tasks, and
+reflect on their development.
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\section{B. F. Skinner}\label{b.-f.-skinner}
+
+\subsection{Operant Conditioning}\label{operant-conditioning}
+
+B. F. Skinner argued that learning can be understood as changes in
+behavior shaped by consequences.
+
+\begin{itemize}
+\tightlist
+\item
+  Behaviors followed by reinforcement are more likely to recur
+\item
+  Consequences can strengthen, weaken, or shape responses over time
+\item
+  Learners can initiate responses rather than merely react to stimuli
+\item
+  The theory differs from simple stimulus-response association because
+  consequences play a central role
+\end{itemize}
+
+\textbf{Instructional implication:} Classroom routines, feedback,
+incentives, and consequences can influence participation and behavior;
+their use should be considered ethically and in relation to long-term
+learning goals.
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\section{Edward Thorndike}\label{edward-thorndike}
+
+\subsection{Connectionism}\label{connectionism}
+
+Edward Thorndike's connectionism proposed that learners form
+associations between stimuli and responses.
+
+\begin{itemize}
+\tightlist
+\item
+  Learning develops through trial and error
+\item
+  Rewarded responses are more likely to be strengthened
+\item
+  Practice and consequences can influence the formation of habits
+\item
+  The theory contributed to behaviorist approaches to learning
+\end{itemize}
+
+\textbf{Instructional implication:} Repetition, practice, feedback, and
+task design can matter for fluency, although complex understanding
+generally requires more than reinforced responses.
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\section{John B. Watson}\label{john-b.-watson}
+
+\subsection{Behaviorism}\label{behaviorism}
+
+John B. Watson argued that much human learning and behavior is shaped by
+experience rather than being genetically predetermined.
+
+\begin{itemize}
+\tightlist
+\item
+  Focused on observable behavior as the proper object of scientific
+  study
+\item
+  Minimized attention to unobservable mental processes
+\item
+  Helped establish behaviorism as an influential psychological tradition
+\item
+  Emphasized environmental influences on learning and behavior
+\end{itemize}
+
+\textbf{Instructional implication:} Observable actions and environmental
+conditions are important educational concerns, but behaviorist accounts
+may not fully capture learners' meaning-making, identity, or social
+context.
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\section{Max Wertheimer}\label{max-wertheimer}
+
+\subsection{Gestalt Theory}\label{gestalt-theory}
+
+Max Wertheimer's Gestalt theory argues that some ideas can only be
+understood as organized wholes rather than as isolated parts.
+
+\begin{itemize}
+\tightlist
+\item
+  The ``whole'' can be more meaningful than the sum of separate elements
+\item
+  Pattern recognition and structural insight matter in problem-solving
+\item
+  Understanding often involves seeing relationships among elements
+\item
+  The theory challenged purely atomistic accounts of learning
+\end{itemize}
+
+\textbf{Instructional implication:} Teachers can support learning by
+helping students identify patterns, relationships, systems, and the
+larger conceptual structure of a problem.
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+
+
+
+\end{document}

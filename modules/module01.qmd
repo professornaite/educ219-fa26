@@ -53,7 +53,7 @@ This module establishes key concepts, historical questions, and a few shared inq
 -   Professional identity and agency
 -   Historical thinking and historical significance
 
----
+------------------------------------------------------------------------
 
 ## Education vs. schooling
 
@@ -61,7 +61,7 @@ Although people often use the terms interchangeably, **education** and **schooli
 
 ![Framing education and schooling](../img/mod01/education-vs-school.jpg)
 
----
+------------------------------------------------------------------------
 
 ## Education vs. schooling
 
@@ -75,7 +75,7 @@ Education is the broad process through which people develop knowledge, skills, v
 
 ![Paulo Freire, Brazilian educator](../img/mod01/freire.jpg)
 
----
+------------------------------------------------------------------------
 
 ## Education vs. schooling
 
@@ -89,7 +89,7 @@ Schooling includes curriculum, assessment, policies, schedules, rules, professio
 
 ![Example of a traditional classroom](../img/mod01/banking.jpeg)
 
----
+------------------------------------------------------------------------
 
 ### Questions for discussion
 
@@ -100,7 +100,7 @@ Schooling includes curriculum, assessment, policies, schedules, rules, professio
 
 ![Peer groups provide socialization](../img/mod01/peers.jpg)
 
----
+------------------------------------------------------------------------
 
 ## Diversity
 
@@ -114,8 +114,7 @@ Diversity includes differences related to race, ethnicity, culture, language, ge
 Diversity is not simply a list of individual characteristics. It also concerns how institutions respond to differences and how social systems distribute recognition, resources, power, and opportunity.
 :::
 
-![What does it mean to be diverse?](../img/mod01/diversity.jpg)
----
+## ![What does it mean to be diverse?](../img/mod01/diversity.jpg)
 
 ### Diversity and educational opportunity
 
@@ -127,7 +126,7 @@ Race, culture, language, gender, income, and ability can shape:
 -   Discipline, special education, tracking, testing, and other institutional practices.
 -   Students’ experiences of belonging, safety, dignity, participation, and academic opportunity.
 
----
+------------------------------------------------------------------------
 
 ## Multiculturalism, diversity, and social justice
 
@@ -141,8 +140,7 @@ Multiculturalism is an approach that recognizes, studies, and values the histori
 In education, multicultural approaches may shape curriculum, texts, classroom discussion, school programming, and institutional practices.
 :::
 
-![Multiculturalism and multilingualism](../img/mod01/multiculturalism-without-multilingualism.jpg)
----
+## ![Multiculturalism and multilingualism](../img/mod01/multiculturalism-without-multilingualism.jpg)
 
 ::: callout-note
 ## Social justice
@@ -152,12 +150,11 @@ Social justice concerns the fair distribution of rights, resources, recognition,
 
 ![Connie North's (2006) Three Spheres of Social Justice](../img/mod01/North-three-spheres.png)
 
-----
+------------------------------------------------------------------------
 
 ## Equity and equality
 
 ::: callout-important
-
 **Equality** generally means providing the same resources, rules, or treatment to everyone.
 
 **Equity** means responding to unequal conditions, barriers, and needs in ways intended to make genuine access, participation, and opportunity possible.
@@ -165,8 +162,7 @@ Social justice concerns the fair distribution of rights, resources, recognition,
 The distinction matters because identical treatment does not always produce fair or equitable outcomes.
 :::
 
-![Equity, equality, reality](../img/mod01/equity-equality-reality.jpg)
----
+## ![Equity, equality, reality](../img/mod01/equity-equality-reality.jpg)
 
 ## Power, privilege, prejudice, and discrimination
 
@@ -174,7 +170,7 @@ Understanding schooling in American society requires attention to how social pow
 
 ![Wheel of power and privilege](../img/mod01/power-privilege.jpg)
 
----
+------------------------------------------------------------------------
 
 ::: callout-note
 ## Power
@@ -184,7 +180,7 @@ Power is the ability to shape decisions, define what counts as knowledge, distri
 
 ![The nation-state and power](../img/mod01/global-power.png)
 
----
+------------------------------------------------------------------------
 
 ::: callout-note
 ## Privilege
@@ -194,7 +190,7 @@ Privilege refers to unearned advantages or reduced barriers that individuals or 
 
 ![An example of white privilege](../img/mod01/privilege.jpg)
 
----
+------------------------------------------------------------------------
 
 ::: callout-note
 ## Prejudice
@@ -202,8 +198,7 @@ Privilege refers to unearned advantages or reduced barriers that individuals or 
 Prejudice is a preconceived judgment, belief, or attitude about a person or group that is not based on adequate knowledge or individual experience.
 :::
 
-![Prejudice is about our beliefs](../img/mod01/prejudice.jpg)
----
+## ![Prejudice is about our beliefs](../img/mod01/prejudice.jpg)
 
 ::: callout-note
 ## Discrimination
@@ -211,8 +206,7 @@ Prejudice is a preconceived judgment, belief, or attitude about a person or grou
 Discrimination is unequal treatment, exclusion, restriction, or harm directed toward people because of their membership in a social group or because they are perceived to belong to that group.
 :::
 
-![Discrimination is about our actions](../img/mod01/discrimination.jpg)
----
+## ![Discrimination is about our actions](../img/mod01/discrimination.jpg)
 
 ::: callout-important
 ## Systems of oppression
@@ -224,7 +218,7 @@ In this course, we will examine how such systems affect schooling, teaching, lea
 
 ![Systems of oppressions](../img/mod01/systems-of-oppression.png)
 
----
+------------------------------------------------------------------------
 
 ## Educational opportunity
 
@@ -238,7 +232,7 @@ Equal access refers to the principle that students should not be excluded from e
 Questions about equal access include who can enter schools, courses, programs, activities, and decision-making spaces, as well as what supports are necessary for meaningful participation.
 :::
 
----
+------------------------------------------------------------------------
 
 ### Questions for discussion
 
@@ -247,7 +241,7 @@ Questions about equal access include who can enter schools, courses, programs, a
 -   How do funding, transportation, housing, curriculum, discipline, testing, and teacher assignment shape access?
 -   What responsibilities do educators, policymakers, courts, families, and communities have for creating equitable educational conditions?
 
----
+------------------------------------------------------------------------
 
 ## Historical timelines and archival inquiry
 
@@ -263,10 +257,9 @@ Historical thinking asks us to consider why we examine the past in order to bett
 
 Historical artifacts and primary sources help us investigate how people, institutions, communities, policies, and events shaped educational experiences. In this course, historical inquiry is not only about identifying facts from the past; it is also about asking how evidence, interpretation, and historical context shape what we understand about schools and society.
 
-
 ![Image from ibb.co](../img/mod01/primary-source.jpg)
 
----
+------------------------------------------------------------------------
 
 ::: callout-tip
 ## Primary source
@@ -278,7 +271,7 @@ Examples include court opinions, laws, letters, newspaper articles, photographs,
 
 ![](../img/mod01/emancipationdaylarge.jpg)
 
----
+------------------------------------------------------------------------
 
 ::: callout-tip
 ## Historical artifact
@@ -296,7 +289,7 @@ A major historical event is an event that meets a stated set of criteria for his
 As part of the timeline activity, your group will develop and apply its own definition. The point is not merely to label an event “important,” but to explain what makes it historically significant, to whom, at what scale, and with what consequences.
 :::
 
----
+------------------------------------------------------------------------
 
 ### From physical to digital timelines
 
@@ -305,15 +298,14 @@ In this course, we will work with others to create physical timelines and then c
 Your group should have:
 
 -   Identified and defined criteria for major historical events.
--  Identified a set of "minor" historical events.
+-   Identified a set of "minor" historical events.
 
 Your groups will now:
 
 -   Identify and document two primary-source artifacts situated in your period.
 -   Insert event data and archival information into the class database.
 
----
-
+------------------------------------------------------------------------
 
 ::: callout-note
 ## Documentation guide
@@ -330,7 +322,7 @@ As you continue the timeline activity, consider:
 -   How can a local event be important even if it is not nationally known?
 -   How might a source be directly related to education without being classified as a major historical event?
 
----
+------------------------------------------------------------------------
 
 # Coming up: Philosophies of education
 

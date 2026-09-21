@@ -1,0 +1,39 @@
+---
+title: "Educational Theories and Theorists"
+format: html
+editor: visual
+---
+
+| Theorist | Theory/Focus | Description |
+|:------------|:------------|:---------------------------------------------|
+| James Banks | Multicultural Education | Developed a framework for integrating multicultural content into curricula, emphasizing five dimensions: content integration, knowledge construction, prejudice reduction, equity pedagogy, and empowering school culture. |
+| Django Paris | Culturally Sustaining Pedagogy | Extends culturally relevant pedagogy by focusing on sustaining linguistic, literate, and cultural pluralism as part of schooling for positive social transformation. |
+| Carter G. Woodson | Black Education | Advocated for the importance of Black history in education, founded Negro History Week (now Black History Month), and critiqued the "mis-education" of African Americans in his seminal work. |
+| Bob Moses | Literacy Education | Combined civil rights activism with litearcy education, viewing litearcy in areas like math as a civil right and tool for empowerment in underserved communities. |
+| Paulo Freire | Education for Liberation | Developed critical pedagogy, emphasizing dialogue, critical consciousness, and the idea that education should be a practice of freedom rather than domination. |
+| Jo-ann Archibald Q'um Q'um Xiiem | Indigenous Storywork | Developed a theoretical framework for using Indigenous stories in education, emphasizing seven principles: respect, responsibility, reciprocity, reverence, holism, interrelatedness, and synergy. |
+| Bryan McKinley Jones Brayboy | Tribal Critical Race Theory | Extends Critical Race Theory to address the specific needs of Indigenous peoples, emphasizing the role of storytelling in theory-building and Indigenous knowledge systems. |
+| Albert Bandura | Observational Learning Theory | Behavior can be learned through observation of others. |
+| Asa Hilliard | African-Centered Education | Emphasized the importance of cultural identity in education, particularly for African American students. Advocated for curriculum that includes African and African American history and culture. |
+| Abraham Maslow | Hierarchy of Needs | Humans naturally strive to satisfy needs. The five levels of needs, from lowest to highest, are: physiological, safety, love, esteem, self-actualization. Lower level needs must be satisfied before the individual can move on to satisfy higher level needs. |
+| Carol Dweck | Growth Mindset | Proposes that students' beliefs about their intelligence can significantly affect their motivation and achievement. Contrasts "fixed mindset" with "growth mindset" and its implications for learning. |
+| Erik Erikson | Socioemotional Development | Erikson's "Eight Stages of Man" describes a series of crises individuals pass through at different ages. The stages begin with "trust versus mistrust" in infancy and continue through a series of paired outcomes for each age through older adulthood. |
+| Festinger, Leon | Cognitive Dissonance | Inconsistencies between behaviors and beliefs motivate people to change. One basis for constructivism. |
+| Freud, Sigmund | Levels of Consciousness | The mind operates at different levels: conscious versus unconscious. He further subdivided the mind into the id (primitive motivations), ego (logical portion of the mind which acts to satisfy the id - when possible), and the super-ego (the conscience). |
+| Gloria Ladson-Billings | Culturally Relevant Pedagogy | Emphasizes the importance of including students' cultural backgrounds in all aspects of learning. Proposes that culturally relevant teaching must meet three criteria: academic success, cultural competence, and critical consciousness. |
+| Howard Gardner | Multiple Intelligences | Each individual possesses seven distinct and measurable forms of intelligence: linguistic, logical-mathematical, spatial, body-kinesthetic, musical, intrapersonal, and interpersonal. |
+| Ivan Pavlov | Classical Conditioning (Behaviorism) | The association of new responses with existing stimulus-response pairs. Classic example is pairing the ringing of a bell with presentation of food to dogs. After repeated pairing, the dogs will salivate upon hearing the bell (even if food is not presented). Original stimulus (S) response (R) pair is food -- salivate. New S-R pair is bell -- salivate. |
+| Jarvis Givens | Fugitive Pedagogy | Explores the hidden tradition of Black teaching, focusing on how African American educators historically navigated oppressive systems to provide quality education. Emphasizes the importance of understanding this history in current educational practices. |
+| Jean Piaget | Developmental Epistemology | Developmental stages of child development: 0-2 years: "sensorimotor" - motor development; 3-7 years: "preoperation" - intuitive; 8-11 years: "concrete operational" - logical, but non-abstract; 12-15 years: "formal operations" - abstract thinking |
+| Jerome Bruner | Constructivist Theory | Individuals actively construct knowledge by comparing new ideas or concepts with their current knowledge (schema or mental models). |
+| John Dewey | Learning by Doing | Learning occurs through experience. |
+| John Hattie | Visible Learning | Synthesizes meta-analyses to identify the most effective teaching strategies. Emphasizes the importance of evidence-based practice in education. |
+| Ken Robinson | Creativity in Education | Advocates for transforming education to nurture creativity and divergent thinking. Critiques standardized education and promotes personalized, diverse learning experiences. |
+| Lawrence Kohlberg | Stages of Moral Development | Pre-Conventional - based on self-centered interests; Conventional - based on conformity to local expectations; Post-Conventional - based on higher principles |
+| Locke, John | Tabula Rasa | The idea that individuals are "blank slates" on which teachers could "write" knowledge. A forerunner of behaviorism. |
+| Lev Vygotsky | Social Development Theory and ZPD | Social interaction is critical for cognitive development. Related to this is the idea of a "Zone of Proximal Development (ZPD)." Some skills, an individual can perform independently. Other skills can be performed if the individual has assistance. Skills that can be performed with assistance are said to be within an individual's ZPD. The ZPD is the theoretical basis for scaffolding. |
+| Rogers, Carl | Experiential Learning | Two types of knowledge: academic and experiential. Unlike academic knowledge, experiential knowledge is acquired to meet the needs of the learner, usually to complete an important, real-life task. Example: Learning to drive a car. |
+| Skinner, B.F. | Operant Conditioning (Behaviorism) | Learning is the result of changes in behavior. As stimulus-response cycles are reinforced, individuals are "conditioned" to respond. Distinguished from Connectionism because individuals can initiate responses, not merely respond to stimuli. |
+| Thorndike, Edward | Connectionism (Behaviorism) | Learners form associations or connections between a stimulus and a response. Through trial and error, rewarded responses would be strengthened. |
+| Watson, John | Behaviorism | Proposed that most human learning and behavior was controlled by experience (not genetically pre-determined). Believed the only behaviors that should be studied are the "observable" ones. |
+| Wertheimer, Max | Gestalt Theory | Some ideas can only be understood as part of a "bigger picture," important in problem-solving. |
