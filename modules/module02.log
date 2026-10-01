@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2023.8.26)  14 SEP 2026 17:05
+This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2023.8.26)  22 SEP 2026 08:00
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1009,22 +1009,29 @@ No file module02.toc.
 \tf@toc=\write3
 \openout3 = `module02.toc'.
 
+[1
 
-LaTeX Warning: File `../img/mod01/james-banks.jpg' not found on input line 231.
 
+]
+File: ../img/mod02/james-banks.jpg Graphic file (type bmp)
+<../img/mod02/james-banks.jpg>
+[2]
 
-! Unable to load picture or PDF file '../img/mod01/james-banks.jpg'.
+LaTeX Warning: File `../img/mod02/django-paris.jpg' not found on input line 289
+.
+
+! Unable to load picture or PDF file '../img/mod02/django-paris.jpg'.
 <to be read again> 
                    }
-l.231 ...spectratio]{../img/mod01/james-banks.jpg}
+l.289 ...ectratio]{../img/mod02/django-paris.jpg}}
                                                    
 Here is how much of TeX's memory you used:
- 23940 strings out of 476683
- 461510 string characters out of 5804047
- 1847018 words of memory out of 5000000
- 43877 multiletter control sequences out of 15000+600000
+ 23971 strings out of 476683
+ 462407 string characters out of 5804047
+ 1855018 words of memory out of 5000000
+ 43906 multiletter control sequences out of 15000+600000
  515867 words of font info for 63 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 108i,6n,121p,10603b,331s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 108i,7n,121p,10603b,418s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-No pages of output.
+Output written on module02.pdf (2 pages).

@@ -50,6 +50,38 @@ This module introduces historical traditions and contemporary discourses in phil
 
 ------------------------------------------------------------------------
 
+## Scholars
+
+::: {.columns}
+
+::: {.column width="50%"}
+![](images/web-du-bois.jpg){width="80%"}
+
+**W. E. B. Du Bois**
+:::
+
+::: {.column width="50%"}
+![](images/booker-t-washington.jpg){width="80%"}
+
+**Booker T. Washington**
+:::
+
+::: {.column width="50%"}
+![](images/scholar-3.jpg){width="80%"}
+
+**Scholar Name**
+:::
+
+::: {.column width="50%"}
+![](images/scholar-4.jpg){width="80%"}
+
+**Scholar Name**
+:::
+
+:::
+
+---
+
 ## James Banks
 
 ### Multicultural Education
@@ -539,3 +571,5 @@ Max Wertheimer’s Gestalt theory argues that some ideas can only be understood 
 **Instructional implication:** Teachers can support learning by helping students identify patterns, relationships, systems, and the larger conceptual structure of a problem.
 
 ------------------------------------------------------------------------
+
+
